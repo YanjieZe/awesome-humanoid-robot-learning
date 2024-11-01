@@ -9,7 +9,6 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
   - [Loco-Manipulation and Whole-Body-Control](#loco-manipulation-and-whole-body-control)
   - [Locomotion](#locomotion)
   - [Simulation Benchmark](#simulation-benchmark)
-- [Contact](#contact)
 
 ---
 
