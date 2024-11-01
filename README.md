@@ -4,10 +4,12 @@
 
 Feel free to pull a request for new papers/codes about humanoid robot learning.
 
-- [Manipulation](#Manipulation)
-- [Loco-Manipulation and Whole-Body-Control](#Loco-Manipulation-and-Whole-Body-Control)
-- [Locomotion](#Locomotion)
-- [Simulation Benchmark](#Simulation-Benchmark)
+- [Awesome-Humanoid-Robot-Learning](#awesome-humanoid-robot-learning)
+  - [Manipulation](#manipulation)
+  - [Loco-Manipulation and Whole-Body-Control](#loco-manipulation-and-whole-body-control)
+  - [Locomotion](#locomotion)
+  - [Simulation Benchmark](#simulation-benchmark)
+- [Contact](#contact)
 
 ---
 
@@ -59,4 +61,4 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 --- 
 # Contact
-If you have any questions/suggestions, feel free to email Yanjie Ze.
+If you have questions/suggestions, feel free to email Yanjie Ze.
