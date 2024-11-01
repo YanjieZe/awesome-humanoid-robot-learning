@@ -1,6 +1,6 @@
 # Awesome-Humanoid-Robot-Learning
 
-**Basic Info.** This repo collects academic papers about **humanoid robot learning**.  They are mainly categorized by the tasks they focus on. The papers with **open-sourced code** are added with a star🌟.
+**Basic Info.** This repo collects academic papers about **humanoid robot learning**.  They are mainly categorized by the tasks they focus on. The papers with **real robot experiments** are preferred in this list. The papers with **open-sourced code** are added with a star🌟.
 
 Feel free to pull a request for new papers/codes about humanoid robot learning.
 
