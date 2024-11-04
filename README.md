@@ -13,9 +13,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Manipulation
-
+- [arXiv 2024.11](https://arxiv.org/abs/2411.00704), Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.24221), EgoMimic: Scaling Imitation Learning via Egocentric Video, [website](https://egomimic.github.io/) / [code](https://github.com/SimarKareer/EgoMimic)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.18964), Learning to Look: Seeking Information for Decision Making via Policy Factorization, [website](https://robin-lab.cs.utexas.edu/learning2look/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/)
 - [2024.09](https://openreview.net/forum?id=55tYfHvanf), Bimanual Dexterity for Complex Tasks, [website](https://bidex-teleop.github.io/)
 - 🌟 [arXiv 2024.08](https://arxiv.org/abs/2408.11805), ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, [website](https://ace-teleop.github.io/) / [code](https://github.com/ACETeleop/ACETeleop)
