@@ -14,6 +14,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Manipulation
+- [arXiv 2024.11](https://arxiv.org/abs/2411.02214), DexHub and DART: Towards Internet-Scale Robot Data Collection, [website](https://dexhub.ai/project)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.00704), Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.24221), EgoMimic: Scaling Imitation Learning via Egocentric Video, [website](https://egomimic.github.io/) / [code](https://github.com/SimarKareer/EgoMimic)
