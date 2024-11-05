@@ -60,6 +60,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - 🌟 [arXiv 2024.09](https://arxiv.org/abs/2409.19795), The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, [website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) / [code](https://github.com/generalroboticslab/dukeHumanoidHardwareControl)
 - 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.21781), Berkeley Humanoid: A Research Platform for Learning-based Control, [website](https://berkeley-humanoid.com/) / [code](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
 - [2024.07](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/), Design and Control of a Bipedal Robotic Character, [youtube](https://youtu.be/7_LW7u-nk6Q?si=DTpHYW_fCOST26tR)
+- [2024.01](https://arxiv.org/abs/2104.09025), The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors
 
 ## Simulation Benchmark
 - [arXiv 2024.10](https://arxiv.org/abs/2410.24185), DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning, [website](https://dexmimicgen.github.io/)
