@@ -29,9 +29,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2024.11](https://arxiv.org/abs/2411.01349), The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
 - [arXiv 2024.10](https://arxiv.org/abs/2410.23234), EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21229), HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, [website](https://hover-versatile-humanoid.github.io/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.12773), Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions, [website](https://ut-austin-rpl.github.io/Harmon/)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.05681), Whole-Body Dynamic Throwing with Legged Manipulators
 - [arXiv 2024.09](https://arxiv.org/abs/2409.20514), Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation, [Website](https://opt2skill.github.io/)
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - 🌟 [arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus)
@@ -43,6 +45,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - 🌟 [arXiv 2023.09](https://arxiv.org/abs/2309.01952), Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [website](https://ut-austin-rpl.github.io/TRILL/) / [code](https://github.com/UT-Austin-RPL/TRILL)
 
 ## Locomotion
+- [arXiv 2024.11](https://arxiv.org/abs/2411.01919), Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.11825), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies, [website](https://lipschitz-constrained-policy.github.io/) / [code](https://github.com/zixuan417/smooth-humanoid-locomotion)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.03654), Learning Humanoid Locomotion over Challenging Terrain, [website](https://humanoid-challenging-terrain.github.io/)
 - [2024.10](https://openreview.net/forum?id=O0oK2bVist), Adapting Humanoid Locomotion over Challenging Terrain via Two-Phase Training, [website](https://sites.google.com/view/adapting-humanoid-locomotion/two-phase-training)
