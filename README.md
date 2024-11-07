@@ -14,6 +14,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Manipulation
+- [arXiv 2024.11](https://arxiv.org/abs/2411.04005), Object-Centric Dexterous Manipulation from Human Motion Data, [website](https://cypypccpy.github.io/obj-dex.github.io/)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.02214), DexHub and DART: Towards Internet-Scale Robot Data Collection, [website](https://dexhub.ai/project)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.00704), Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
@@ -29,6 +30,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2024.11](https://arxiv.org/abs/2411.03532), A Behavior Architecture for Fast Humanoid Robot Door Traversals, [video](https://www.youtube.com/playlist?list=PLXuyT8w3JVgMPaB5nWNRNHtqzRK8i68dy)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.01349), The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
 - [arXiv 2024.10](https://arxiv.org/abs/2410.23234), EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21229), HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, [website](https://hover-versatile-humanoid.github.io/)
