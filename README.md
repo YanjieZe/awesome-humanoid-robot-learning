@@ -38,6 +38,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2024.10](https://arxiv.org/abs/2410.05681), Whole-Body Dynamic Throwing with Legged Manipulators
 - [arXiv 2024.09](https://arxiv.org/abs/2409.20514), Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation, [Website](https://opt2skill.github.io/)
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
+- [arXiv 2024.07](https://arxiv.org/abs/2407.12381), Flow Multi-Support: Flow Matching Imitation Learning for Multi-Support Manipulation, [video](https://www.youtube.com/watch?v=OyXojqRasHU)
 - 🌟 [arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus)
 - [arXiv 2024.06](https://arxiv.org/abs/2406.06005), WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts, [website](https://lecar-lab.github.io/wococo/)
 - 🌟 [arXiv 2024.06](https://arxiv.org/abs/2406.08858), OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, [website](https://omni.human2humanoid.com/) / [code](https://github.com/LeCAR-Lab/human2humanoid)
