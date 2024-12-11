@@ -32,6 +32,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2024.12](https://arxiv.org/abs/2412.07773), **Mobile-TeleVision**: Predictive Motion Priors for Humanoid Whole-Body Control, [website](https://mobile-tv.github.io/)
 - arXiv 2024.12, **SPARK**: A Toolbox for Safe Humanoid Autonomy and Teleoperation, [website](https://intelligent-control-lab.github.io/spark/)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.03532), A Behavior Architecture for Fast Humanoid Robot Door Traversals, [video](https://www.youtube.com/playlist?list=PLXuyT8w3JVgMPaB5nWNRNHtqzRK8i68dy)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.01349), The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control
