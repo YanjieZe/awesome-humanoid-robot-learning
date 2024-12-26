@@ -68,6 +68,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2024.02](https://arxiv.org/abs/2402.19469), Humanoid Locomotion as Next Token Prediction, [website](https://humanoid-next-token-prediction.github.io/)
 - [arXiv 2024.02](https://arxiv.org/abs/2402.18294), Whole-body Humanoid Robot Locomotion with Human Reference, [website](https://greatsjk.github.io/Adam-PNDbotics/)
 - [arXiv 2024.01](https://arxiv.org/abs/2401.16889), Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control
+- [arXiv 2023.09](https://arxiv.org/abs/2309.12784), Learning to Walk and Fly with Adversarial Motion Priors
 - [arXiv 2023.03](https://arxiv.org/abs/2303.03381), Real-World Humanoid Locomotion with Reinforcement Learning, [website](https://learning-humanoid-locomotion.github.io/)
 - [arXiv 2023.02](https://arxiv.org/abs/2302.09450), Robust and Versatile Bipedal Jumping Control through Reinforcement Learning
 
