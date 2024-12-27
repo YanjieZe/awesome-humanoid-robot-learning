@@ -55,6 +55,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - 🌟 [arXiv 2024.02](https://arxiv.org/abs/2402.16796), Expressive Whole-Body Control for Humanoid Robots, [website](https://expressive-humanoid.github.io/) / [code](https://github.com/chengxuxin/expressive-humanoid)
 - [arXiv 2023.10](https://arxiv.org/abs/2310.03191), Sim-to-Real Learning for Humanoid Box Loco-Manipulation
 - 🌟 [arXiv 2023.09](https://arxiv.org/abs/2309.01952), Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [website](https://ut-austin-rpl.github.io/TRILL/) / [code](https://github.com/UT-Austin-RPL/TRILL)
+- [arXiv 2022.03](https://arxiv.org/abs/2203.06972), iCub3 Avatar System: Enabling Remote Fully-Immersive Embodiment of Humanoid Robots, [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adh3834)
 
 ## Locomotion
 - [arXiv 2024.12](https://arxiv.org/abs/2412.04453), **NaVILA**: Legged Robot Vision-Language-Action Model for Navigation, [website](https://navila-bot.github.io/)
