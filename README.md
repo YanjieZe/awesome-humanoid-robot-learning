@@ -84,6 +84,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2021.04](https://arxiv.org/abs/2104.09025), The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors
 
 ## Simulation Benchmark
+- 🌟 2025.01, MuJoCo Playground, [github](https://github.com/google-deepmind/mujoco_playground) / [website](https://playground.mujoco.org/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.17730), **Mimicking-Bench**: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, [website](https://mimicking-bench.github.io/)
 - 🌟 [arXiv 2024.12](https://arxiv.org/abs/2412.13211), **ManiSkill-HAB**: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks, [website](https://arth-shukla.github.io/mshab/)
 - arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) / [website](https://genesis-embodied-ai.github.io/)
