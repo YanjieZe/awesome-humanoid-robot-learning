@@ -34,6 +34,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Loco-Manipulation and Whole-Body-Control
+- 2025.02, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [website](https://project-instinct.github.io/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.15166), Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration
 - [arXiv 2024.12](https://arxiv.org/abs/2412.14172), Learning from Massive Human Videos for Universal Humanoid Pose Control, [website](https://usc-gvl.github.io/UH-1/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.13196), **ExBody2**: Advanced Expressive Humanoid Whole-Body Control, [website](https://exbody2.github.io/)
