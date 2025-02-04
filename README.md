@@ -5,37 +5,19 @@
 Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 - [Awesome-Humanoid-Robot-Learning](#awesome-humanoid-robot-learning)
-  - [Manipulation](#manipulation)
   - [Loco-Manipulation and Whole-Body-Control](#loco-manipulation-and-whole-body-control)
+  - [Manipulation](#manipulation)
   - [Locomotion](#locomotion)
   - [Hardware Design](#hardware-design)
   - [Simulation Benchmark](#simulation-benchmark)
 
 ---
 
-## Manipulation
-- [arXiv 2025.01](https://arxiv.org/abs/2501.04595), MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data
-- [arXiv 2024.12](https://arxiv.org/abs/2412.10631), ARMADA: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition, [website](https://nataliya.dev/armada)
-- [arXiv 2024.12](https://arxiv.org/abs/2412.00396), ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning
-- [arXiv 2024.11](https://arxiv.org/abs/2411.04005), Object-Centric Dexterous Manipulation from Human Motion Data, [website](https://cypypccpy.github.io/obj-dex.github.io/)
-- [arXiv 2024.11](https://arxiv.org/abs/2411.02214), DexHub and DART: Towards Internet-Scale Robot Data Collection, [website](https://dexhub.ai/project)
-- [arXiv 2024.11](https://arxiv.org/abs/2411.00704), Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck
-- 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
-- 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.24221), EgoMimic: Scaling Imitation Learning via Egocentric Video, [website](https://egomimic.github.io/) / [code](https://github.com/SimarKareer/EgoMimic)
-- [arXiv 2024.10](https://arxiv.org/abs/2410.18964), Learning to Look: Seeking Information for Decision Making via Policy Factorization, [website](https://robin-lab.cs.utexas.edu/learning2look/)
-- [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/)
-- [2024.09](https://openreview.net/forum?id=55tYfHvanf), Bimanual Dexterity for Complex Tasks, [website](https://bidex-teleop.github.io/)
-- 🌟 [arXiv 2024.08](https://arxiv.org/abs/2408.11805), ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, [website](https://ace-teleop.github.io/) / [code](https://github.com/ACETeleop/ACETeleop)
-- 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.01512), Open-TeleVision: Teleoperation with Immersive Active Visual Feedback, [website](https://robot-tv.github.io/) / [code](https://github.com/OpenTeleVision/TeleVision)
-- 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.03162), Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning, [website](https://dingry.github.io/projects/bunny_visionpro.html) / [code](https://github.com/Dingry/BunnyVisionPro)
-- 🌟 [arXiv 2024.04](https://arxiv.org/abs/2404.16823), Learning Visuotactile Skills with Two Multifingered Hands, [website](https://toruowo.github.io/hato/) / [code](https://github.com/toruowo/hato)
-- 🌟 [arXiv 2024.03](https://arxiv.org/abs/2403.07788), DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/) / [code](https://github.com/j96w/DexCap)
-- [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
-
-
 ## Loco-Manipulation and Whole-Body-Control
+- arXiv 2025.02, **HugWBC**: A Unified and General Humanoid Whole-Body Controller
+for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2025.02](https://agile.human2humanoid.com/), **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/)
-- 2025.02, **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [website](https://project-instinct.github.io/)
+- [arXiv 2025.02](https://arxiv.org/abs/2502.01465), **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [website](https://project-instinct.github.io/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.15166), Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration
 - [arXiv 2024.12](https://arxiv.org/abs/2412.14172), Learning from Massive Human Videos for Universal Humanoid Pose Control, [website](https://usc-gvl.github.io/UH-1/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.13196), **ExBody2**: Advanced Expressive Humanoid Whole-Body Control, [website](https://exbody2.github.io/)
@@ -59,6 +41,26 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2023.10](https://arxiv.org/abs/2310.03191), Sim-to-Real Learning for Humanoid Box Loco-Manipulation
 - 🌟 [arXiv 2023.09](https://arxiv.org/abs/2309.01952), Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, [website](https://ut-austin-rpl.github.io/TRILL/) / [code](https://github.com/UT-Austin-RPL/TRILL)
 - [arXiv 2022.03](https://arxiv.org/abs/2203.06972), iCub3 Avatar System: Enabling Remote Fully-Immersive Embodiment of Humanoid Robots, [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adh3834)
+
+## Manipulation
+- [arXiv 2025.01](https://arxiv.org/abs/2501.04595), MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data
+- [arXiv 2024.12](https://arxiv.org/abs/2412.10631), ARMADA: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition, [website](https://nataliya.dev/armada)
+- [arXiv 2024.12](https://arxiv.org/abs/2412.00396), ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning
+- [arXiv 2024.11](https://arxiv.org/abs/2411.04005), Object-Centric Dexterous Manipulation from Human Motion Data, [website](https://cypypccpy.github.io/obj-dex.github.io/)
+- [arXiv 2024.11](https://arxiv.org/abs/2411.02214), DexHub and DART: Towards Internet-Scale Robot Data Collection, [website](https://dexhub.ai/project)
+- [arXiv 2024.11](https://arxiv.org/abs/2411.00704), Learning to Look Around: Enhancing Teleoperation and Learning with a Human-like Actuated Neck
+- 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
+- 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.24221), EgoMimic: Scaling Imitation Learning via Egocentric Video, [website](https://egomimic.github.io/) / [code](https://github.com/SimarKareer/EgoMimic)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.18964), Learning to Look: Seeking Information for Decision Making via Policy Factorization, [website](https://robin-lab.cs.utexas.edu/learning2look/)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.11792), OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [website](https://ut-austin-rpl.github.io/OKAMI/)
+- [2024.09](https://openreview.net/forum?id=55tYfHvanf), Bimanual Dexterity for Complex Tasks, [website](https://bidex-teleop.github.io/)
+- 🌟 [arXiv 2024.08](https://arxiv.org/abs/2408.11805), ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, [website](https://ace-teleop.github.io/) / [code](https://github.com/ACETeleop/ACETeleop)
+- 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.01512), Open-TeleVision: Teleoperation with Immersive Active Visual Feedback, [website](https://robot-tv.github.io/) / [code](https://github.com/OpenTeleVision/TeleVision)
+- 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.03162), Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning, [website](https://dingry.github.io/projects/bunny_visionpro.html) / [code](https://github.com/Dingry/BunnyVisionPro)
+- 🌟 [arXiv 2024.04](https://arxiv.org/abs/2404.16823), Learning Visuotactile Skills with Two Multifingered Hands, [website](https://toruowo.github.io/hato/) / [code](https://github.com/toruowo/hato)
+- 🌟 [arXiv 2024.03](https://arxiv.org/abs/2403.07788), DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/) / [code](https://github.com/j96w/DexCap)
+- [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
+
 
 ## Locomotion
 - [arXiv 2024.12](https://arxiv.org/abs/2412.04453), **NaVILA**: Legged Robot Vision-Language-Action Model for Navigation, [website](https://navila-bot.github.io/)
