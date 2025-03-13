@@ -7,7 +7,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [Awesome-Humanoid-Robot-Learning](#awesome-humanoid-robot-learning)
   - [Loco-Manipulation and Whole-Body-Control](#loco-manipulation-and-whole-body-control)
   - [Manipulation](#manipulation)
-  - [Locomotion](#locomotion)
+  - [Locomotion and Navigation](#locomotion-and-navigation)
   - [Hardware Design](#hardware-design)
   - [Simulation Benchmark](#simulation-benchmark)
 
@@ -70,7 +70,8 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 
-## Locomotion
+## Locomotion and Navigation
+- [arXiv 2025.03](https://arxiv.org/abs/2503.09010), HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots
 - [arXiv 2025.03](https://arxiv.org/abs/2503.09015), Natural Humanoid Robot Locomotion with Generative Motion Prior
 - [arXiv 2025.03](https://arxiv.org/abs/2503.00692), Learning Perceptive Humanoid Locomotion over Challenging Terrain
 - [arXiv 2025.02](https://arxiv.org/abs/2502.16230), Learning Humanoid Locomotion with World Model Reconstruction
