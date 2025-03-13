@@ -71,6 +71,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion
+- [arXiv 2025.03](https://arxiv.org/abs/2503.09015), Natural Humanoid Robot Locomotion with Generative Motion Prior
 - [arXiv 2025.03](https://arxiv.org/abs/2503.00692), Learning Perceptive Humanoid Locomotion over Challenging Terrain
 - [arXiv 2025.02](https://arxiv.org/abs/2502.16230), Learning Humanoid Locomotion with World Model Reconstruction
 - [arXiv 2025.02](https://arxiv.org/abs/2502.17219), Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning
