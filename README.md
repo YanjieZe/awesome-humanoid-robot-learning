@@ -50,6 +50,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2022.03](https://arxiv.org/abs/2203.06972), iCub3 Avatar System: Enabling Remote Fully-Immersive Embodiment of Humanoid Robots, [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adh3834)
 
 ## Manipulation
+- [arXiv 2025.03](https://arxiv.org/abs/2503.14734), GR00T N1: An Open Foundation Model for Generalist Humanoid Robots
 - [arXiv 2025.03](https://arxiv.org/abs/2503.12725), Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions
 - [arXiv 2025.03](https://arxiv.org/abs/2503.13441), Humanoid Policy ~ Human Policy, [website](https://human-as-robot.github.io/)
 - arXiv 2025.02， Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids, [website](https://toruowo.github.io/recipe/)
