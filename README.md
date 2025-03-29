@@ -11,6 +11,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
   - [Locomotion and Navigation](#locomotion-and-navigation)
   - [Hardware Design](#hardware-design)
   - [Simulation Benchmark](#simulation-benchmark)
+  - [Physics-Based Character Simulation](#physics-based-character-simulation)
 
 ---
 
@@ -133,7 +134,10 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - 🌟 [arXiv 2024.04](https://arxiv.org/abs/2404.05695), Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [website](https://sites.google.com/view/humanoid-gym/) / [code](https://github.com/roboterax/humanoid-gym)
 - 🌟 [arXiv 2024.03](https://arxiv.org/abs/2403.10506), HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/) / [code](https://github.com/carlosferrazza/humanoid-bench)
 
+## Physics-Based Character Simulation
 
+- [arXiv 2025.03](https://arxiv.org/abs/2503.19901), TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
+- 🌟 [arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [code](https://github.com/Sirui-Xu/InterMimic)
 
 --- 
 # Contact
