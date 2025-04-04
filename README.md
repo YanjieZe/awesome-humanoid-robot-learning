@@ -142,6 +142,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 - [arXiv 2025.03](https://arxiv.org/abs/2503.19901), TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
 - 🌟 [arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [code](https://github.com/Sirui-Xu/InterMimic)
+- [arXiv 2023.06](https://arxiv.org/abs/2306.09532), Hierarchical Planning and Control for Box Loco-Manipulation
 - 🌟 [arXiv 2023.05](https://arxiv.org/abs/2305.06456), Perpetual Humanoid Control for Real-time Simulated Avatars, [code](https://github.com/ZhengyiLuo/PHC)
 
 --- 
