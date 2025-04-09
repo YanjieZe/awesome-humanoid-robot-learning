@@ -12,6 +12,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
   - [Hardware Design](#hardware-design)
   - [Simulation Benchmark](#simulation-benchmark)
   - [Physics-Based Character Animation](#physics-based-character-animation)
+  - [Human Motion Analysis](#human-motion-analysis)
 
 ---
 
@@ -145,6 +146,9 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2023.06](https://arxiv.org/abs/2306.09532), Hierarchical Planning and Control for Box Loco-Manipulation
 - 🌟 [arXiv 2023.05](https://arxiv.org/abs/2305.06456), Perpetual Humanoid Control for Real-time Simulated Avatars, [code](https://github.com/ZhengyiLuo/PHC)
 
+## Human Motion Analysis
+- arXiv 2025.04, Climber Force and Motion Estimation from Video, [website](https://rihat99.github.io/climb_force/)
+- arXiv 2025.03, ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate, [arXiv](https://arxiv.org/abs/2503.21268)
 --- 
 # Contact
 If you have questions/suggestions, feel free to email Yanjie Ze.
