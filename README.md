@@ -152,6 +152,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - 🌟 [arXiv 2024.03](https://arxiv.org/abs/2403.10506), HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/) / [code](https://github.com/carlosferrazza/humanoid-bench)
 
 ## Physics-Based Character Animation
+- [arXiv 2025.05](https://arxiv.org/abs/2505.04961v1), ADD: Physics-Based Motion Imitation with Adversarial Differential Discriminators
 - SIGGRAPH 2025, PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers, [website](https://michaelx.io/parc/index.html)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.11054), Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models
 - 🌟 [arXiv 2025.03](https://arxiv.org/abs/2503.19901) / CVPR 2025 Oral, TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
