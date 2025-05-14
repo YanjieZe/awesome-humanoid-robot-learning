@@ -64,7 +64,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.14734), GR00T N1: An Open Foundation Model for Generalist Humanoid Robots
 - [arXiv 2025.03](https://arxiv.org/abs/2503.12725), Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions
 - [arXiv 2025.03](https://arxiv.org/abs/2503.13441), Humanoid Policy ~ Human Policy, [website](https://human-as-robot.github.io/)
-- arXiv 2025.02， Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids, [website](https://toruowo.github.io/recipe/)
+- arXiv 2025.02, Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids, [website](https://toruowo.github.io/recipe/)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.02858), **Dexterous Safe Control** for Humanoids in Cluttered Environments via Projected Safe Set Algorithm
 - [arXiv 2025.01](https://arxiv.org/abs/2501.04595), MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data
 - [arXiv 2024.12](https://arxiv.org/abs/2412.10631), ARMADA: Augmented Reality for Robot Manipulation and Robot-Free Data Acquisition, [website](https://nataliya.dev/armada)
