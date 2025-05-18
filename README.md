@@ -172,6 +172,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10414), HUMOTO: A 4D Dataset of Mocap Human Object Interactions, [website](https://jiaxin-lu.github.io/humoto/)
 - arXiv 2025.04, Climber Force and Motion Estimation from Video, [website](https://rihat99.github.io/climb_force/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.21268), ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate
+- [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.html), Generating Diverse and Natural 3D Human Motions From Text
 
 --- 
 # Contact
