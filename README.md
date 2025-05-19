@@ -17,7 +17,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
-- [arXiv 2025.05](https://arxiv.org/abs/2505.02833), TWIST: Teleoperated Whole-Body Imitation System
+- [arXiv 2025.05](https://arxiv.org/abs/2505.02833), **TWIST: Teleoperated Whole-Body Imitation System**
+- [arXiv 2025.05](https://arxiv.org/abs/2505.10918), Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space
 - [arXiv 2025.05](https://arxiv.org/abs/2505.07294), HuB: Learning Extreme Humanoid Balance, [website](https://hub-robot.github.io/),
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.03728), PyRoki: A Modular Toolkit for Robot Kinematic Optimization, [website](https://pyroki-toolkit.github.io/)
