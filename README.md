@@ -168,6 +168,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2025.05](https://arxiv.org/abs/2504.10414), HUMOTO: A 4D Dataset of Mocap Human Object Interactions, [website](https://jiaxin-lu.github.io/humoto/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.23094), FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video, [website](https://vcai.mpi-inf.mpg.de/projects/FRAME/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10414), HUMOTO: A 4D Dataset of Mocap Human Object Interactions, [website](https://jiaxin-lu.github.io/humoto/)
 - arXiv 2025.04, Climber Force and Motion Estimation from Video, [website](https://rihat99.github.io/climb_force/)
