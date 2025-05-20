@@ -87,6 +87,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 ## Teleoperation
 - [arXiv 2025.05](https://arxiv.org/abs/2505.02833), TWIST: Teleoperated Whole-Body Imitation System
+- [arXiv 2025.05](https://arxiv.org/abs/2505.12748), TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation, [website](https://gorgeous2002.github.io/TeleOpBench/)
 - 🌟 [arXiv 2025.02](https://arxiv.org/abs/2502.13013), HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, [code](https://github.com/OpenRobotLab/OpenHomie)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.07773), Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control
 - 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)
