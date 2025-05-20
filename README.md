@@ -61,6 +61,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.05](https://arxiv.org/abs/2505.12705), DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories
 - [arXiv 2025.03](https://arxiv.org/abs/2503.24361), Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation, [website](https://co-training.github.io/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.14734), GR00T N1: An Open Foundation Model for Generalist Humanoid Robots
 - [arXiv 2025.03](https://arxiv.org/abs/2503.12725), Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions
