@@ -89,6 +89,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 ## Teleoperation
+- [arXiv 2025.05](https://arxiv.org/abs/2505.19530), Heavy lifting tasks via haptic teleoperation of a wheeled humanoid
 - [arXiv 2025.05](https://arxiv.org/abs/2505.02833), TWIST: Teleoperated Whole-Body Imitation System
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12748), TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation, [website](https://gorgeous2002.github.io/TeleOpBench/)
 - 🌟 [arXiv 2025.02](https://arxiv.org/abs/2502.13013), HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, [code](https://github.com/OpenRobotLab/OpenHomie)
