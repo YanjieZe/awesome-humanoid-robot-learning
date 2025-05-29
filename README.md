@@ -107,6 +107,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2025.05](https://arxiv.org/abs/2505.22642), FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control, [website](https://younggyo.me/fast_td3/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12679), Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion
 - [arXiv 2025.05](https://arxiv.org/abs/2505.08712), NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance
 - [arXiv 2025.03](https://arxiv.org/abs/2503.00923), HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion, [website](https://simonlinsx.github.io/HWC_Loco/)
