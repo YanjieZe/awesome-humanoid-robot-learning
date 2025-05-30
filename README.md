@@ -9,6 +9,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
   - [Manipulation](#manipulation)
   - [Teleoperation](#teleoperation)
   - [Locomotion and Navigation](#locomotion-and-navigation)
+  - [Sim-to-Real](#sim-to-real)
   - [Hardware Design](#hardware-design)
   - [Simulation Benchmark](#simulation-benchmark)
   - [Physics-Based Character Animation](#physics-based-character-animation)
@@ -134,6 +135,10 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2023.07](https://arxiv.org/abs/2307.10142), Benchmarking **Potential Based Rewards** for Learning Humanoid Locomotion, 
 - [arXiv 2023.03](https://arxiv.org/abs/2303.03381), Real-World Humanoid Locomotion with Reinforcement Learning, [website](https://learning-humanoid-locomotion.github.io/)
 - [arXiv 2023.02](https://arxiv.org/abs/2302.09450), Robust and Versatile Bipedal Jumping Control through Reinforcement Learning
+
+## Sim-to-Real
+- [arXiv 2025.02](https://arxiv.org/abs/2502.10894), Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation
+- [arXiv 2019.01](https://arxiv.org/abs/1901.08652), Learning Agile and Dynamic Motor Skills for Legged Robots
 
 ## Hardware Design
 - [arXiv 2025.04](https://arxiv.org/abs/2504.17249), Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot, [website](https://lite.berkeley-humanoid.org/) 
