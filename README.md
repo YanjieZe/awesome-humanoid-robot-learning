@@ -18,6 +18,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- arXiv 2025.06, General Motion Tracking for Humanoid Whole-Body Control, [website](https://gmt-humanoid.github.io/)
+- arXiv 2025.06, KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, [website](https://kungfu-bot.github.io/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09366), SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending
 - arXiv 2025.06, CLONE: Holistic Closed-Loop Whole-Body Teleoperation for Long-Horizon Humanoid Control, [website](https://humanoidclone.github.io/CLONE.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.02833), **TWIST: Teleoperated Whole-Body Imitation System**
