@@ -67,6 +67,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.06](https://arxiv.org/abs/2506.15666), Vision in Action: Learning Active Perception from Human Demonstrations
 - arXiv 2025.05, DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation, [website](https://dex-umi.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.11709), EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12705), DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories
