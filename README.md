@@ -201,6 +201,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - 🌟 [arXiv 2018.08](https://arxiv.org/abs/1804.02717), DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, [website](https://xbpeng.github.io/projects/DeepMimic/index.html) / [code](https://github.com/xbpeng/DeepMimic)
 
 ## Human Motion Analysis and Synthesis
+- arXiv 2025.07, Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data, [website](https://vankouf.github.io/MotionMillion/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.01425), GENMO: A GENeralist Model for Human MOtion, [website](https://research.nvidia.com/labs/dair/genmo/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.23094), FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video, [website](https://vcai.mpi-inf.mpg.de/projects/FRAME/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10414), HUMOTO: A 4D Dataset of Mocap Human Object Interactions, [website](https://jiaxin-lu.github.io/humoto/)
