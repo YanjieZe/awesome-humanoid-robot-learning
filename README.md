@@ -70,6 +70,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.07](https://arxiv.org/abs/2507.12440), EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos, [website](https://rchalyang.github.io/EgoVLA/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.15666), Vision in Action: Learning Active Perception from Human Demonstrations
 - arXiv 2025.05, DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation, [website](https://dex-umi.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.11709), EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
