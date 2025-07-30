@@ -216,6 +216,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - arXiv 2025.04, Climber Force and Motion Estimation from Video, [website](https://rihat99.github.io/climb_force/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.21268), ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate
 - [arXiv 2024.10](https://arxiv.org/abs/2410.03311), Scaling Large Motion Models with Million-Level Human Motions
+- [arXiv 2023.06](https://arxiv.org/abs/2306.00378), Example-based Motion Synthesis via Generative Motion Matching
 - [arXiv 2022.12](https://arxiv.org/abs/2212.02500), PhysDiff: Physics-Guided Human Motion Diffusion Model, [website](https://nvlabs.github.io/PhysDiff/)
 - [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.html), Generating Diverse and Natural 3D Human Motions From Text
 
