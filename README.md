@@ -156,6 +156,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 ## Sim-to-Real
 - [arXiv 2025.02](https://arxiv.org/abs/2502.10894), Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation
 - [arXiv 2019.01](https://arxiv.org/abs/1901.08652), Learning Agile and Dynamic Motor Skills for Legged Robots
+- [arXiv:2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 
 ## Hardware Design
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01125), iRonCub 3: The Jet-Powered Flying Humanoid Robot
