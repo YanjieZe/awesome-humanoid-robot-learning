@@ -125,6 +125,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2025.08](https://arxiv.org/abs/2508.01247), Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy
 - [arXiv 2025.07](https://www.arxiv.org/abs/2507.20217), Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots
 - arXiv 2025.07, LOVON: Legged Open-Vocabulary Object Navigator, [website](https://daojiepeng.github.io/LOVON/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.08840), MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains, [website](https://more-humanoid.github.io/)
