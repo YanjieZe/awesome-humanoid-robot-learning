@@ -169,6 +169,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv:2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 
 ## Hardware Design
+- [arXiv 2025.06](https://arxiv.org/abs/2506.07490), RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01125), iRonCub 3: The Jet-Powered Flying Humanoid Robot
 - [arXiv 2025.04](https://arxiv.org/abs/2504.17249), Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot, [website](https://lite.berkeley-humanoid.org/) 
 - [arXiv 2025.04](https://arxiv.org/abs/2504.13165), RUKA: Rethinking the Design of Humanoid Hands with Learning, [website](https://ruka-hand.github.io/)
