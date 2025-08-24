@@ -223,6 +223,8 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2018.11](https://arxiv.org/abs/1811.09656), Hierarchical visuomotor control of humanoids
 - [arXiv 2018.09](https://arxiv.org/abs/1809.04474), Multi-task Deep Reinforcement Learning with PopArt
 - 🌟 [arXiv 2018.08](https://arxiv.org/abs/1804.02717), DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, [website](https://xbpeng.github.io/projects/DeepMimic/index.html) / [code](https://github.com/xbpeng/DeepMimic)
+- [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
+
 
 ## Human Motion Analysis and Synthesis
 - arXiv 2025.07, Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data, [website](https://vankouf.github.io/MotionMillion/)
