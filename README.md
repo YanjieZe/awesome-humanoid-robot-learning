@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.08](https://arxiv.org/abs/2508.21043), HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning, [website](https://humanoid-table-tennis.github.io/)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.08241), BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion
 - [arXiv 2025.08](https://arxiv.org/abs/2508.00362), A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot
 - [arXiv 2025.07](https://arxiv.org/abs/2507.15649), EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation
