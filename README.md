@@ -24,6 +24,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.07](https://arxiv.org/abs/2507.15649), EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.07356), UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots
 - arXiv 2025.07, ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, [website](https://ulc-humanoid.github.io)
+- [arXiv 2025.06](https://arxiv.org/abs/2506.12779), From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots, [website](https://beingbeyond.github.io/BumbleBee/)
 - arXiv 2025.06, LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction, [website](https://ember-lab-berkeley.github.io/LeVERB-Website/)
 - arXiv 2025.06, General Motion Tracking for Humanoid Whole-Body Control, [website](https://gmt-humanoid.github.io/)
 - arXiv 2025.06, KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, [website](https://kungfu-bot.github.io/)
@@ -76,6 +77,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.07](https://arxiv.org/abs/2507.15597), Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos, [website](https://beingbeyond.github.io/Being-H0/) / [code](https://github.com/BeingBeyond/Being-H0) / [model](https://huggingface.co/collections/BeingBeyond/being-h0-688dcc58cbd6b452f16bd7ec)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.23523), H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.11498), Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming
 - [arXiv 2025.07](https://arxiv.org/abs/2507.12440), EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos, [website](https://rchalyang.github.io/EgoVLA/)
@@ -228,6 +230,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2025.08](https://arxiv.org/abs/2508.07863), Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model, [website](https://beingbeyond.github.io/Being-M0.5/)
 - arXiv 2025.07, Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data, [website](https://vankouf.github.io/MotionMillion/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.01425), GENMO: A GENeralist Model for Human MOtion, [website](https://research.nvidia.com/labs/dair/genmo/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.23094), FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video, [website](https://vcai.mpi-inf.mpg.de/projects/FRAME/)
