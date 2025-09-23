@@ -18,7 +18,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
-- [arXiv2025.09](https://arxiv.org/abs/2509.13200), StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening
+- [arXiv 2025.09](https://arxiv.org/abs/2509.13534), Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning
+- [arXiv 2025.09](https://arxiv.org/abs/2509.13200), StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening
 - [arXiv 2025.09](https://arxiv.org/abs/2509.13833), Track Any Motions under Any Disturbances, [website](https://zzk273.github.io/Any2Track/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.14353), DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion
 - [arXiv 2025.09](https://arxiv.org/abs/2509.13780), Behavior Foundation Model for Humanoid Robots, [website](https://bfm4humanoid.github.io/)
