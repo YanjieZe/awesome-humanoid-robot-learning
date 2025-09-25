@@ -137,7 +137,8 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
-- [arXiv 2025.11](https://arxiv.org/abs/2505.19214), Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments
+- [arXiv 2025.09](https://generalist-locomotion.github.io/), LocoFormer: Generalist Locomotion via Long-Context Adaptation
+- [arXiv 2025.05](https://arxiv.org/abs/2505.19214), Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments
 - [arXiv 2025.08](https://arxiv.org/abs/2508.03070), Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running
 - [arXiv 2025.08](https://arxiv.org/abs/2508.03068), Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching
 - [arXiv 2025.08](https://arxiv.org/abs/2508.01247), Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy
