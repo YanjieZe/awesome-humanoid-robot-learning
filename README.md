@@ -85,6 +85,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.09](https://arxiv.org/abs/2509.22578), EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.19301), Residual Off-Policy RL for Finetuning Behavior Cloning Policies
 - [arXiv 2025.07](https://arxiv.org/abs/2507.15597), Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos, [website](https://beingbeyond.github.io/Being-H0/) / [code](https://github.com/BeingBeyond/Being-H0) / [model](https://huggingface.co/collections/BeingBeyond/being-h0-688dcc58cbd6b452f16bd7ec)
 - [arXiv 2025.07](https://arxiv.org/abs/2507.23523), H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation
