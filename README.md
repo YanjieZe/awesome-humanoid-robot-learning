@@ -126,6 +126,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 ## Teleoperation
+- [arXiv 2025.10](https://arxiv.org/abs/2510.04353), Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation
 - arXiv 2025.08, CHILD: Controller for Humanoid Imitation and Live Demonstration a Whole-Body Humanoid Teleoperation System, [website](https://uiuckimlab.github.io/CHILD-pages/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.19530), Heavy lifting tasks via haptic teleoperation of a wheeled humanoid
 - [arXiv 2025.05](https://arxiv.org/abs/2505.02833), TWIST: Teleoperated Whole-Body Imitation System
