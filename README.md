@@ -90,6 +90,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.10](https://humanoideveryday.github.io/), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
 - [arXiv 2025.10](https://activeumi.github.io/), ActiveUMI: Robotic Manipulation with Active Perception from Robot‑Free Human Demonstrations
 - [arXiv 2025.09](https://arxiv.org/abs/2509.22578), EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.19301), Residual Off-Policy RL for Finetuning Behavior Cloning Policies
