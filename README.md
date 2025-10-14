@@ -18,6 +18,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System
+- [arXiv 2025.10](https://arxiv.org/abs/2510.11258), DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation
+- [arXiv 2025.10](https://arxiv.org/abs/2510.11682), Ego-Vision World Model for Humanoid Contact Planning
 - [arXiv 2025.10](https://arxiv.org/abs/2510.05070), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
 - [arXiv 2025.10](https://humanoid-exo.github.io/), HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
@@ -148,6 +151,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2025.10](https://arxiv.org/abs/2510.10851), Preference-Conditioned Multi-Objective RL for Integrated Command Tracking and Force Compliance in Humanoid Locomotion
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07152), DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction
 - [arXiv 2025.09](https://generalist-locomotion.github.io/), LocoFormer: Generalist Locomotion via Long-Context Adaptation
 - [arXiv 2025.05](https://arxiv.org/abs/2505.19214), Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments
