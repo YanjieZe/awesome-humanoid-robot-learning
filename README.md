@@ -94,6 +94,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 ## Manipulation
 - [website](https://lego-grasp.github.io/), Learning to Grasp Anything by Playing with Random Toys
+  - provide some intuition on imitation learning data collection: learn generalizable grasping from toy objects with different primitives to real-world objects
 - [arXiv 2025.10](https://humanoideveryday.github.io/), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
 - [arXiv 2025.10](https://activeumi.github.io/), ActiveUMI: Robotic Manipulation with Active Perception from Robot‑Free Human Demonstrations
 - [arXiv 2025.09](https://arxiv.org/abs/2509.22578), EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation
