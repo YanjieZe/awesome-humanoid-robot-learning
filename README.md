@@ -22,7 +22,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14952), From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance
 - [arXiv 2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System
 - [arXiv 2025.10](https://arxiv.org/abs/2510.11258), DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation
-- [arXiv 2025.10](https://arxiv.org/abs/2510.11682), Ego-Vision World Model for Humanoid Contact Planning
+- [arXiv 2025.10](https://arxiv.org/abs/2510.11682), Ego-Vision World Model for Humanoid Contact Planning, [website](https://ego-vcp.github.io/)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.05070), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
 - [arXiv 2025.10](https://humanoid-exo.github.io/), HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
