@@ -155,6 +155,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2025.10](https://arxiv.org/abs/2510.14947), Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion
 - [arXiv 2025.10](https://arxiv.org/abs/2510.10851), Preference-Conditioned Multi-Objective RL for Integrated Command Tracking and Force Compliance in Humanoid Locomotion
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07152), DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction
 - [arXiv 2025.09](https://generalist-locomotion.github.io/), LocoFormer: Generalist Locomotion via Long-Context Adaptation
