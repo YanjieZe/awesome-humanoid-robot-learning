@@ -60,12 +60,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.03728), PyRoki: A Modular Toolkit for Robot Kinematic Optimization, [website](https://pyroki-toolkit.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.03738), AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, [website](https://amo-humanoid.github.io/)
-
 - [arXiv 2025.05](https://arxiv.org/pdf/2505.17627),H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies,[website](https://h2compact.github.io/h2compact/)
-
-
 - [arXiv 2025.04](https://arxiv.org/pdf/2504.09532), [website],Embodied Chain of Action Reasoning with Multi-Modal Foundation Model for Humanoid Loco-manipulation,[website](https://humanoid-coa.github.io/)
-
 - [arXiv 2025.04](https://arxiv.org/abs/2504.16843v1), Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models
 - [arXiv 2025.04](https://arxiv.org/abs/2504.21738), LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning
 - [arXiv 2025.04](https://arxiv.org/abs/2504.14305), Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning, [website](https://almi-humanoid.github.io/)
@@ -223,6 +219,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.04259), ORCA: Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning, [website](https://www.orcahand.com/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.22459), Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models
 - 🌟 [arXiv 2025.02](https://arxiv.org/abs/2502.00893), **ToddlerBot**: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, [website](https://toddlerbot.github.io/) / [github](https://github.com/hshi74/toddlerbot)
+- [arXiv 2025.02](https://arxiv.org/abs/2502.12808), Exceeding the Maximum Speed Limit of the Joint Angle for the Redundant Tendon-driven Structures of Musculoskeletal Humanoids
 - [arXiv 2025.01](https://arxiv.org/abs/2501.05204), Design and Control of a Bipedal Robotic Character
 - 2024.11, Zeroth Bot, [Github](https://github.com/zeroth-robotics/zeroth-bot)
 - 🌟 [arXiv 2024.09](https://arxiv.org/abs/2409.19795), The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, [website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) / [code](https://github.com/generalroboticslab/dukeHumanoidHardwareControl)
