@@ -19,6 +19,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Loco-Manipulation and Whole-Body-Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.02832), TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
+- [arXiv 2025.10](https://arxiv.org/abs/2510.26280), Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments
 - [arXiv 2025.10](https://arxiv.org/abs/2510.18002), Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
 - [arXiv 2025.10](https://arxiv.org/abs/2510.17792), SoftMimic: Learning Compliant Whole-body Control from Examples
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14293), Learning Human-Humanoid Coordination for Collaborative Object Carrying
