@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.11](https://arxiv.org/abs/2511.07407), Unified Humanoid Fall-Safety Policy from a Few Demonstrations
 - [arXiv 2025.11](https://arxiv.org/abs/2511.03996), Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots
 - [arXiv 2025.11](https://arxiv.org/abs/2511.04131), BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning
 - [arXiv 2025.11](https://arxiv.org/abs/2511.04679), GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction
