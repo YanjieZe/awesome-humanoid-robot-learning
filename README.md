@@ -220,6 +220,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv:2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 
 ## Hardware Design
+- [arXiv 2025.11](https://arxiv.org/abs/2511.06796), Unified Humanoid Fall-Safety Policy from a Few Demonstrations
 - [github](https://github.com/TetherIA/aero-hand-open/tree/main), Aero Hand Open
 - [website](https://dexwrist.csail.mit.edu/), DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation
 - [website](https://bytewrist.github.io/), ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces
