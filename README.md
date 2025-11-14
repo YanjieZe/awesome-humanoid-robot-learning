@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.11](https://arxiv.org/abs/2511.10635), Robot Crash Course: Learning Soft and Stylized Falling
 - [website 2025.11](https://jc-bao.github.io/spider-project/), SPIDER: Scalable Physics-Informed DExterous Retargeting
 - [website 2025.11](https://nvlabs.github.io/SONIC/), SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07407), Unified Humanoid Fall-Safety Policy from a Few Demonstrations
@@ -223,6 +224,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv:2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 
 ## Hardware Design
+- [arXiv 2025.11](https://arxiv.org/abs/2511.10021), DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion
 - [arXiv 2025.11](https://arxiv.org/abs/2511.06796), Human-Level Actuation for Humanoids
 - [github](https://github.com/TetherIA/aero-hand-open/tree/main), Aero Hand Open
 - [website](https://dexwrist.csail.mit.edu/), DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation
