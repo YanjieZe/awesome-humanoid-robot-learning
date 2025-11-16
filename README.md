@@ -19,6 +19,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Loco-Manipulation and Whole-Body-Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10635), Robot Crash Course: Learning Soft and Stylized Falling
+- [arXiv 2025.11](https://arxiv.org/abs/2511.09241), Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots
 - [website 2025.11](https://jc-bao.github.io/spider-project/), SPIDER: Scalable Physics-Informed DExterous Retargeting
 - [website 2025.11](https://nvlabs.github.io/SONIC/), SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07407), Unified Humanoid Fall-Safety Policy from a Few Demonstrations
