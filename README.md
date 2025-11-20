@@ -114,6 +114,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Manipulation
+- [arXiv 2025.11](https://arxiv.org/abs/2511.15704), In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data
 - [pdf](https://openreview.net/attachment?id=JoK1hJg0Td&name=pdf), IN-N-ON: SCALING EGOCENTRIC MANIPULATION WITH IN-THE-WILD AND ON-TASK DATA
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07418), Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields
 - [arXiv 2025.11](https://arxiv.org/abs/2511.00153), EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations
