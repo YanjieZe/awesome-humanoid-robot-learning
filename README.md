@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.11](https://arxiv.org/abs/2511.15200), VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.14756), HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.11218), Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10635), Robot Crash Course: Learning Soft and Stylized Falling
