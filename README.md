@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.11](https://arxiv.org/abs/2511.18509), SafeFall: Learning Protective Control for Humanoid Robots
 - [arXiv 2025.11](https://arxiv.org/abs/2511.17373), Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data
 - [arXiv 2025.11](https://arxiv.org/abs/2511.15200), VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.14756), HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation
@@ -183,6 +184,8 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2025.11](https://arxiv.org/abs/2511.18857), AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion
+- [arXiv 2025.11](https://arxiv.org/abs/2511.19204), Reference-Free Sampling-Based Model Predictive Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.16306), InEKFormer: A Hybrid State Estimator for Humanoid Robots
 - [arXiv 2025.11](https://arxiv.org/abs/2511.14625), Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains
 - [arXiv 2025.10](https://arxiv.org/abs/2510.26236), PHUMA: Physically-Grounded Humanoid Locomotion Dataset
