@@ -315,6 +315,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.17544), PRIMAL Physically Reactive and Interactive Motor Model for Avatar Learning
 - [arXiv 2025.03](https://arxiv.org/abs/2503.21268), ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate
 - [arXiv 2024.10](https://arxiv.org/abs/2410.03311), Scaling Large Motion Models with Million-Level Human Motions
+- [arXiv 2024.05](https://arxiv.org/abs/2405.11126), Flexible Motion In-betweening with Diffusion Models
 - [arXiv 2024.04](https://arxiv.org/abs/2404.15121), Taming Diffusion Probabilistic Models for Character Control
 - [arXiv 2023.07](https://arxiv.org/abs/2307.15042), TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis
 - [arXiv 2023.06](https://arxiv.org/abs/2306.00378), Example-based Motion Synthesis via Generative Motion Matching
