@@ -319,6 +319,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2024.04](https://arxiv.org/abs/2404.15121), Taming Diffusion Probabilistic Models for Character Control
 - [arXiv 2023.07](https://arxiv.org/abs/2307.15042), TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis
 - [arXiv 2023.06](https://arxiv.org/abs/2306.00378), Example-based Motion Synthesis via Generative Motion Matching
+- [arXiv 2023.05](https://arxiv.org/abs/2305.12577), Guided Motion Diffusion for Controllable Human Motion Synthesis
 - [arXiv 2022.12](https://arxiv.org/abs/2212.02500), PhysDiff: Physics-Guided Human Motion Diffusion Model, [website](https://nvlabs.github.io/PhysDiff/)
 - [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.html), Generating Diverse and Natural 3D Human Motions From Text
 - [SIGGRAPH 2020](https://dl.acm.org/doi/abs/10.1145/3386569.3392440), Learned motion matching
