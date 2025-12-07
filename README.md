@@ -306,6 +306,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Human Motion Analysis and Synthesis
+- [website 2025.12](https://studios.disneyresearch.com/2025/12/03/implicit-bezier-motion-model-for-precise-spatial-and-temporal-control/), Implicit Bézier Motion Model for Precise Spatial and Temporal Control
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07863), Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model, [website](https://beingbeyond.github.io/Being-M0.5/)
 - arXiv 2025.07, Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data, [website](https://vankouf.github.io/MotionMillion/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.01425), GENMO: A GENeralist Model for Human MOtion, [website](https://research.nvidia.com/labs/dair/genmo/)
