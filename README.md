@@ -307,11 +307,13 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 ## Human Motion Analysis and Synthesis
 - [website 2025.12](https://studios.disneyresearch.com/2025/12/03/implicit-bezier-motion-model-for-precise-spatial-and-temporal-control/), Implicit Bézier Motion Model for Precise Spatial and Temporal Control
+- [arXiv 2025.12](https://arxiv.org/abs/2512.00960), Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07863), Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model, [website](https://beingbeyond.github.io/Being-M0.5/)
 - arXiv 2025.07, Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data, [website](https://vankouf.github.io/MotionMillion/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.01425), GENMO: A GENeralist Model for Human MOtion, [website](https://research.nvidia.com/labs/dair/genmo/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.23094), FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video, [website](https://vcai.mpi-inf.mpg.de/projects/FRAME/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.10414), HUMOTO: A 4D Dataset of Mocap Human Object Interactions, [website](https://jiaxin-lu.github.io/humoto/)
+- [arXiv 2025.04](https://arxiv.org/abs/2504.17695), PICO: Reconstructing 3D People In Contact with Objects
 - arXiv 2025.04, Climber Force and Motion Estimation from Video, [website](https://rihat99.github.io/climb_force/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.17544), PRIMAL Physically Reactive and Interactive Motor Model for Avatar Learning
 - [arXiv 2025.03](https://arxiv.org/abs/2503.21268), ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate
