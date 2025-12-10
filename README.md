@@ -239,6 +239,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv:2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 
 ## Hardware Design
+- [arXiv 2025.12](https://arxiv.org/abs/2512.08920), OSMO: Open-Source Tactile Glove for Human-to-Robot Skill Transfer
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10021), DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion
 - [arXiv 2025.11](https://arxiv.org/abs/2511.06796), Human-Level Actuation for Humanoids
 - [github](https://github.com/TetherIA/aero-hand-open/tree/main), Aero Hand Open
