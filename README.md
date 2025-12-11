@@ -247,6 +247,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [github](https://github.com/TetherIA/aero-hand-open/tree/main), Aero Hand Open
 - [website](https://dexwrist.csail.mit.edu/), DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation
 - [website](https://bytewrist.github.io/), ByteWrist: A Parallel Robotic Wrist Enabling Flexible and Anthropomorphic Motion for Confined Spaces
+- [arXiv 2025.07](https://arxiv.org/abs/2507.03227), Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting
 - [arXiv 2025.06](https://arxiv.org/abs/2506.07490), RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01125), iRonCub 3: The Jet-Powered Flying Humanoid Robot
 - [arXiv 2025.04](https://arxiv.org/abs/2504.17249), Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot, [website](https://lite.berkeley-humanoid.org/) 
@@ -260,10 +261,10 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - 🌟 [arXiv 2024.09](https://arxiv.org/abs/2409.19795), The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, [website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) / [code](https://github.com/generalroboticslab/dukeHumanoidHardwareControl)
 - 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.21781), Berkeley Humanoid: A Research Platform for Learning-based Control, [website](https://berkeley-humanoid.com/) / [code](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
 - [2024.07](https://la.disneyresearch.com/publication/design-and-control-of-a-bipedal-robotic-character/), Design and Control of a Bipedal Robotic Character, [youtube](https://youtu.be/7_LW7u-nk6Q?si=DTpHYW_fCOST26tR)
-- [TRO 2017](https://ieeexplore.ieee.org/document/7827048), Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high‑bandwidth physical interaction for dynamic legged robots
+- [nature communication 2021](https://www.nature.com/articles/s41467-021-27261-0), Integrated linkage-driven dexterous anthropomorphic robotic hand
 - [arXiv 2021.04](https://arxiv.org/abs/2104.09025), The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors
 - [arXiv 2019.04](https://arxiv.org/abs/1904.03815), Quasi-Direct Drive for Low-Cost Compliant Robotic Manipulation, [website](https://berkeleyopenarms.github.io/)
-
+- [TRO 2017](https://ieeexplore.ieee.org/document/7827048), Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high‑bandwidth physical interaction for dynamic legged robots
 
 ## Simulation Benchmark
 - 🌟 [arXiv 2025.07](https://arxiv.org/abs/2507.00833), HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning, [website](https://openhumanoidgen.github.io/)
