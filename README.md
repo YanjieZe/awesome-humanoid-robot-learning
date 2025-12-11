@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.12](https://arxiv.org/abs/2512.01336), Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning
 - [arXiv 2025.12](https://arxiv.org/abs/2512.01061), Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer
 - [arXiv 2025.11](https://arxiv.org/abs/2511.18509), SafeFall: Learning Protective Control for Humanoid Robots
 - [arXiv 2025.11](https://arxiv.org/abs/2511.17373), Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data
