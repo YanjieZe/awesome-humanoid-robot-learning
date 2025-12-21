@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.12](https://arxiv.org/abs/2512.13093), PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations
 - [arXiv 2025.12](https://arxiv.org/abs/2512.14689), CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.06571), Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input
 - [arXiv 2025.12](https://opendrivelab.com/WholeBodyVLA/static/pdf/WholeBodyVLA.pdf), WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control
