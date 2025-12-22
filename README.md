@@ -321,6 +321,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2025.12](https://arxiv.org/abs/2512.17900), Diffusion Forcing for Multi-Agent Interaction Sequence Modeling
 - [SIGGRAPH Asia 2025.12](https://dl.acm.org/doi/abs/10.1145/3763319), Control Operators for Interactive Character Animation
 - [website 2025.12](https://studios.disneyresearch.com/2025/12/03/implicit-bezier-motion-model-for-precise-spatial-and-temporal-control/), Implicit Bézier Motion Model for Precise Spatial and Temporal Control
 - [arXiv 2025.12](https://arxiv.org/abs/2512.00960), Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction
