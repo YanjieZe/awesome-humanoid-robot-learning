@@ -18,6 +18,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2025.12](https://arxiv.org/abs/2512.24321), UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots
+- [arXiv 2025.12](https://arxiv.org/abs/2512.25072), Coordinated Humanoid Manipulation with Choice Policies
 - [arXiv 2025.12](https://arxiv.org/abs/2512.13093), PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations
 - [arXiv 2025.12](https://arxiv.org/abs/2512.14689), CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.06571), Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input
