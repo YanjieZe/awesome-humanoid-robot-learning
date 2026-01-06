@@ -125,6 +125,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2022.12](https://arxiv.org/abs/2212.00541), Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo
 
 ## Manipulation
+- [arXiv 2026.01](https://arxiv.org/abs/2601.02078), Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot
 - [arXiv 2025.11](https://arxiv.org/abs/2511.16661), Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations
 - [arXiv 2025.11](https://arxiv.org/abs/2511.15704), In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data
 - [pdf](https://openreview.net/attachment?id=JoK1hJg0Td&name=pdf), IN-N-ON: SCALING EGOCENTRIC MANIPULATION WITH IN-THE-WILD AND ON-TASK DATA
