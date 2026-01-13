@@ -18,6 +18,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.01](https://arxiv.org/abs/2601.07701), Deep Whole-body Parkour
+- [arXiv 2026.01](https://arxiv.org/abs/2601.07718), Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids
 - [arXiv 2025.12](https://arxiv.org/abs/2512.24321), UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots
 - [arXiv 2025.12](https://arxiv.org/abs/2512.25072), Coordinated Humanoid Manipulation with Choice Policies
 - [arXiv 2025.12](https://arxiv.org/abs/2512.13093), PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations
