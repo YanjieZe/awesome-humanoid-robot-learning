@@ -197,6 +197,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2026.01](https://arxiv.org/abs/2601.10365), FastStair: Learning to Run Up Stairs with Humanoid Robots
 - [arXiv 2026.01](https://arxiv.org/abs/2601.08485), AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding
 - [website 2026.01](https://caltech-amber.github.io/planc/), Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN on Constrained Footholds
 - [arXiv 2025.12](https://arxiv.org/abs/2512.01996), Learning Sim-to-Real Humanoid Locomotion in 15 Minutes
