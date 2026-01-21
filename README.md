@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.01](https://arxiv.org/abs/2601.12799), FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions
 - [arXiv 2026.01](https://arxiv.org/abs/2601.09518), Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations
 - [arXiv 2026.01](https://arxiv.org/abs/2601.07701), Deep Whole-body Parkour
 - [arXiv 2026.01](https://arxiv.org/abs/2601.07718), Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids
@@ -197,6 +198,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion and Navigation
+- [arXiv 2026.01](https://arxiv.org/abs/2601.12790), FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation
 - [arXiv 2026.01](https://arxiv.org/abs/2601.10365), FastStair: Learning to Run Up Stairs with Humanoid Robots
 - [arXiv 2026.01](https://arxiv.org/abs/2601.08485), AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding
 - [website 2026.01](https://caltech-amber.github.io/planc/), Walk the PLANC: Physics‑Guided RL for Agile Humanoid LocomotioN on Constrained Footholds
