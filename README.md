@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.01](https://arxiv.org/abs/2601.16035), Collision-Free Humanoid Traversal in Cluttered Indoor Scenes
 - [arXiv 2026.01](https://arxiv.org/abs/2601.12799), FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions
 - [arXiv 2026.01](https://arxiv.org/abs/2601.09518), Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations
 - [arXiv 2026.01](https://arxiv.org/abs/2601.07701), Deep Whole-body Parkour
