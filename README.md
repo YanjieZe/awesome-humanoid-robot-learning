@@ -261,6 +261,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv:2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 
 ## Hardware Design
+- [arXiv 2026.01](https://arxiv.org/abs/2601.18963), Fauna Sprout: A lightweight, approachable, developer-ready humanoid robot
 - [arXiv 2025.12](https://arxiv.org/abs/2512.24657), Antagonistic Bowden-Cable Actuation of a Lightweight Robotic Hand: Toward Dexterous Manipulation for Payload Constrained Humanoids
 - [arXiv 2025.12](https://arxiv.org/abs/2512.16705), Olaf: Bringing an Animated Character to Life in the Physical World
 - [github](https://github.com/MuShibo/Micro-Wheeled_leg-Robot), Micro-Wheeled_leg-Robot
