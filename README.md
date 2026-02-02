@@ -18,6 +18,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.01](https://arxiv.org/abs/2601.23080), Robust and Generalized Humanoid Motion Tracking
+- [arXiv 2026.01](https://arxiv.org/abs/2601.22517), RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing
 - [arXiv 2026.01](https://arxiv.org/abs/2601.17440), PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes
 - [arXiv 2026.01](https://arxiv.org/abs/2601.16035), Collision-Free Humanoid Traversal in Cluttered Indoor Scenes
 - [arXiv 2026.01](https://arxiv.org/abs/2601.12799), FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions
