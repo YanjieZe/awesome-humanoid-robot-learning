@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.02473), HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos
 - [arXiv 2026.01](https://arxiv.org/abs/2601.23080), Robust and Generalized Humanoid Motion Tracking
 - [arXiv 2026.01](https://arxiv.org/abs/2601.22517), RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing
 - [arXiv 2026.01](https://arxiv.org/abs/2601.17440), PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes
@@ -180,6 +181,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 ## Teleoperation
+- [arXiv 2026.02](https://arxiv.org/abs/2602.01632), A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.02832), TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
 - [arXiv 2025.10](https://arxiv.org/abs/2510.04353), Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation
 - arXiv 2025.08, CHILD: Controller for Humanoid Imitation and Live Demonstration a Whole-Body Humanoid Teleoperation System, [website](https://uiuckimlab.github.io/CHILD-pages/)
