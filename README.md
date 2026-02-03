@@ -134,6 +134,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2022.12](https://arxiv.org/abs/2212.00541), Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo
 
 ## Manipulation
+- [Science Robotics 2026.01](https://www.science.org/doi/10.1126/scirobotics.ady2869), Visual-tactile pretraining and online multitask learning for humanlike manipulation dexterity
 - [arXiv 2026.01](https://arxiv.org/abs/2601.05844), DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation
 - [arXiv 2026.01](https://arxiv.org/abs/2601.02078), Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot
 - [arXiv 2025.11](https://arxiv.org/abs/2511.16661), Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations
