@@ -18,6 +18,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.00401), ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02473), HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos
 - [arXiv 2026.01](https://arxiv.org/abs/2601.23080), Robust and Generalized Humanoid Motion Tracking
 - [arXiv 2026.01](https://arxiv.org/abs/2601.22517), RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing
