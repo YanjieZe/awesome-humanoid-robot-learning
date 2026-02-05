@@ -140,6 +140,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2022.12](https://arxiv.org/abs/2212.00541), Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo
 
 ## Manipulation
+- [website](https://dreamzero0.github.io/), DreamZero: World Action Models are Zero-shot Policies
 - [website](https://co-training-lbm.github.io/), A Systematic Study of Data Modalities and Strategies for Co-training Large Behavior Models for Robot Manipulation
 - [Science Robotics 2026.01](https://www.science.org/doi/10.1126/scirobotics.ady2869), Visual-tactile pretraining and online multitask learning for humanlike manipulation dexterity
 - [arXiv 2026.01](https://arxiv.org/abs/2601.05844), DexterCap: An Affordable and Automated System for Capturing Dexterous Hand-Object Manipulation
