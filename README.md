@@ -21,6 +21,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.05310), Learning Soccer Skills for Humanoid Robots:   A Progressive Perception-Action Framework
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02331), TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour
 - [arXiv 2026.02](https://arxiv.org/abs/2602.04851), PDF-HR: Pose Distance Fields for Humanoid Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02960), Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control
@@ -214,6 +215,8 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion
+- [arXiv 2026.02](https://arxiv.org/abs/2602.05855), A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion
+- [arXiv 2026.02](https://arxiv.org/abs/2602.05791), Scalable and General Whole-Body Control for Cross-Humanoid Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.03002), RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains
 - [arXiv 2026.02](https://arxiv.org/abs/2602.03511), CMR: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains
 - [arXiv 2026.01](https://arxiv.org/abs/2601.10365), FastStair: Learning to Run Up Stairs with Humanoid Robots
@@ -269,6 +272,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.09010), HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots
 - [arXiv 2024.12](https://arxiv.org/abs/2412.04453), **NaVILA**: Legged Robot Vision-Language-Action Model for Navigation, [website](https://navila-bot.github.io/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.00396), ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning
+- [arXiv 2023.10](https://arxiv.org/abs/2310.07896), NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration
 
 ## State Estimation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.18857), AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion
