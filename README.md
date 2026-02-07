@@ -215,6 +215,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion
+- [arXiv 2026.02](https://arxiv.org/abs/2602.00678), Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05855), A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05791), Scalable and General Whole-Body Control for Cross-Humanoid Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.03002), RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains
