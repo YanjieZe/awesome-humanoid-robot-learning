@@ -21,6 +21,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.06827), DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization
+- [arXiv 2026.02](https://arxiv.org/abs/2602.06643), Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations, [website](https://humanoid-manipulation-interface.github.io)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05310), Learning Soccer Skills for Humanoid Robots:   A Progressive Perception-Action Framework
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02331), TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour
 - [arXiv 2026.02](https://arxiv.org/abs/2602.04851), PDF-HR: Pose Distance Fields for Humanoid Robots
@@ -143,6 +145,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [arXiv 2022.12](https://arxiv.org/abs/2212.00541), Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo
 
 ## Manipulation
+- [arXiv 2026.02](https://arxiv.org/abs/2602.06949), DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos, [website](https://dreamdojo-world.github.io/)
 - [website](https://dreamzero0.github.io/), DreamZero: World Action Models are Zero-shot Policies
 - [website](https://co-training-lbm.github.io/), A Systematic Study of Data Modalities and Strategies for Co-training Large Behavior Models for Robot Manipulation
 - [Science Robotics 2026.01](https://www.science.org/doi/10.1126/scirobotics.ady2869), Visual-tactile pretraining and online multitask learning for humanlike manipulation dexterity
@@ -215,6 +218,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion
+- [arXiv 2026.02](https://arxiv.org/abs/2602.06382), Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00678), Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05855), A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05791), Scalable and General Whole-Body Control for Cross-Humanoid Locomotion
