@@ -21,6 +21,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.06341), HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06827), DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06643), Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations, [website](https://humanoid-manipulation-interface.github.io)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05310), Learning Soccer Skills for Humanoid Robots:   A Progressive Perception-Action Framework
@@ -218,6 +219,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion
+- [arXiv 2026.02](https://arxiv.org/abs/2602.06445), ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06382), Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00678), Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05855), A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion
