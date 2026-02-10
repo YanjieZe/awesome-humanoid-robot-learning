@@ -21,6 +21,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.08594), MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation
+- [arXiv 2026.02](https://arxiv.org/abs/2602.08370), Learning Human-Like Badminton Skills for Humanoid Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06341), HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06827), DynaRetarget: Dynamically-Feasible Retargeting using Sampling-Based Trajectory Optimization
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06643), Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations, [website](https://humanoid-manipulation-interface.github.io)
@@ -295,6 +297,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Sim-to-Real
+- [arXiv 2026.02](https://arxiv.org/abs/2602.08594), MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00401), ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control
 - [arXiv 2025.09](https://arxiv.org/abs/2509.06342), Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots
 - [arXiv 2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
