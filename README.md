@@ -21,6 +21,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.13850), Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement
+- [arXiv 2026.02](https://arxiv.org/abs/2602.11929), General Humanoid Whole-Body Control via Pretraining and Fast Adaptation
+- [arXiv 2026.02](https://arxiv.org/abs/2602.11758), HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model, [website](https://haic-humanoid.github.io/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.08594), MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.08370), Learning Human-Like Badminton Skills for Humanoid Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06341), HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation
@@ -77,6 +80,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
 - [arXiv 2025.10](https://omniretarget.github.io/), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction
 - [arXiv 2025.10](https://arxiv.org/abs/2509.20322), VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation
+- [arXiv 2025.09](https://arxiv.org/abs/2509.26633), Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching, [website](https://php-parkour.github.io/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16638), KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
 - [arXiv 2025.09](https://arxiv.org/abs/2509.13534), Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning
@@ -198,6 +202,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 ## Teleoperation
+- [arXiv 2026.02](https://arxiv.org/abs/2602.11321), ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.01632), A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.02832), TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System
 - [arXiv 2025.10](https://arxiv.org/abs/2510.04353), Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation
@@ -221,6 +226,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 
 
 ## Locomotion
+- [arXiv 2026.02](https://arxiv.org/abs/2602.11143), APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots, [website](https://apex-humanoid.github.io/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06445), ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06382), Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00678), Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion
