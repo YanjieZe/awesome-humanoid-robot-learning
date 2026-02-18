@@ -21,6 +21,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.15827), Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching, [website](https://php-parkour.github.io/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.13850), Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11929), General Humanoid Whole-Body Control via Pretraining and Fast Adaptation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11758), HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model, [website](https://haic-humanoid.github.io/)
@@ -80,7 +81,6 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
 - [arXiv 2025.10](https://omniretarget.github.io/), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction
 - [arXiv 2025.10](https://arxiv.org/abs/2509.20322), VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation
-- [arXiv 2025.09](https://arxiv.org/abs/2509.26633), Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching, [website](https://php-parkour.github.io/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16638), KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
 - [arXiv 2025.09](https://arxiv.org/abs/2509.13534), Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning
