@@ -305,6 +305,7 @@ for Fine-Grained Locomotion, [website](https://hugwbc.github.io/)
 ## Sim-to-Real
 - [arXiv 2026.02](https://arxiv.org/abs/2602.08594), MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00401), ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control
+- [arXiv 2026.01](https://arxiv.org/abs/2601.21363), Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control
 - [arXiv 2025.09](https://arxiv.org/abs/2509.06342), Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots
 - [arXiv 2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24068), DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control
