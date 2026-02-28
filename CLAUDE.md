@@ -42,3 +42,7 @@ Commit messages are short and descriptive, e.g.:
 - `Add <Paper Name> paper`
 - `Add <Venue> <Paper Name>`
 - `Update <Paper Name> paper to new arXiv version`
+
+## Workflow
+
+After adding new papers, automatically commit and push to the remote repository.
