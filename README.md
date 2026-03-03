@@ -32,6 +32,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.02](https://arxiv.org/abs/2602.13850), Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11929), General Humanoid Whole-Body Control via Pretraining and Fast Adaptation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11758), HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model, [website](https://haic-humanoid.github.io/)
+- [arXiv 2026.02](https://arxiv.org/abs/2602.10106), EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration, [website](https://opendrivelab.com/EgoHumanoid/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.08594), MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.08370), Learning Human-Like Badminton Skills for Humanoid Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.07439), TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control
