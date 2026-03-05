@@ -23,6 +23,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.03](https://arxiv.org/abs/2603.03279), ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation, [website](https://ultra-humanoid.github.io/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.23843), OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21723), LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations, [website](https://yzhu.io/preprint/humanoid2026lessmimic/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.16705), Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation
