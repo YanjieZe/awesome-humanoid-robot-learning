@@ -23,6 +23,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.03](https://arxiv.org/abs/2603.08619), Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery
 - [arXiv 2026.03](https://arxiv.org/abs/2603.03279), ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation, [website](https://ultra-humanoid.github.io/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.23843), OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21723), LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations, [website](https://yzhu.io/preprint/humanoid2026lessmimic/)
@@ -195,7 +196,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2025.06, CLONE: Holistic Closed-Loop Whole-Body Teleoperation for Long-Horizon Humanoid Control, [website](https://humanoidclone.github.io/CLONE.github.io/)
 - [arXiv 2025.02](https://agile.human2humanoid.com/), **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, [website](https://agile.human2humanoid.com/)
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
-- [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters, 
+- [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 
 ## Manipulation
 - [arXiv 2026.03](https://arxiv.org/abs/2603.05493), cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots
