@@ -300,7 +300,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ## Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21666), Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11143), APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots, [website](https://apex-humanoid.github.io/)
-- [arXiv 2026.02](https://arxiv.org/abs/2602.06445), ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking
+- 🌟 [arXiv 2026.02](https://arxiv.org/abs/2602.06445), ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking, [website](https://sites.google.com/view/eco-humanoid) / [code](https://github.com/bigai-ai/ECO-humanoid)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06382), Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05855), A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion
 - [arXiv 2026.02](https://arxiv.org/abs/2602.05791), Scalable and General Whole-Body Control for Cross-Humanoid Locomotion
