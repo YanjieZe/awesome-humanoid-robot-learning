@@ -23,6 +23,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.03](https://arxiv.org/abs/2603.10306), SteadyTray: Learning Object Balancing Tasks in Humanoid Tray Transport via Residual Reinforcement Learning, [website](https://steadytray.github.io/)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.09170), ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video, [website](https://zerowbc.github.io/)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.08619), Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery
 - [arXiv 2026.03](https://arxiv.org/abs/2603.03279), ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation, [website](https://ultra-humanoid.github.io/)
