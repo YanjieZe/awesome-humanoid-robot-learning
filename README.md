@@ -23,6 +23,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- 🌟[website 2026.03](https://zzk273.github.io/LATENT/), LATENT: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data
 - [arXiv 2026.03](https://arxiv.org/abs/2603.12263), Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation
 - [arXiv 2026.03](https://arxiv.org/abs/2603.10306), SteadyTray: Learning Object Balancing Tasks in Humanoid Tray Transport via Residual Reinforcement Learning, [website](https://steadytray.github.io/)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.09170), ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video, [website](https://zerowbc.github.io/)
