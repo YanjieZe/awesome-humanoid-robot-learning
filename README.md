@@ -548,6 +548,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Human Motion Analysis and Synthesis
+- [website 2026.03](https://research.nvidia.com/labs/sil/projects/kimodo/), Kimodo: Scaling Controllable Human Motion Generation
 - [arXiv 2026.02](https://arxiv.org/abs/2602.23205), EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents
 - [arXiv 2026.02](https://arxiv.org/abs/2602.22209), WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos, [website](https://judyye.github.io/whole-www/)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.17900), Diffusion Forcing for Multi-Agent Interaction Sequence Modeling
