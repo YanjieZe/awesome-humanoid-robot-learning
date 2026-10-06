@@ -23,6 +23,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arxiv 2026.09](https://arxiv.org/abs/2609.36602), OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport, [website](https://simple-robotics.github.io/publications/otretarget/)
 - [arXiv 2026.06](https://arxiv.org/abs/2606.03297), SplitAdapter: Load-Aware Humanoid Loco-Manipulation via Factorized Adaptation, [website](https://splitadapter.github.io/)
 - 🌟 [arXiv 2026.05](https://arxiv.org/abs/2605.20373), SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework, [website](https://tianshuwu.github.io/sugar-humanoid/) / [code](https://github.com/tianshuwu/SUGAR)
 - [arXiv 2026.05](https://arxiv.org/abs/2605.06593), ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting
