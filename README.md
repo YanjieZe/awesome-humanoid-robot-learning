@@ -1022,6 +1022,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.03](https://arxiv.org/abs/2503.10626), NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models
 - 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [code](https://github.com/Sirui-Xu/InterMimic)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.05641), Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs
+- [arXiv 2024.12](https://arxiv.org/abs/2412.03949), Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation
 - [arXib 2024.10](https://arxiv.org/abs/2410.03441), CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, [website](https://guytevet.github.io/CLoSD-page/)
 - 🌟[arXiv 2024.09](https://arxiv.org/abs/2409.14393), MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting, [website](https://research.nvidia.com/labs/par/maskedmimic/)
 - [arXiv 2024.08](https://arxiv.org/abs/2408.15270), SkillMimic: Learning Basketball Interaction Skills from Demonstrations
