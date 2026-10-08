@@ -6,6 +6,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ![Word Cloud](assets/wordcloud.png)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/paper_growth_dark.png">
+  <img alt="Paper growth: total papers in the list and new papers per month" src="assets/paper_growth.png">
+</picture>
+
 - [Awesome-Humanoid-Robot-Learning    ](#awesome-humanoid-robot-learning----)
   - [Loco-Manipulation and Whole-Body-Control](#loco-manipulation-and-whole-body-control)
   - [Manipulation](#manipulation)

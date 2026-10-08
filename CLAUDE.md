@@ -55,4 +55,5 @@ A cloud routine runs this every day. To run it by hand:
 2. Judge each candidate with `scripts/curation_guide.md` and write a results JSON
    (`[{"id", "include", "sections", "line"}]`)
 3. `python3 scripts/insert_papers.py results.json` — inserts into the right sections in sorted order and records rejected IDs in `scripts/excluded_ids.txt`
-4. Commit README.md and `scripts/excluded_ids.txt` as `Add N papers from arXiv (YYYY-MM-DD)` and push
+4. `python3 scripts/generate_growth.py` — refreshes `assets/paper_growth*.png` (needs matplotlib)
+5. Commit README.md, `scripts/excluded_ids.txt` and `assets/paper_growth*.png` as `Add N papers from arXiv (YYYY-MM-DD)` and push
