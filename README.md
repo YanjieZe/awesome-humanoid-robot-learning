@@ -759,6 +759,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.05](https://arxiv.org/abs/2505.03729), VideoMimic: Visual imitation enables contextual humanoid control, [website](https://www.videomimic.net/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.20808), SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings
 - [arXiv 2025.04](https://arxiv.org/abs/2504.13619), Robust Humanoid Walking on Compliant and Uneven Terrain with Deep RL
+- [IROS 2025](https://arxiv.org/abs/2504.10390), Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain
 - [arXiv 2025.04](https://arxiv.org/abs/2504.09833), PPF: Pre-training and Preservative Fine-tuning of Humanoid Locomotion
 - [arXiv 2025.04](https://arxiv.org/abs/2504.08246), Spectral Normalization for Lipschitz-Constrained Policies on Learning Humanoid Locomotion
 - [arXiv 2025.04](https://arxiv.org/abs/2504.00614), Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs
