@@ -237,7 +237,15 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.03](https://arxiv.org/abs/2603.09170), ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video, [website](https://zerowbc.github.io/)
 - 🌟[arXiv 2026.03](https://arxiv.org/abs/2603.08961v1), FAME: Force-Adaptive RL for Expanding the Manipulation Envelope of a Full-Scale Humanoid, [website](https://fame10.github.io/Fame/)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.08619), Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery
+- [arXiv 2026.03](https://arxiv.org/abs/2603.08572), MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation, [website](https://syt2004.github.io/metaworldX/)
+- [arXiv 2026.03](https://arxiv.org/abs/2603.06775), HybridMimic: Hybrid RL-Centroidal Control for Humanoid Motion Mimicking
+- [arXiv 2026.03](https://arxiv.org/abs/2603.05410), PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking
+- [arXiv 2026.03](https://arxiv.org/abs/2603.03768), Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport
+- [arXiv 2026.03](https://arxiv.org/abs/2603.03751), Interaction-Aware Whole-Body Control for Compliant Object Transport
 - [arXiv 2026.03](https://arxiv.org/abs/2603.03279), ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation, [website](https://ultra-humanoid.github.io/)
+- [RSS 2026](https://arxiv.org/abs/2603.02856), Rhythm: Learning Interactive Whole-Body Control for Dual Humanoids
+- [arXiv 2026.03](https://arxiv.org/abs/2603.01452), Scaling Tasks, Not Samples: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning, [website](https://yewr.github.io/ez_m/)
+- [arXiv 2026.03](https://arxiv.org/abs/2603.01126), Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction
 - [arXiv 2026.02](https://arxiv.org/abs/2602.23843), OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21723), LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations, [website](https://yzhu.io/preprint/humanoid2026lessmimic/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.16705), Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation
@@ -438,7 +446,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.03](https://arxiv.org/abs/2603.29844), DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA, [website](https://xpeng-robotics.github.io/dial)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.28422), Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation
 - 🌟[arXiv 2026.03](https://arxiv.org/abs/2603.12260), HumDex: Humanoid Dexterous Manipulation Made Easy
+- 🌟[ICRA 2026](https://arxiv.org/abs/2603.08142), Multifingered force-aware control for humanoid robots
 - [arXiv 2026.03](https://arxiv.org/abs/2603.05493), cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots
+- [arXiv 2026.03](https://arxiv.org/abs/2603.05355), OmniDP: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06949), DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos, [website](https://dreamdojo-world.github.io/)
 - [arXiv 2026.01](https://arxiv.org/abs/2601.14874), HumanoidVLM: Vision-Language-Guided Impedance Control for Contact-Rich Humanoid Manipulation
 - [arXiv 2026.01](https://arxiv.org/abs/2601.09031), Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation
@@ -637,6 +647,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.03](https://arxiv.org/abs/2603.16180), Task-Specified Compliance Bounds for Humanoids via Lipschitz-Constrained Policies
 - [arXiv 2026.03](https://arxiv.org/abs/2603.14308), Load-Aware Locomotion Control for Humanoid Robots in Industrial Transportation Tasks
 - [IROS 2026](https://arxiv.org/abs/2603.09574), SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation
+- [arXiv 2026.03](https://arxiv.org/abs/2603.07928), Omnidirectional Humanoid Locomotion on Stairs via Unsafe Stepping Penalty and Sparse LiDAR Elevation Mapping
+- [arXiv 2026.03](https://arxiv.org/abs/2603.07624), GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion
+- [arXiv 2026.03](https://arxiv.org/abs/2603.05993), Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
+- [RSS 2026](https://arxiv.org/abs/2603.03733), X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation, [website](https://x-loco-humanoid.github.io/)
+- [ICRA 2026](https://arxiv.org/abs/2603.03067), CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21666), Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11143), APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots, [website](https://apex-humanoid.github.io/)
 - 🌟[arXiv 2026.02](https://arxiv.org/abs/2602.06445), ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking, [website](https://sites.google.com/view/eco-humanoid) / [code](https://github.com/bigai-ai/ECO-humanoid)
@@ -885,6 +900,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.03](https://arxiv.org/abs/2603.12185), ComFree-Sim: A GPU-Parallelized Analytical Contact Physics Engine for Scalable Contact-Rich Robotics Simulation and Control, [website](https://irislab.tech/comfree-sim/)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.06181), Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots
 - [ICLR 2026](https://openreview.net/forum?id=tQJYKwc3n4), RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots
+- [arXiv 2026.03](https://arxiv.org/abs/2603.05993), Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11337), MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07248), Benchmarking Humanoid Imitation Learning with Motion Difficulty
 - [arXiv 2025.10](https://arxiv.org/abs/2510.08807), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
@@ -919,6 +935,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [CVPR 2026](https://arxiv.org/abs/2603.29272), MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters
 - 🌟[arXiv 2026.03](https://arxiv.org/abs/2603.25544), Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale
 - [CVPR 2026](https://arxiv.org/abs/2603.11346), Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, [website](https://yutoshibata07.github.io/AssistMimic/)
+- 🌟[CVPR 2026](https://arxiv.org/abs/2603.07988), TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size, [website](https://splionar.github.io/TeamHOI/)
+- [arXiv 2026.03](https://arxiv.org/abs/2603.07516), InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills
+- [arXiv 2026.03](https://arxiv.org/abs/2603.01294), Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21599), Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06035), InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
 - [arXiv 2025.12](https://arxiv.org/abs/2512.14696), CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives
