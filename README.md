@@ -323,6 +323,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.25241), One-shot Humanoid Whole-body Motion Learning
 - [arXiv 2025.10](https://arxiv.org/abs/2510.18002), Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
 - [arXiv 2025.10](https://arxiv.org/abs/2510.17792), SoftMimic: Learning Compliant Whole-body Control from Examples
+- 🌟[arXiv 2025.10](https://arxiv.org/abs/2510.14959), CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14952), From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14454), Towards Adaptable Humanoid Control via Adaptive Motion Tracking
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14293), Learning Human-Humanoid Coordination for Collaborative Object Carrying
@@ -331,8 +332,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.11072), PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System
 - [arXiv 2025.10](https://arxiv.org/abs/2510.10206), It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots
 - [arXiv 2025.10](https://arxiv.org/abs/2510.05070), ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
+- [arXiv 2025.10](https://arxiv.org/abs/2510.03599), Learning to Act Through Contact: A Unified View of Multi-Task Robot Learning
 - [arXiv 2025.10](https://arxiv.org/abs/2510.03022), HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
+- [arXiv 2025.10](https://arxiv.org/abs/2510.01843), Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots
 - [arXiv 2025.09](https://arxiv.org/abs/2509.26633), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21231), SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation
@@ -480,6 +483,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.11](https://arxiv.org/abs/2511.00153), EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations
 - [arXiv 2025.11](https://arxiv.org/abs/2511.00041), Endowing GPT-4 with a Humanoid Body: Building the Bridge Between Off-the-Shelf VLMs and the Physical World
 - [arXiv 2025.10](https://arxiv.org/abs/2510.25725), A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation
+- [arXiv 2025.10](https://arxiv.org/abs/2510.08475), DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos, [website](https://embodiedai-ntu.github.io/dexman/index.html)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07882), Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots
 - [arXiv 2025.09](https://arxiv.org/abs/2509.22578), EgoDemoGen: Novel Egocentric Demonstration Generation Enables Viewpoint-Robust Manipulation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.19301), Residual Off-Policy RL for Finetuning Behavior Cloning Policies
@@ -972,6 +976,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07410), InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs, [website](https://binlee26.github.io/InterAgent-Page)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.03028), SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control
 - [SIGGRAPH Asia 2025](https://arxiv.org/abs/2511.14205), FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters
+- [arXiv 2025.10](https://arxiv.org/abs/2510.06203), Reference Grounded Skill Discovery
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02566), PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction
 - [arXiv 2025.09](https://arxiv.org/abs/2509.22442), Learning to Ball: Composing Policies for Long-Horizon Basketball Moves
 - [arXiv 2025.09](https://arxiv.org/abs/2509.20717), RobotDancing: Residual-Action RL Enables Robust Long-Horizon Humanoid Motion Tracking
