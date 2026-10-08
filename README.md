@@ -414,6 +414,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.10](https://arxiv.org/abs/2610.08119), AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07511), MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation, [website](https://mobilevista.github.io)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39403), IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining, [website](https://xpeng-robotics.github.io/ironmind/)
+- [arXiv 2026.09](https://arxiv.org/abs/2609.33765), Principal Steering Subspaces for Online Adaptation of Frozen Generative Robot Policies
 - [arXiv 2026.09](https://arxiv.org/abs/2609.17372), XPACE: Joint World and Action Modeling from Heterogeneous Experience
 - [arXiv 2026.09](https://arxiv.org/abs/2609.13679), How to Better Train VLAs: Lessons Learned From the REAL-I Challenge at ICRA 2026
 - [arXiv 2026.08](https://arxiv.org/abs/2608.29242), AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization, [website](https://xpeng-robotics.github.io/anyworld/)
@@ -564,6 +565,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28960), Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28959), TactileStep: Sole Tactile Learning for Regulating Foot-Terrain Interaction in Humanoid Locomotion
 - [IROS 2026](https://arxiv.org/abs/2609.27003), Learning Expressive Humanoid Locomotion from Monocular Runway Videos for Robot Fashion Shows
+- [arXiv 2026.09](https://arxiv.org/abs/2609.27001), Humanoid Locomotion with a Fly-Inspired Recurrent Controller
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24552), Smoothness as a Constraint for Stable Humanoid Locomotion
 - [arXiv 2026.09](https://arxiv.org/abs/2609.23666), UniPoint: Unified Point-Level Sensor Fusion for Humanoid Locomotion Across Challenging Terrains
 - [arXiv 2026.09](https://arxiv.org/abs/2609.21447), FootQuery: Future-Touchdown-Guided Retrieval from Depth History for Perceptive Humanoid Locomotion
