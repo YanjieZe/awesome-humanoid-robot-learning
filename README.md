@@ -273,15 +273,20 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02481), Flow Policy Gradients for Robot Control, [website](https://hongsukchoi.github.io/fpo-control)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02473), HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos, [website](https://wyhuai.github.io/human-x/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.02331), TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour
+- [arXiv 2026.02](https://arxiv.org/abs/2602.00919), Green-VLA: Staged Vision-Language-Action Model for Generalist Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00401), ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control
 - [arXiv 2026.01](https://arxiv.org/abs/2601.23080), Robust and Generalized Humanoid Motion Tracking
 - [arXiv 2026.01](https://arxiv.org/abs/2601.22517), RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing
+- [arXiv 2026.01](https://arxiv.org/abs/2601.19411), Task-Centric Policy Optimization from Misaligned Motion Priors
+- [arXiv 2026.01](https://arxiv.org/abs/2601.17507), MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions, [website](https://anonymous.4open.science/r/metaworld-2BF4/)
 - [arXiv 2026.01](https://arxiv.org/abs/2601.17440), PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes
 - [arXiv 2026.01](https://arxiv.org/abs/2601.16035), Collision-Free Humanoid Traversal in Cluttered Indoor Scenes
+- [arXiv 2026.01](https://arxiv.org/abs/2601.15419), Learning a Unified Latent Space for Cross-Embodiment Robot Control
 - [arXiv 2026.01](https://arxiv.org/abs/2601.12799), FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions
 - [arXiv 2026.01](https://arxiv.org/abs/2601.09518), Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations
 - [arXiv 2026.01](https://arxiv.org/abs/2601.07718), Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids
 - [arXiv 2026.01](https://arxiv.org/abs/2601.07701), Deep Whole-body Parkour
+- [arXiv 2026.01](https://arxiv.org/abs/2601.07284), AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers
 - [arXiv 2025.12](https://arxiv.org/abs/2512.25072), Coordinated Humanoid Manipulation with Choice Policies
 - [arXiv 2025.12](https://arxiv.org/abs/2512.24321), UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots
 - [arXiv 2025.12](https://arxiv.org/abs/2512.19043), EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control
@@ -675,6 +680,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.01](https://arxiv.org/abs/2601.08485), AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding
 - [arXiv 2026.01](https://arxiv.org/abs/2601.06286), Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds
 - [arXiv 2026.01](https://arxiv.org/abs/2601.04948), SKATER: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles
+- [arXiv 2026.01](https://arxiv.org/abs/2601.03607), Locomotion Beyond Feet, [website](https://locomotion-beyond-feet.github.io/)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.23650), Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control
 - [arXiv 2025.12](https://arxiv.org/abs/2512.23649), RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion
 - [arXiv 2025.12](https://arxiv.org/abs/2512.16446), E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion
