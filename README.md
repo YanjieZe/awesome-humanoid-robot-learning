@@ -294,7 +294,6 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.17183), Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots
 - [arXiv 2025.12](https://arxiv.org/abs/2512.14689), CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.13093), PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations
-- [arXiv 2025.12](https://arxiv.org/abs/2512.11047), WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07673), Multi-Domain Motion Embedding: Expressive Real-Time Mimicry for Legged Robots
 - [arXiv 2025.12](https://arxiv.org/abs/2512.06571), Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input
 - [arXiv 2025.12](https://arxiv.org/abs/2512.05094), From Generated Human Videos to Physically Plausible Robot Trajectories, [website](https://genmimic.github.io)
@@ -310,7 +309,6 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.11](https://arxiv.org/abs/2511.14756), HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.11218), Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10635), Robot Crash Course: Learning Soft and Stylized Falling
-- [arXiv 2025.11](https://arxiv.org/abs/2511.09484), SPIDER: Scalable Physics-Informed Dexterous Retargeting, [website](https://jc-bao.github.io/spider-project/)
 - [arXiv 2025.11](https://arxiv.org/abs/2511.09241), Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07820), SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07407), Unified Humanoid Fall-Safety Policy from a Few Demonstrations
