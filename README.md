@@ -379,10 +379,12 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24266), SignBot: Learning Human-to-Humanoid Sign Language Interaction
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24198), Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control
 - [arXiv 2025.05](https://arxiv.org/abs/2505.23692), Mobi-π: Mobilizing Your Robot Learning Policy, [website](https://mobipi.github.io/)
+- [arXiv 2025.05](https://arxiv.org/abs/2505.20829), Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation, [website](https://unified-force.github.io/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.19580), Whole-body Multi-contact Motion Control for Humanoid Robots Based on Distributed Tactile Sensors
 - [arXiv 2025.05](https://arxiv.org/abs/2505.19463), SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control
 - [arXiv 2025.05](https://arxiv.org/pdf/2505.17627),H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies,[website](https://h2compact.github.io/h2compact/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.10918), Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space
+- [arXiv 2025.05](https://arxiv.org/abs/2505.10022), APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots, [website](https://marmotlab.github.io/APEX/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.07294), HuB: Learning Extreme Humanoid Balance, [website](https://hub-robot.github.io/),
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06776), FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation, [website](https://lecar-lab.github.io/falcon-humanoid/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06584), JAEGER: Dual-Level Humanoid Whole-Body Controller
@@ -501,6 +503,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.06](https://arxiv.org/abs/2506.22827), Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.15666), Vision in Action: Learning Active Perception from Human Demonstrations
 - [arXiv 2025.06](https://arxiv.org/abs/2506.11916), mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity
+- [Humanoids 2025](https://arxiv.org/abs/2505.19717), Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning, [website](https://hucebot.github.io/extremum_flow_matching_website/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12705), DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories
 - [arXiv 2025.05](https://arxiv.org/abs/2505.11709), EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
 - [arXiv 2025.03](https://arxiv.org/abs/2503.24361), Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation, [website](https://co-training.github.io/)
@@ -750,6 +753,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.05](https://arxiv.org/abs/2505.18780), One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion
 - [arXiv 2025.05](https://arxiv.org/abs/2505.13549), TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12679), Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion
+- [Humanoids 2025](https://arxiv.org/abs/2505.11495), Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models
 - [arXiv 2025.05](https://arxiv.org/abs/2505.11494), SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics
 - [arXiv 2025.05](https://arxiv.org/abs/2505.06218), Let Humanoids Hike! Integrative Skill Development on Complex Trails
 - [arXiv 2025.05](https://arxiv.org/abs/2505.03729), VideoMimic: Visual imitation enables contextual humanoid control, [website](https://www.videomimic.net/)
