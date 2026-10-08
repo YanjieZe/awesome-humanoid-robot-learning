@@ -337,11 +337,14 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02252), Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking
 - [arXiv 2025.10](https://arxiv.org/abs/2510.01843), Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots
 - [arXiv 2025.09](https://arxiv.org/abs/2509.26633), OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction
+- [arXiv 2025.09](https://arxiv.org/abs/2509.25600), MoReFlow: Motion Retargeting Learning through Unsupervised Flow Matching
+- [arXiv 2025.09](https://arxiv.org/abs/2509.25443), CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21690), Towards Versatile Humanoid Table Tennis: Unified Reinforcement Learning with Prediction Augmentation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.21231), SEEC: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation
 - [arXiv 2025.10](https://arxiv.org/abs/2509.20322), VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16757), HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16638), KungfuBot 2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
+- [arXiv 2025.09](https://arxiv.org/abs/2509.16061), Latent Conditioned Loco-Manipulation Using Motion Priors, [website](https://gepetto.github.io/LaCoLoco/)
 - [arXiv 2025.09](https://arxiv.org/abs/2509.15443), Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning
 - [arXiv 2025.09](https://arxiv.org/abs/2509.14353), DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion
 - [arXiv 2025.09](https://arxiv.org/abs/2509.13833), Track Any Motions under Any Disturbances, [website](https://zzk273.github.io/Any2Track/)
@@ -717,8 +720,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.09](https://arxiv.org/abs/2509.20696), RuN: Residual Policy for Natural Humanoid Locomotion
 - [arXiv 2025.09](https://arxiv.org/abs/2509.19573), Chasing Stability: Humanoid Running via Control Lyapunov Function Guided RL
 - [arXiv 2025.09](https://arxiv.org/abs/2509.19023), Reduced-Order Model-Guided RL for Demonstration-Free Humanoid Locomotion
+- [arXiv 2025.09](https://arxiv.org/abs/2509.18466), RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain
 - [arXiv 2025.09](https://arxiv.org/abs/2509.18046), HuMam: Humanoid Motion Control via End-to-End Deep RL with Mamba
 - [arXiv 2025.09](https://arxiv.org/abs/2509.05581), Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids
+- [arXiv 2025.09](https://arxiv.org/abs/2509.02815), Multi-Embodiment Locomotion at Scale with extreme Embodiment Randomization
 - [arXiv 2025.08](https://arxiv.org/abs/2508.20661), Traversing Narrow Paths: A Two-Stage RL Framework for Robust and Safe Humanoid Walking
 - [arXiv 2025.08](https://arxiv.org/abs/2508.14098), No More Marching: Learning Humanoid Locomotion for Short-Range SE(2) Targets
 - [arXiv 2025.08](https://arxiv.org/abs/2508.11129), Geometry-Aware Predictive Safety Filters on Humanoids
@@ -936,6 +941,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.11](https://arxiv.org/abs/2511.17925), Switch-JustDance: Benchmarking Whole Body Motion Tracking Controllers Using a Commercial Console Game
 - [arXiv 2025.10](https://arxiv.org/abs/2510.08807), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07092), Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report
+- [arXiv 2025.09](https://arxiv.org/abs/2509.14687), RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI, [website](https://terminators2025.github.io/RealMirror.github.io)
 - 🌟[arXiv 2025.07](https://arxiv.org/abs/2507.00833), HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning, [website](https://openhumanoidgen.github.io/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.16012), DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01756), Learning with pyCub: A Simulation and Exercise Framework for Humanoid Robotics
