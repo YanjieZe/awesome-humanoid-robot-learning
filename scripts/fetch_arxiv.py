@@ -10,7 +10,7 @@ Usage:
 
 Prints (or writes) a JSON list of {id, title, authors, abstract, published,
 categories, comment} for papers whose title or abstract mentions humanoids and
-whose arXiv ID does not already appear in README.md. The candidates still need
+whose arXiv ID is not already in README.md or scripts/excluded_ids.txt. The candidates still need
 a human (or Claude) to judge relevance and pick a section.
 """
 
@@ -27,6 +27,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
+EXCLUDED = ROOT / "scripts" / "excluded_ids.txt"  # reviewed and rejected; skip next time
 API = "http://export.arxiv.org/api/query"
 NS = {"a": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
 PAGE = 500
@@ -37,8 +38,9 @@ QUERY = (
 
 
 def existing_ids():
-    text = README.read_text()
-    return set(re.findall(r"arxiv\.org/(?:abs|pdf|html)/(\d{4}\.\d{4,5})", text))
+    text = README.read_text() + (EXCLUDED.read_text() if EXCLUDED.exists() else "")
+    return set(re.findall(r"arxiv\.org/(?:abs|pdf|html)/(\d{4}\.\d{4,5})", text)) | \
+        set(re.findall(r"^(\d{4}\.\d{4,5})", text, re.M))
 
 
 def fetch(start_dt, end_dt):

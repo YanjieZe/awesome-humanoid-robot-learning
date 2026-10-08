@@ -8,7 +8,8 @@ Usage:
 Each JSON file is a list of objects:
   {"id": "2605.12345", "include": true, "sections": ["Locomotion"],
    "line": "- [arXiv 2026.05](https://arxiv.org/abs/2605.12345), Title"}
-Entries with include=false, or whose arXiv ID already appears in README.md, are skipped.
+Entries whose arXiv ID already appears in README.md are skipped. IDs with include=false
+are appended to scripts/excluded_ids.txt so fetch_arxiv.py does not return them again.
 """
 
 import json
@@ -18,6 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
+EXCLUDED = ROOT / "scripts" / "excluded_ids.txt"
 ID_RE = re.compile(r"arxiv\.org/(?:abs|pdf|html)/(\d{4}\.\d{4,5})")
 MONTH_RE = re.compile(r"^- 🌟?\[[^\]]*?(20\d{2})\.(\d{2})\]")
 
@@ -59,10 +61,13 @@ def main():
     lines = README.read_text().split("\n")
     seen = set(ID_RE.findall("\n".join(lines)))
     sections = {l[3:].strip() for l in lines if l.startswith("## ")}
-    added = 0
+    added, rejected = 0, []
     for path in sys.argv[1:]:
         for e in json.loads(Path(path).read_text()):
-            if not e.get("include") or e["id"] in seen or not e.get("line"):
+            if not e.get("include") or not e.get("line"):
+                rejected.append(e["id"])
+                continue
+            if e["id"] in seen:
                 continue
             for sec in e["sections"]:
                 if sec not in sections:
@@ -72,7 +77,9 @@ def main():
             seen.add(e["id"])
             added += 1
     README.write_text("\n".join(lines))
-    print(f"added {added} papers")
+    old = set(EXCLUDED.read_text().split()) if EXCLUDED.exists() else set()
+    EXCLUDED.write_text("\n".join(sorted(old | set(rejected), reverse=True)) + "\n")
+    print(f"added {added} papers, {len(set(rejected) - old)} newly excluded")
 
 
 if __name__ == "__main__":

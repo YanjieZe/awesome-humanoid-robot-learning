@@ -51,8 +51,8 @@ After adding new papers, automatically commit and push to the remote repository.
 
 A cloud routine runs this every day. To run it by hand:
 
-1. `python3 scripts/fetch_arxiv.py --days 3 -o /tmp/candidates.json` — new humanoid papers not yet in README.md
+1. `python3 scripts/fetch_arxiv.py --days 4 -o /tmp/candidates.json` — humanoid papers not yet in README.md or `scripts/excluded_ids.txt`
 2. Judge each candidate with `scripts/curation_guide.md` and write a results JSON
    (`[{"id", "include", "sections", "line"}]`)
-3. `python3 scripts/insert_papers.py results.json` — inserts into the right sections in sorted order
-4. Commit `Add N papers from arXiv (YYYY-MM-DD)` and push
+3. `python3 scripts/insert_papers.py results.json` — inserts into the right sections in sorted order and records rejected IDs in `scripts/excluded_ids.txt`
+4. Commit README.md and `scripts/excluded_ids.txt` as `Add N papers from arXiv (YYYY-MM-DD)` and push
