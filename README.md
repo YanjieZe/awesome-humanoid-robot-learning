@@ -566,6 +566,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.13594), Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots
 - [arXiv 2025.10](https://arxiv.org/abs/2510.04353), Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation
 - [arXiv 2025.10](https://arxiv.org/abs/2510.03529), LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy
+- [Humanoids 2025](https://arxiv.org/abs/2508.11802), Anticipatory and Adaptive Footstep Streaming for Teleoperated Bipedal Robots
 - [arXiv 2025.08](https://arxiv.org/abs/2508.09846), Whole-Body Bilateral Teleoperation with Multi-Stage Object Parameter Estimation for Wheeled Humanoid Locomanipulation
 - [arXiv 2025.08](https://arxiv.org/abs/2508.00162), CHILD: a Whole-Body Humanoid Teleoperation System
 - [arXiv 2025.06](https://arxiv.org/abs/2506.08931), CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks
@@ -885,6 +886,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16469), A Framework for Optimal Ankle Design of Humanoid Robots
 - [arXiv 2025.09](https://arxiv.org/abs/2509.14935), CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids
 - [arXiv 2025.09](https://arxiv.org/abs/2509.09364), AGILOped: Agile Open-Source Humanoid Robot for Research
+- [Humanoids 2025](https://arxiv.org/abs/2508.11884), From Screen to Stage: Kid Cosmo, A Life-Like, Torque-Controlled Humanoid for Entertainment Robotics
 - [arXiv 2025.07](https://arxiv.org/abs/2507.14538), A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0
 - [arXiv 2025.07](https://arxiv.org/abs/2507.03227), Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting
 - [arXiv 2025.06](https://arxiv.org/abs/2506.20343), PIMBS: Efficient Body Schema Learning for Musculoskeletal Humanoids
@@ -942,6 +944,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.08807), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07092), Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report
 - [arXiv 2025.09](https://arxiv.org/abs/2509.14687), RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI, [website](https://terminators2025.github.io/RealMirror.github.io)
+- [arXiv 2025.08](https://arxiv.org/abs/2508.13444), Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics
 - 🌟[arXiv 2025.07](https://arxiv.org/abs/2507.00833), HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning, [website](https://openhumanoidgen.github.io/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.16012), DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01756), Learning with pyCub: A Simulation and Exercise Framework for Humanoid Robotics
