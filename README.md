@@ -372,6 +372,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.06](https://arxiv.org/abs/2506.12851), KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills
 - [arXiv 2025.06](https://arxiv.org/abs/2506.12779), From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots, [website](https://beingbeyond.github.io/BumbleBee/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.09366), SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending
+- [arXiv 2025.06](https://arxiv.org/abs/2506.05117), Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline
 - 🌟[arXiv 2025.06](https://arxiv.org/abs/2506.04147), SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World Reinforcement Learning, [websie](https://robo-rl.github.io/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01563), Hierarchical Intention-Aware Expressive Motion Generation for Humanoid Robots
 - [arXiv 2025.06](https://arxiv.org/abs/2506.00043), From Motion to Behavior: Hierarchical Modeling of Humanoid Generative Behavior Control
@@ -499,6 +500,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.07](https://arxiv.org/abs/2507.11498), Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming
 - [arXiv 2025.06](https://arxiv.org/abs/2506.22827), Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.15666), Vision in Action: Learning Active Perception from Human Demonstrations
+- [arXiv 2025.06](https://arxiv.org/abs/2506.11916), mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12705), DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories
 - [arXiv 2025.05](https://arxiv.org/abs/2505.11709), EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
 - [arXiv 2025.03](https://arxiv.org/abs/2503.24361), Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation, [website](https://co-training.github.io/)
@@ -737,8 +739,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.07](https://arxiv.org/abs/2507.00273), Mechanical Intelligence-Aware Curriculum RL for Humanoids with Parallel Actuation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.15132), Booster Gym: An End-to-End RL Framework for Humanoid Robot Locomotion
 - [arXiv 2025.06](https://arxiv.org/abs/2506.12095), DoublyAware: Dual Planning and Policy Awareness for Temporal Difference Learning in Humanoid Locomotion
+- [arXiv 2025.06](https://arxiv.org/abs/2506.09588), Attention-Based Map Encoding for Learning Generalized Legged Locomotion
 - [arXiv 2025.06](https://arxiv.org/abs/2506.08840), MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains, [website](https://more-humanoid.github.io/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.08416), A Gait Driven RL Framework for Humanoid Robots
+- [arXiv 2025.06](https://arxiv.org/abs/2506.02507), AURA: Autonomous Upskilling with Retrieval-Augmented Agents, [website](https://aura-research.org/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.00305), Learning Aerodynamics for the Control of Flying Humanoid Robots
 - [arXiv 2025.05](https://arxiv.org/abs/2505.22642), FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control, [website](https://younggyo.me/fast_td3/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.20619), Gait-Conditioned RL with Multi-Phase Curriculum for Humanoid Locomotion
