@@ -855,6 +855,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ## Simulation Benchmark
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10198), Benchmarking Behavioral Steerability in Behavior Foundation Models
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.07594), BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation
+- 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.07117), R2RI: A Multi-View Event and RGB Dataset for Robot-to-Robot Interaction
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02089), HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution, [website](https://snu-pi.github.io/HumanoidToolBench/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.38216), Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb Replacement, [website](https://fiatlux-bench.github.io)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.34782), CoHuB: A Simulation Benchmark for Multi-Humanoid Collaboration, [website](https://meat124.github.io/CoHuB/)
