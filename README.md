@@ -420,6 +420,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2024.10](https://arxiv.org/abs/2410.21229), HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, [website](https://hover-versatile-humanoid.github.io/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.12773), Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions, [website](https://ut-austin-rpl.github.io/Harmon/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.05681), Whole-Body Dynamic Throwing with Legged Manipulators
+- [arXiv 2024.10](https://arxiv.org/abs/2410.02141), E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework
+- [arXiv 2024.10](https://arxiv.org/abs/2410.01030), Preferenced Oracle Guided Multi-mode Policies for Dynamic Bipedal Loco-Manipulation
 - [arXiv 2024.09](https://arxiv.org/abs/2409.20514), Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation, [Website](https://opt2skill.github.io/)
 - [arXiv 2024.09](https://arxiv.org/abs/2409.15610), Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing
 - [arXiv 2024.08](https://arxiv.org/abs/2408.07295), Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots [website](https://masked-humanoid.github.io/mhc/)
@@ -787,6 +789,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - 🌟[arXiv 2024.11](https://arxiv.org/abs/2411.01919), Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing, [code](https://github.com/BTFrontier/polygon_mapping)
 - [arXiv 2024.11](https://arxiv.org/abs/2411.01000), Enhancing Model-Based Step Adaptation for Push Recovery through Reinforcement Learning of Step Timing and Region
 - 🌟[arXiv 2024.10](https://arxiv.org/abs/2410.11825), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies, [website](https://lipschitz-constrained-policy.github.io/) / [code](https://github.com/zixuan417/smooth-humanoid-locomotion)
+- [arXiv 2024.10](https://arxiv.org/abs/2410.08655), FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots
+- [arXiv 2024.10](https://arxiv.org/abs/2410.07849), Online DNN-driven Nonlinear MPC for Stylistic Humanoid Robot Walking with Step Adjustment, [website](https://sites.google.com/view/dnn-mpc-walking)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.03654), Learning Humanoid Locomotion over Challenging Terrain, [website](https://humanoid-challenging-terrain.github.io/)
 - [arXiv 2024.08](https://arxiv.org/abs/2408.14472), Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning
 - [arXiv 2024.06](https://arxiv.org/abs/2406.10759), Humanoid Parkour Learning, [website](https://humanoid4parkour.github.io/)
@@ -920,6 +924,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.02](https://arxiv.org/abs/2502.12808), Exceeding the Maximum Speed Limit of the Joint Angle for the Redundant Tendon-driven Structures of Musculoskeletal Humanoids
 - 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.00893), **ToddlerBot**: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, [website](https://toddlerbot.github.io/) / [github](https://github.com/hshi74/toddlerbot)
 - [arXiv 2025.01](https://arxiv.org/abs/2501.05204), Design and Control of a Bipedal Robotic Character
+- [Humanoids 2024](https://arxiv.org/abs/2410.23682), CubiXMusashi: Fusion of Wire-Driven CubiX and Musculoskeletal Humanoid Musashi toward Unlimited Performance, [website](https://shin0805.github.io/cubixmusashi/)
 - 🌟[arXiv 2024.09](https://arxiv.org/abs/2409.19795), The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, [website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) / [code](https://github.com/generalroboticslab/dukeHumanoidHardwareControl)
 - 🌟[arXiv 2024.07](https://arxiv.org/abs/2407.21781), Berkeley Humanoid: A Research Platform for Learning-based Control, [website](https://berkeley-humanoid.com/) / [code](https://github.com/HybridRobotics/isaac_berkeley_humanoid)
 - [arXiv 2021.04](https://arxiv.org/abs/2104.09025), The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors
