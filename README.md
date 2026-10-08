@@ -310,6 +310,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.11](https://arxiv.org/abs/2511.14756), HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation
 - [arXiv 2025.11](https://arxiv.org/abs/2511.11218), Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10635), Robot Crash Course: Learning Soft and Stylized Falling
+- [arXiv 2025.11](https://arxiv.org/abs/2511.09484), SPIDER: Scalable Physics-Informed Dexterous Retargeting, [website](https://jc-bao.github.io/spider-project/)
 - [arXiv 2025.11](https://arxiv.org/abs/2511.09241), Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07820), SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control
 - [arXiv 2025.11](https://arxiv.org/abs/2511.07407), Unified Humanoid Fall-Safety Policy from a Few Demonstrations
@@ -697,8 +698,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07464), Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction
 - [arXiv 2025.12](https://arxiv.org/abs/2512.01996), Learning Sim-to-Real Humanoid Locomotion in 15 Minutes
 - [arXiv 2025.12](https://arxiv.org/abs/2512.00971), H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer
+- [arXiv 2025.12](https://arxiv.org/abs/2512.00727), Beyond Topology: A Morphological Symmetry Graph Representation for Locomotion Policy Learning, [website](https://msppo.github.io/)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.00077), A Hierarchical Framework for Humanoid Locomotion with Supernumerary Limbs
 - [arXiv 2025.11](https://arxiv.org/abs/2511.19204), Reference-Free Sampling-Based Model Predictive Control
+- [arXiv 2025.11](https://arxiv.org/abs/2511.00840), Heuristic Step Planning for Learning Dynamic Bipedal Locomotion: A Comparative Study of Model-Based and Model-Free Approaches
 - [arXiv 2025.10](https://arxiv.org/abs/2510.12215), Learning a Vision-Based Footstep Planner for Hierarchical Walking Control
 - [arXiv 2025.10](https://arxiv.org/abs/2510.26236), PHUMA: Physically-Grounded Humanoid Locomotion Dataset
 - [arXiv 2025.10](https://arxiv.org/abs/2510.15352), GaussGym: An open-source real-to-sim framework for learning locomotion from pixels
@@ -926,6 +929,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.02](https://arxiv.org/abs/2602.11337), MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07248), Benchmarking Humanoid Imitation Learning with Motion Difficulty
 - [arXiv 2025.12](https://arxiv.org/abs/2512.04537), X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
+- [arXiv 2025.11](https://arxiv.org/abs/2511.17925), Switch-JustDance: Benchmarking Whole Body Motion Tracking Controllers Using a Commercial Console Game
 - [arXiv 2025.10](https://arxiv.org/abs/2510.08807), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07092), Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report
 - 🌟[arXiv 2025.07](https://arxiv.org/abs/2507.00833), HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning, [website](https://openhumanoidgen.github.io/)
@@ -967,6 +971,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.08500), Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07410), InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs, [website](https://binlee26.github.io/InterAgent-Page)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.03028), SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control
+- [SIGGRAPH Asia 2025](https://arxiv.org/abs/2511.14205), FreeMusco: Motion-Free Learning of Latent Control for Morphology-Adaptive Locomotion in Musculoskeletal Characters
 - [arXiv 2025.10](https://arxiv.org/abs/2510.02566), PhysHMR: Learning Humanoid Control Policies from Vision for Physically Plausible Human Motion Reconstruction
 - [arXiv 2025.09](https://arxiv.org/abs/2509.22442), Learning to Ball: Composing Policies for Long-Horizon Basketball Moves
 - [arXiv 2025.09](https://arxiv.org/abs/2509.20717), RobotDancing: Residual-Action RL Enables Robust Long-Horizon Humanoid Motion Tracking
