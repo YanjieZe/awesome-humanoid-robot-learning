@@ -409,6 +409,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03206), **HugWBC**: A Unified and General Humanoid Whole-Body Controller
 - [arXiv 2025.02](https://arxiv.org/abs/2502.03132), **SPARK**: A Toolbox for Safe Humanoid Autonomy and Teleoperation, [website](https://intelligent-control-lab.github.io/spark/)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.01465), **Embrace Collisions**: Humanoid Shadowing for Deployable Contact-Agnostics Motions, [website](https://project-instinct.github.io/)
+- [arXiv 2025.01](https://arxiv.org/abs/2501.02116), Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
 - [arXiv 2024.12](https://arxiv.org/abs/2412.15166), Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration
 - [arXiv 2024.12](https://arxiv.org/abs/2412.14172), Learning from Massive Human Videos for Universal Humanoid Pose Control, [website](https://usc-gvl.github.io/UH-1/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.13196), **ExBody2**: Advanced Expressive Humanoid Whole-Body Control, [website](https://exbody2.github.io/)
@@ -1076,6 +1077,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2025.04, Climber Force and Motion Estimation from Video, [website](https://rihat99.github.io/climb_force/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.17544), PRIMAL Physically Reactive and Interactive Motor Model for Avatar Learning
 - [arXiv 2025.03](https://arxiv.org/abs/2503.21268), ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate
+- [arXiv 2025.01](https://arxiv.org/abs/2501.18232), Free-T2M: Robust Text-to-Motion Generation for Humanoid Robots via Frequency-Domain
 - [arXiv 2024.10](https://arxiv.org/abs/2410.03311), Scaling Large Motion Models with Million-Level Human Motions
 - [arXiv 2024.05](https://arxiv.org/abs/2405.11126), Flexible Motion In-betweening with Diffusion Models
 - [arXiv 2024.04](https://arxiv.org/abs/2404.15121), Taming Diffusion Probabilistic Models for Character Control
