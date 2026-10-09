@@ -860,6 +860,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.06](https://arxiv.org/abs/2606.19512), Proprioceptive Invariant State Estimation for Humanoid Robots on Non-Inertial Ground
 - [arXiv 2026.06](https://arxiv.org/abs/2606.13222), Proprioceptive-visual correspondence enables self-other distinction in humanoid robots, [website](https://euron-zc.github.io/humanoid-self-model/)
 - [RSS 2026](https://arxiv.org/abs/2605.17681), PRIME: Physically-consistent Robotic Inertial and Motion Estimation for Legged and Humanoid Robots
+- [RSS 2026](https://arxiv.org/abs/2605.15122), CoCo-InEKF: State Estimation with Learned Contact Covariances in Dynamic, Contact-Rich Scenarios
 - [arXiv 2026.05](https://arxiv.org/abs/2605.01427), SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids
 - [arXiv 2025.11](https://arxiv.org/abs/2511.18857), AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion
 - [arXiv 2025.11](https://arxiv.org/abs/2511.16306), InEKFormer: A Hybrid State Estimator for Humanoid Robots
