@@ -686,6 +686,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [RSS 2026](https://arxiv.org/abs/2604.24916), asRoBallet: Closing the Sim2Real Gap via Friction-Aware Reinforcement Learning for Underactuated Spherical Dynamics, [website](https://bionicdl.ancorasir.com/?p=2238)
 - [arXiv 2026.04](https://arxiv.org/abs/2604.23702), QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear
 - [arXiv 2026.04](https://arxiv.org/abs/2604.22911), RecoverFormer: End-to-End Contact-Aware Recovery for Humanoid Robots
+- [arXiv 2026.04](https://arxiv.org/abs/2604.19104), Reinforcement Learning Enabled Adaptive Multi-Task Control for Bipedal Soccer Robots
 - [arXiv 2026.04](https://arxiv.org/abs/2604.19102), Multi-Gait Learning for Humanoid Robots Using Reinforcement Learning with Selective Adversarial Motion Prior
 - [arXiv 2026.04](https://arxiv.org/abs/2604.17335), Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking
 - [arXiv 2026.04](https://arxiv.org/abs/2604.14565), Model-Based Reinforcement Learning Exploits Passive Body Dynamics for High-Performance Biped Robot Locomotion
@@ -1017,7 +1018,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.06](https://arxiv.org/abs/2606.29148), GPC: Large-Scale Generative Pretraining for Transferable Motor Control
 - [arXiv 2026.05](https://arxiv.org/abs/2605.26006), MIND: Multi-Scale Intent Diffusion for Text-Driven Physics-Based Humanoid Control, [website](https://binlee26.github.io/MIND_page)
 - [arXiv 2026.05](https://arxiv.org/abs/2605.22894), SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control, [website](https://zhanglele12138.github.io/SCRIPT/)
+- [ECCV 2026](https://arxiv.org/abs/2605.20209), NaP-Control: Navigating Diffusion Prior for Versatile and Fast Character Control, [website](https://chiawenchen.github.io/nap-control-project/)
+- [arXiv 2026.04](https://arxiv.org/abs/2604.23886), MUSIC: Learning Muscle-Driven Dexterous Hand Control, [website](https://pei-xu.github.io/music)
 - [arXiv 2026.04](https://arxiv.org/abs/2604.18557), SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, [website](https://yw0208.github.io/synagent/)
+- [arXiv 2026.04](https://arxiv.org/abs/2604.07984), Physics-Based Motion Tracking of Contact-Rich Interacting Characters
+- [arXiv 2026.04](https://arxiv.org/abs/2604.05394), Neural Assistive Impulses: Synthesizing Exaggerated Motions for Physics-based Characters
 - [CVPR 2026](https://arxiv.org/abs/2603.29272), MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters
 - 🌟[arXiv 2026.03](https://arxiv.org/abs/2603.25544), Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale
 - [CVPR 2026](https://arxiv.org/abs/2603.11346), Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, [website](https://yutoshibata07.github.io/AssistMimic/)
