@@ -664,6 +664,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - 🌟[arXiv 2026.06](https://arxiv.org/abs/2606.31691), FastDSAC: Enhancing Policy Plasticity via Constrained Exploration for Scalable Humanoid Locomotion
 - [arXiv 2026.06](https://arxiv.org/abs/2606.27813), Booster Lab: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies
 - [arXiv 2026.06](https://arxiv.org/abs/2606.20645), TACT-ful: Multi-Channel Terrain Affordance and Compliance Training for Payload-Robust Perceptive Humanoid Locomotion, [website](https://fai-rl-tech.github.io/tact-locomotion.github.io/)
+- [arXiv 2026.06](https://arxiv.org/abs/2606.19699), Comparative Study on Agility, Efficiency, and Impact Absorption of Bipedal Robots with Active Toes
 - [arXiv 2026.06](https://arxiv.org/abs/2606.16542), ADAPT: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion
 - [arXiv 2026.06](https://arxiv.org/abs/2606.10449), GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains, [website](https://guide-walk.github.io/GuideWalk)
 - [arXiv 2026.06](https://arxiv.org/abs/2606.10288), MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds
@@ -1012,6 +1013,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.08](https://arxiv.org/abs/2608.03528), Tired Actor: Fatigue-Informed Character Control
 - [arXiv 2026.08](https://arxiv.org/abs/2608.03234), Learning Context-Aware Motion Priors for Humanoid Control
 - [ECCV 2026](https://arxiv.org/abs/2607.06438), WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation
+- [arXiv 2026.06](https://arxiv.org/abs/2606.29148), GPC: Large-Scale Generative Pretraining for Transferable Motor Control
 - [arXiv 2026.05](https://arxiv.org/abs/2605.26006), MIND: Multi-Scale Intent Diffusion for Text-Driven Physics-Based Humanoid Control, [website](https://binlee26.github.io/MIND_page)
 - [arXiv 2026.05](https://arxiv.org/abs/2605.22894), SCRIPT: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control, [website](https://zhanglele12138.github.io/SCRIPT/)
 - [arXiv 2026.04](https://arxiv.org/abs/2604.18557), SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, [website](https://yw0208.github.io/synagent/)
