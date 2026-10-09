@@ -703,6 +703,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [IROS 2026](https://arxiv.org/abs/2603.09574), SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation
 - [arXiv 2026.03](https://arxiv.org/abs/2603.07928), Omnidirectional Humanoid Locomotion on Stairs via Unsafe Stepping Penalty and Sparse LiDAR Elevation Mapping
 - [arXiv 2026.03](https://arxiv.org/abs/2603.07624), GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion
+- [arXiv 2026.03](https://arxiv.org/abs/2603.07110), Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory
 - [arXiv 2026.03](https://arxiv.org/abs/2603.05993), Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality
 - [RSS 2026](https://arxiv.org/abs/2603.03733), X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation, [website](https://x-loco-humanoid.github.io/)
 - [ICRA 2026](https://arxiv.org/abs/2603.03067), CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots
@@ -1023,6 +1024,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.04](https://arxiv.org/abs/2604.18557), SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, [website](https://yw0208.github.io/synagent/)
 - [arXiv 2026.04](https://arxiv.org/abs/2604.07984), Physics-Based Motion Tracking of Contact-Rich Interacting Characters
 - [arXiv 2026.04](https://arxiv.org/abs/2604.05394), Neural Assistive Impulses: Synthesizing Exaggerated Motions for Physics-based Characters
+- [arXiv 2026.03](https://arxiv.org/abs/2603.29332), Scaling Whole-Body Human Musculoskeletal Behavior Emulation for Specificity and Diversity, [website](https://lnsgroup.cc/research/MS-Emulator)
 - [CVPR 2026](https://arxiv.org/abs/2603.29272), MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters
 - 🌟[arXiv 2026.03](https://arxiv.org/abs/2603.25544), Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale
 - [CVPR 2026](https://arxiv.org/abs/2603.11346), Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, [website](https://yutoshibata07.github.io/AssistMimic/)
