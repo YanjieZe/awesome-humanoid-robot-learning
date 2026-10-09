@@ -101,6 +101,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.09](https://arxiv.org/abs/2609.21467), Learning Distance-Conditioned Object Transport for Humanoid Loco-Manipulation from a Single Motion Clip
 - [arXiv 2026.09](https://arxiv.org/abs/2609.21100), Dynamics-Induced Commitment in Learning-Based Robotic Penalty Kicks, [website](https://chris-ruizegeng.github.io/penaltykick/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.19340), ViLoMan: Learning Visual-Proprioceptive Whole-Body Loco-Manipulation Skills for Humanoid Robots, [website](https://viloman-anonymous.pages.dev/)
+- [arXiv 2026.09](https://arxiv.org/abs/2609.18930), Learning Holistic Whole-Body Loco-Manipulation with a Bipedal Mobile Manipulator
 - [arXiv 2026.09](https://arxiv.org/abs/2609.18869), KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation
 - [arXiv 2026.09](https://arxiv.org/abs/2609.18197), WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors, [website](https://zbzyjya.github.io/WholeBodyWAM/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.17824), Learning Multi-Humanoid Pickup and Transport via Decentralized Object-Centric Control, [website](https://decmht.github.io)
@@ -633,6 +634,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20558), Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction
 - [NAECON 2026](https://arxiv.org/abs/2609.19041), Loco-Loco-RL: Low-Cost Terrain Mapping for Humanoid Locomotion with Reinforcement Learning
 - [arXiv 2026.09](https://arxiv.org/abs/2609.18732), PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments
+- [arXiv 2026.09](https://arxiv.org/abs/2609.15631), Flow-Matched Motion Priors: Online Optimal-Transport Rewards for Imitation Learning
 - [arXiv 2026.09](https://arxiv.org/abs/2609.14432), EMoG: Emotion-Modulated Gait Generation for Expressive Humanoid Locomotion
 - [arXiv 2026.09](https://arxiv.org/abs/2609.12347), DWMP: Leveraging Dual World Models for Humanoid Obstacle Traversal
 - [CoRL 2026](https://arxiv.org/abs/2609.11553), CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising
@@ -873,6 +875,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ## Sim-to-Real
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10905), Informationally Decoupled Trajectory Design for Sim-to-Real System Identification
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30951), Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks, [website](https://bundledcontactgradients.github.io/)
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28878), Online Sim-to-Real Adaptation via Closed-Loop System Modeling, [website](http://generalroboticslab.com/OSRAM)
 - [arXiv 2026.06](https://arxiv.org/abs/2606.28476), FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control, [website](https://lecar-lab.github.io/FADA-humanoid/)
 - [RSS 2026](https://arxiv.org/abs/2604.24916), asRoBallet: Closing the Sim2Real Gap via Friction-Aware Reinforcement Learning for Underactuated Spherical Dynamics, [website](https://bionicdl.ancorasir.com/?p=2238)
 - [arXiv 2026.03](https://arxiv.org/abs/2603.20147), AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning
@@ -1002,6 +1005,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09291), Co²Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction
 - [arXiv 2026.09](https://arxiv.org/abs/2609.19688), LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction, [website](https://neu-vi.github.io/LYRIC/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.17682), DSD: Learning Diverse and Reusable Motor Skills via Diffusion Skill Discovery
+- [SIGGRAPH Asia 2026](https://arxiv.org/abs/2609.09821), InstantMimic: A High Performance System for Learning Physics-based Skills in Seconds, [website](https://scripter36.github.io/projects/instantmimic/)
 - [SIGGRAPH Asia 2026](https://arxiv.org/abs/2609.06591), Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior, [website](https://jiann-li.github.io/chip-project/)
 - [arXiv 2026.08](https://arxiv.org/abs/2608.23258), Progressively Learning Heterogeneous Skills in a Unified Latent Space
 - [arXiv 2026.08](https://arxiv.org/abs/2608.03528), Tired Actor: Fatigue-Informed Character Control
