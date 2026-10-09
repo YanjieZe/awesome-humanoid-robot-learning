@@ -297,6 +297,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.25072), Coordinated Humanoid Manipulation with Choice Policies
 - [arXiv 2025.12](https://arxiv.org/abs/2512.24321), UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots
 - [arXiv 2025.12](https://arxiv.org/abs/2512.21573), World-Coordinate Human Motion Retargeting via SAM 3D Body
+- [arXiv 2025.12](https://arxiv.org/abs/2512.20188), Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.19043), EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control
 - [arXiv 2025.12](https://arxiv.org/abs/2512.17183), Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots
 - [arXiv 2025.12](https://arxiv.org/abs/2512.14689), CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation
@@ -728,6 +729,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.23650), Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control
 - [arXiv 2025.12](https://arxiv.org/abs/2512.23649), RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion
 - [arXiv 2025.12](https://arxiv.org/abs/2512.16446), E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion
+- [arXiv 2025.12](https://arxiv.org/abs/2512.12993), Learning Terrain Aware Bipedal Locomotion via Reduced Dimensional Perceptual Representations
 - [arXiv 2025.12](https://arxiv.org/abs/2512.12437), Sim2Real Reinforcement Learning for Soccer skills
 - [arXiv 2025.12](https://arxiv.org/abs/2512.12230), Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy
 - [arXiv 2025.12](https://arxiv.org/abs/2512.10477), Symphony: A Heuristic Normalized Calibrated Advantage Actor and Critic Algorithm in application for Humanoid Robots
