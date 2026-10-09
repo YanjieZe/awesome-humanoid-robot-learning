@@ -132,6 +132,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.08](https://arxiv.org/abs/2608.06375), ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation
 - [arXiv 2026.08](https://arxiv.org/abs/2608.03387), RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation
 - [arXiv 2026.08](https://arxiv.org/abs/2608.03227), PFM-HR: Pose Flow Matching for Humanoid Robots
+- [arXiv 2026.08](https://arxiv.org/abs/2608.03116), Shooting for Contact: Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting, [website](https://shooting-for-contact.github.io/)
 - [arXiv 2026.08](https://arxiv.org/abs/2608.02385), StableMimic: Smooth Human-Like Recovery for Humanoid Motion Tracking - Learning Beyond the Tracking Distribution for Structured Post-Fall Behavior
 - [arXiv 2026.08](https://arxiv.org/abs/2608.01600), Perception-and-action system for humanoid robot task execution in construction
 - [arXiv 2026.08](https://arxiv.org/abs/2608.01410), GenTrack: Physical Alignment for Robot-Native Motion Generation and Zero-Shot Humanoid Tracking
@@ -646,6 +647,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [AIR-RES 2026](https://arxiv.org/abs/2608.26505), Closing the Loop on the Poppy Humanoid: Bipedal Locomotion with Linear-Quadratic Control and Learned Cost Functions
 - [arXiv 2026.08](https://arxiv.org/abs/2608.20852), Demonstration-Guided Humanoid Stand-Up on an Emulated Deformable Surface
 - [arXiv 2026.08](https://arxiv.org/abs/2608.20823), Natural Sit-to-Stand Motion Synthesis For Humanoids via Guided Assistance Curricula and Staged Rewards
+- [arXiv 2026.08](https://arxiv.org/abs/2608.19955), MILD: Tractable Terrain Modeling for Learning Improved Bipedal Locomotion on Deformable Surfaces
 - [arXiv 2026.08](https://arxiv.org/abs/2608.15766), Tac4Loco: Learning Spatiotemporal Plantar Pressure Representations for Humanoid Locomotion
 - [arXiv 2026.08](https://arxiv.org/abs/2608.10220), Whole-Body Planning for Humanoids Navigating Confined Spaces via Self-Collision Avoidance References
 - [arXiv 2026.08](https://arxiv.org/abs/2608.02653), Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation, [website](https://light-loco-parkour.github.io/)
@@ -1001,6 +1003,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.09](https://arxiv.org/abs/2609.19688), LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction, [website](https://neu-vi.github.io/LYRIC/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.17682), DSD: Learning Diverse and Reusable Motor Skills via Diffusion Skill Discovery
 - [SIGGRAPH Asia 2026](https://arxiv.org/abs/2609.06591), Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior, [website](https://jiann-li.github.io/chip-project/)
+- [arXiv 2026.08](https://arxiv.org/abs/2608.23258), Progressively Learning Heterogeneous Skills in a Unified Latent Space
+- [arXiv 2026.08](https://arxiv.org/abs/2608.03528), Tired Actor: Fatigue-Informed Character Control
 - [arXiv 2026.08](https://arxiv.org/abs/2608.03234), Learning Context-Aware Motion Priors for Humanoid Control
 - [ECCV 2026](https://arxiv.org/abs/2607.06438), WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation
 - [arXiv 2026.05](https://arxiv.org/abs/2605.26006), MIND: Multi-Scale Intent Diffusion for Text-Driven Physics-Based Humanoid Control, [website](https://binlee26.github.io/MIND_page)
