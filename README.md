@@ -761,10 +761,13 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.09](https://arxiv.org/abs/2509.02815), Multi-Embodiment Locomotion at Scale with extreme Embodiment Randomization
 - [arXiv 2025.08](https://arxiv.org/abs/2508.20661), Traversing Narrow Paths: A Two-Stage RL Framework for Robust and Safe Humanoid Walking
 - [arXiv 2025.08](https://arxiv.org/abs/2508.14098), No More Marching: Learning Humanoid Locomotion for Short-Range SE(2) Targets
+- [arXiv 2025.08](https://arxiv.org/abs/2508.11929), No More Blind Spots: Learning Vision-Based Omnidirectional Bipedal Locomotion for Challenging Terrain
 - [arXiv 2025.08](https://arxiv.org/abs/2508.11129), Geometry-Aware Predictive Safety Filters on Humanoids
 - [arXiv 2025.08](https://arxiv.org/abs/2508.10423), MASH: Cooperative-Heterogeneous Multi-Agent RL for Single Humanoid Robot Locomotion
+- [arXiv 2025.08](https://arxiv.org/abs/2508.09354), CLF-RL: Control Lyapunov Function Guided Reinforcement Learning
 - [arXiv 2025.08](https://arxiv.org/abs/2508.07611), End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy
 - [arXiv 2025.08](https://arxiv.org/abs/2508.03070), Optimizing Bipedal Locomotion for The 100m Dash With Comparison to Human Running
+- [arXiv 2025.08](https://arxiv.org/abs/2508.02194), Constrained Reinforcement Learning for Unstable Point-Feet Bipedal Locomotion Applied to the Bolt Robot
 - [arXiv 2025.08](https://arxiv.org/abs/2508.01247), Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy
 - [arXiv 2025.07](https://arxiv.org/abs/2507.18883), Success in Humanoid Reinforcement Learning under Partial Observation
 - [arXiv 2025.07](https://www.arxiv.org/abs/2507.04140), Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning
@@ -900,6 +903,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.09](https://arxiv.org/abs/2509.12858), Contrastive Representation Learning for Robust Sim-to-Real Transfer of Adaptive Humanoid Locomotion
 - [arXiv 2025.09](https://arxiv.org/abs/2509.06342), Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots
 - [arXiv 2025.08](https://arxiv.org/abs/2508.12252), Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids
+- [IROS 2025](https://arxiv.org/abs/2508.04696), Achieving Precise and Reliable Locomotion with Differentiable Simulation-Based System Identification
 - [arXiv 2025.05](https://arxiv.org/abs/2505.24068), DiffCoTune: Differentiable Co-Tuning for Cross-domain Robot Control
 - [arXiv 2025.05](https://arxiv.org/abs/2505.14266), Sampling-Based System Identification with Active Exploration for Legged Robot Sim2Real Learning
 - [arXiv 2025.04](https://arxiv.org/abs/2504.06585), Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection
@@ -936,6 +940,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.09](https://arxiv.org/abs/2509.16469), A Framework for Optimal Ankle Design of Humanoid Robots
 - [arXiv 2025.09](https://arxiv.org/abs/2509.14935), CAD-Driven Co-Design for Flight-Ready Jet-Powered Humanoids
 - [arXiv 2025.09](https://arxiv.org/abs/2509.09364), AGILOped: Agile Open-Source Humanoid Robot for Research
+- 🌟[Humanoids 2025](https://arxiv.org/abs/2508.17684), MEVITA: Open-Source Bipedal Robot Assembled from E-Commerce Components via Sheet Metal Welding, [website](https://haraduka.github.io/mevita-hardware)
 - [Humanoids 2025](https://arxiv.org/abs/2508.11884), From Screen to Stage: Kid Cosmo, A Life-Like, Torque-Controlled Humanoid for Entertainment Robotics
 - [arXiv 2025.07](https://arxiv.org/abs/2507.14538), A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0
 - [arXiv 2025.07](https://arxiv.org/abs/2507.03227), Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting
