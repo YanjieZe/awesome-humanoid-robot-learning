@@ -756,6 +756,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.09](https://arxiv.org/abs/2509.19023), Reduced-Order Model-Guided RL for Demonstration-Free Humanoid Locomotion
 - [arXiv 2025.09](https://arxiv.org/abs/2509.18466), RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain
 - [arXiv 2025.09](https://arxiv.org/abs/2509.18046), HuMam: Humanoid Motion Control via End-to-End Deep RL with Mamba
+- [arXiv 2025.09](https://arxiv.org/abs/2509.09106), LIPM-Guided Reinforcement Learning for Stable and Perceptive Locomotion in Bipedal Robots
 - [arXiv 2025.09](https://arxiv.org/abs/2509.05581), Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids
 - [arXiv 2025.09](https://arxiv.org/abs/2509.02815), Multi-Embodiment Locomotion at Scale with extreme Embodiment Randomization
 - [arXiv 2025.08](https://arxiv.org/abs/2508.20661), Traversing Narrow Paths: A Two-Stage RL Framework for Robust and Safe Humanoid Walking
