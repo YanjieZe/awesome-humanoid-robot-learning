@@ -28,6 +28,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12467), CSF: Contextual Safety Filtering for Motion Generators, [website](https://lzyang2000.github.io/csf/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12432), FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12026), Humanoid World Action Model With Joint State-Action Generation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.11283), Being-M0.7: A Latent World-Action Model for Humanoid Robots
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09479), Precise SE(3) End-Effector Tracking in Whole-Body Humanoid Control, [website](https://resgac.github.io/ResGAC-website/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09117), Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data, [website](https://hsb0508.github.io/workhorse/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09055), MimicX: Policy-in-the-Loop Supervision Refinement for Video-Driven Humanoid Motion Tracking, [website](https://nebulis-lab.com/MimicX)
@@ -609,6 +614,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.10](https://arxiv.org/abs/2610.11505), DAMP: Humanoid Locomotion via Denoised Belief Learning and Adversarial Motion Priors
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10489), HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.08789), QF3: Fast Flow RL with Filtered Q-Gradients, [website](https://qf3-rl.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.00823), Reactive Humanoid Multi-Contact Using Learned Stability Models
@@ -808,6 +814,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.10](https://openreview.net/forum?id=wH7Wv0nAm8), Bi-Level Motion Imitation for Humanoid Robots, [website](https://sites.google.com/view/bmi-corl2024)
 
 ## Navigation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10748), TAPNAV: Humanoid Navigation through Tactile Active Perception
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07396), What the Elevation Map Cannot See: Semantic-Aware Locomotion and Execution-Aware Navigation for Humanoid Robot
 - [arXiv 2026.09](https://arxiv.org/abs/2609.38873), DODGER: Safety-Guided Reinforcement Learning for Robot Navigation Among Dynamic Obstacles, [website](https://psh0823.github.io/dodger-homepage)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.19272), Learning Safe Humanoid Navigation from Reduced Order Models, [website](https://wdc3iii.github.io/rom-nav/)
@@ -862,6 +869,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Sim-to-Real
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10905), Informationally Decoupled Trajectory Design for Sim-to-Real System Identification
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30951), Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks, [website](https://bundledcontactgradients.github.io/)
 - [arXiv 2026.06](https://arxiv.org/abs/2606.28476), FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control, [website](https://lecar-lab.github.io/FADA-humanoid/)
 - [RSS 2026](https://arxiv.org/abs/2604.24916), asRoBallet: Closing the Sim2Real Gap via Friction-Aware Reinforcement Learning for Underactuated Spherical Dynamics, [website](https://bionicdl.ancorasir.com/?p=2238)
@@ -989,6 +997,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ## Physics-Based Character Animation
 - [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10322), From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators
+- [arXiv 2026.10](https://arxiv.org/abs/2610.09291), Co²Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction
 - [arXiv 2026.09](https://arxiv.org/abs/2609.19688), LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction, [website](https://neu-vi.github.io/LYRIC/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.17682), DSD: Learning Diverse and Reusable Motor Skills via Diffusion Skill Discovery
 - [SIGGRAPH Asia 2026](https://arxiv.org/abs/2609.06591), Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior, [website](https://jiann-li.github.io/chip-project/)
