@@ -366,6 +366,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.08](https://arxiv.org/abs/2508.09960), GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation
 - [arXiv 2025.08](https://arxiv.org/abs/2508.08241), BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion
 - [arXiv 2025.08](https://arxiv.org/abs/2508.00362), A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot
+- [arXiv 2025.07](https://arxiv.org/abs/2507.17141), Towards Human-level Intelligence via Human-like Whole-Body Manipulation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.15649), EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.08303), Keep on Going: Learning Robust Humanoid Motion Skills via Selective Adversarial Training
 - [arXiv 2025.07](https://arxiv.org/abs/2507.07356), UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots
@@ -770,6 +771,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.08](https://arxiv.org/abs/2508.02194), Constrained Reinforcement Learning for Unstable Point-Feet Bipedal Locomotion Applied to the Bolt Robot
 - [arXiv 2025.08](https://arxiv.org/abs/2508.01247), Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy
 - [arXiv 2025.07](https://arxiv.org/abs/2507.18883), Success in Humanoid Reinforcement Learning under Partial Observation
+- [arXiv 2025.07](https://arxiv.org/abs/2507.10164), Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains
+- [arXiv 2025.07](https://arxiv.org/abs/2507.06426), Evaluating Robots Like Human Infants: A Case Study of Learned Bipedal Locomotion
 - [arXiv 2025.07](https://www.arxiv.org/abs/2507.04140), Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning
 - [arXiv 2025.07](https://arxiv.org/abs/2507.00273), Mechanical Intelligence-Aware Curriculum RL for Humanoids with Parallel Actuation
 - [arXiv 2025.06](https://arxiv.org/abs/2506.15132), Booster Gym: An End-to-End RL Framework for Humanoid Robot Locomotion
