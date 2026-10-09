@@ -802,6 +802,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.03](https://arxiv.org/abs/2503.09015), Natural Humanoid Robot Locomotion with Generative Motion Prior
 - [arXiv 2025.03](https://arxiv.org/abs/2503.08349), LiPS: Large-Scale Humanoid Robot RL with Parallel-Series Structures
 - [arXiv 2025.03](https://arxiv.org/abs/2503.08299), Distillation-PPO: A Novel Two-Stage RL Framework for Humanoid Robot Perceptive Locomotion
+- [arXiv 2025.03](https://arxiv.org/abs/2503.07049), VMTS: Vision-Assisted Teacher-Student Reinforcement Learning for Multi-Terrain Locomotion in Bipedal Robots
 - [arXiv 2025.03](https://arxiv.org/abs/2503.00923), HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion, [website](https://simonlinsx.github.io/HWC_Loco/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.00692), Learning Perceptive Humanoid Locomotion over Challenging Terrain
 - [ICRA 2025](https://arxiv.org/abs/2502.18901), Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands
@@ -860,6 +861,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.07](https://www.arxiv.org/abs/2507.20217), Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots
 - [arXiv 2025.06](https://arxiv.org/abs/2506.02206), RL with Data Bootstrapping for Dynamic Subgoal Pursuit in Humanoid Robot Navigation
 - [arXiv 2025.05](https://arxiv.org/abs/2505.08712), NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance
+- [arXiv 2025.03](https://arxiv.org/abs/2503.12538), EmoBipedNav: Emotion-aware Social Navigation for Bipedal Robots with Deep Reinforcement Learning, [website](https://gatech-lidar.github.io/emobipednav.github.io/)
 - [arXiv 2025.03](https://arxiv.org/abs/2503.09010), HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots
 - [arXiv 2024.12](https://arxiv.org/abs/2412.04453), **NaVILA**: Legged Robot Vision-Language-Action Model for Navigation, [website](https://navila-bot.github.io/)
 - [arXiv 2024.12](https://arxiv.org/abs/2412.00396), ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning
@@ -1080,6 +1082,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.03](https://arxiv.org/abs/2503.22886), Task Tokens: A Flexible Approach to Adapting Behavior Foundation Models
 - 🌟[arXiv 2025.03](https://arxiv.org/abs/2503.19901) / CVPR 2025 Oral, TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
 - 🌟[ICRA 2025](https://arxiv.org/abs/2503.14637), KINESIS: Motion Imitation for Human Musculoskeletal Locomotion
+- [arXiv 2025.03](https://arxiv.org/abs/2503.12814), Versatile Physics-based Character Control with Hybrid Latent Representation
+- [arXiv 2025.03](https://arxiv.org/abs/2503.11801), Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control
 - [arXiv 2025.03](https://arxiv.org/abs/2503.10626), NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models
 - 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [code](https://github.com/Sirui-Xu/InterMimic)
 - [arXiv 2025.02](https://arxiv.org/abs/2502.14140), ModSkill: Physical Character Skill Modularization
