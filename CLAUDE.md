@@ -43,6 +43,12 @@ Commit messages are short and descriptive, e.g.:
 - `Add <Venue> <Paper Name>`
 - `Update <Paper Name> paper to new arXiv version`
 
+Every commit must include the maintainer as co-author, placed before any other trailers:
+
+```
+Co-Authored-By: Yanjie Ze <59699800+YanjieZe@users.noreply.github.com>
+```
+
 ## Workflow
 
 After adding new papers, automatically commit and push to the remote repository.
