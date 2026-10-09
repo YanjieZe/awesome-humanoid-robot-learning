@@ -1011,6 +1011,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.06](https://arxiv.org/abs/2506.16012), DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01756), Learning with pyCub: A Simulation and Exercise Framework for Humanoid Robotics
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01182), Humanoid World Models: Open World Foundation Models for Humanoid Robotics
+- [arXiv 2025.04](https://arxiv.org/abs/2504.09997), GenTe: Generative Real-world Terrains for General Legged Robot Locomotion Control
 - [arXiv 2024.12](https://arxiv.org/abs/2412.17730), **Mimicking-Bench**: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, [website](https://mimicking-bench.github.io/)
 - 🌟[arXiv 2024.12](https://arxiv.org/abs/2412.13211), **ManiSkill-HAB**: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks, [website](https://arth-shukla.github.io/mshab/)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.24185), DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning, [website](https://dexmimicgen.github.io/)
@@ -1073,7 +1074,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12619), HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos, [website](https://jiashunwang.github.io/HIL)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.12278), Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, [website](https://www.zhengyiluo.com/PDC-Site/)
 - [arXiv 2025.05](https://arxiv.org/abs/2505.04961v1), ADD: Physics-Based Motion Imitation with Adversarial Differential Discriminators
+- [arXiv 2025.04](https://arxiv.org/abs/2504.12540), UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control, [website](https://wuyan01.github.io/uniphys-project/)
 - [arXiv 2025.04](https://arxiv.org/abs/2504.11054), Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models
+- [arXiv 2025.04](https://arxiv.org/abs/2504.09413), Scalable Motion In-betweening via Diffusion and Physics-Based Character Adaptation
 - [arXiv 2025.03](https://arxiv.org/abs/2503.22886), Task Tokens: A Flexible Approach to Adapting Behavior Foundation Models
 - 🌟[arXiv 2025.03](https://arxiv.org/abs/2503.19901) / CVPR 2025 Oral, TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, [website](https://liangpan99.github.io/TokenHSI/)
 - 🌟[ICRA 2025](https://arxiv.org/abs/2503.14637), KINESIS: Motion Imitation for Human Musculoskeletal Locomotion
