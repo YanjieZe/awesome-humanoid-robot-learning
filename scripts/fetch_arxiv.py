@@ -31,8 +31,14 @@ EXCLUDED = ROOT / "scripts" / "excluded_ids.txt"  # reviewed and rejected; skip 
 API = "http://export.arxiv.org/api/query"
 NS = {"a": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
 PAGE = 500
+TERMS = [
+    'humanoid', 'humanoids', 'biped', 'bipedal', '"whole-body"', '"whole body"',
+    '"loco-manipulation"', '"motion tracking"', '"motion retargeting"',
+    '"physics-based character"', '"simulated character"',
+    '"Unitree G1"', '"Unitree H1"',
+]
 QUERY = (
-    "(ti:humanoid OR abs:humanoid OR ti:humanoids OR abs:humanoids) AND "
+    "(" + " OR ".join(f"{f}:{t}" for t in TERMS for f in ("ti", "abs")) + ") AND "
     "(cat:cs.RO OR cat:cs.LG OR cat:cs.AI OR cat:cs.CV OR cat:cs.GR OR cat:eess.SY)"
 )
 
