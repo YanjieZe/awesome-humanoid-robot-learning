@@ -879,6 +879,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.11](https://arxiv.org/abs/2511.18857), AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion
 - [arXiv 2025.11](https://arxiv.org/abs/2511.16306), InEKFormer: A Hybrid State Estimator for Humanoid Robots
 - [arXiv 2025.07](https://arxiv.org/abs/2507.10105), Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation
+- [arXiv 2025.06](https://arxiv.org/abs/2506.01141), Standing Tall: Sim to Real Fall Classification and Lead Time Prediction for Bipedal Robots
 - [arXiv 2022.07](https://arxiv.org/abs/2207.06780), An Empirical Evaluation of Four Off-the-Shelf Proprietary Visual-Inertial Odometry Systems
 - [arXiv 2019.04](https://arxiv.org/abs/1904.09251), Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation
 - [arXiv 2017.05](https://arxiv.org/abs/1712.05873), Legged Robot State-Estimation Through Combined Forward Kinematic and Preintegrated Contact Factors
