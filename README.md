@@ -655,6 +655,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.08](https://arxiv.org/abs/2608.02653), Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation, [website](https://light-loco-parkour.github.io/)
 - 🌟[arXiv 2026.07](https://arxiv.org/abs/2607.25541), P3: Probabilistic Policy Propagation for Stable VAE-Based Robot Learning
 - [arXiv 2026.07](https://arxiv.org/abs/2607.24083), Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation
+- [arXiv 2026.07](https://arxiv.org/abs/2607.18760), Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing
 - [arXiv 2026.07](https://arxiv.org/abs/2607.12114), GaitSpan: Growing Humanoid Locomotion from Walking to Running, [website](https://gaitspan2026.github.io/)
 - [CLAWAR 2026](https://arxiv.org/abs/2607.10815), Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors
 - [arXiv 2026.07](https://arxiv.org/abs/2607.07830), Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains
