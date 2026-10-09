@@ -740,6 +740,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.00727), Beyond Topology: A Morphological Symmetry Graph Representation for Locomotion Policy Learning, [website](https://msppo.github.io/)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.00077), A Hierarchical Framework for Humanoid Locomotion with Supernumerary Limbs
 - [arXiv 2025.11](https://arxiv.org/abs/2511.19204), Reference-Free Sampling-Based Model Predictive Control
+- [arXiv 2025.11](https://arxiv.org/abs/2511.17387), Human Imitated Bipedal Locomotion with Frequency Based Gait Generator Network
 - [arXiv 2025.11](https://arxiv.org/abs/2511.00840), Heuristic Step Planning for Learning Dynamic Bipedal Locomotion: A Comparative Study of Model-Based and Model-Free Approaches
 - [arXiv 2025.10](https://arxiv.org/abs/2510.12215), Learning a Vision-Based Footstep Planner for Hierarchical Walking Control
 - [arXiv 2025.10](https://arxiv.org/abs/2510.26236), PHUMA: Physically-Grounded Humanoid Locomotion Dataset
@@ -892,6 +893,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.02](https://arxiv.org/abs/2602.01515), RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00401), ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control
 - 🌟[arXiv 2026.01](https://arxiv.org/abs/2601.21363), Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control, [website](https://lift-humanoid.github.io/) / [code](https://github.com/bigai-ai/LIFT-humanoid)
+- [arXiv 2025.11](https://arxiv.org/abs/2511.06465), Sim-to-Real Transfer in Deep Reinforcement Learning for Bipedal Locomotion
 - [arXiv 2025.10](https://arxiv.org/abs/2510.01708), PolySim: Bridging the Sim-to-Real Gap for Humanoid Control via Multi-Simulator Dynamics Randomization
 - [arXiv 2025.09](https://arxiv.org/abs/2509.12858), Contrastive Representation Learning for Robust Sim-to-Real Transfer of Adaptive Humanoid Locomotion
 - [arXiv 2025.09](https://arxiv.org/abs/2509.06342), Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots
@@ -925,6 +927,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07998), DIJIT: A Robotic Head for an Active Observer
 - [arXiv 2025.11](https://arxiv.org/abs/2511.10021), DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion
 - [arXiv 2025.11](https://arxiv.org/abs/2511.06796), Human-Level Actuation for Humanoids
+- [arXiv 2025.11](https://arxiv.org/abs/2511.01774), MOBIUS: A Multi-Modal Bipedal Robot that can Walk, Crawl, Climb, and Roll
 - [arXiv 2025.10](https://arxiv.org/abs/2510.22336), Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery
 - [arXiv 2025.10](https://arxiv.org/abs/2510.03081), Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot
 - [arXiv 2025.09](https://arxiv.org/abs/2509.26082), Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance
@@ -987,6 +990,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.12](https://arxiv.org/abs/2512.07248), Benchmarking Humanoid Imitation Learning with Motion Difficulty
 - [arXiv 2025.12](https://arxiv.org/abs/2512.04537), X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
 - [arXiv 2025.11](https://arxiv.org/abs/2511.17925), Switch-JustDance: Benchmarking Whole Body Motion Tracking Controllers Using a Commercial Console Game
+- 🌟[arXiv 2025.11](https://arxiv.org/abs/2511.04831), Isaac Lab: A GPU-Accelerated Simulation Framework for Multi-Modal Robot Learning
 - [arXiv 2025.10](https://arxiv.org/abs/2510.08807), Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07092), Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report
 - [arXiv 2025.09](https://arxiv.org/abs/2509.14687), RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI, [website](https://terminators2025.github.io/RealMirror.github.io)
