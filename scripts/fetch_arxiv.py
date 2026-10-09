@@ -31,15 +31,24 @@ EXCLUDED = ROOT / "scripts" / "excluded_ids.txt"  # reviewed and rejected; skip 
 API = "http://export.arxiv.org/api/query"
 NS = {"a": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
 PAGE = 500
-TERMS = [
-    'humanoid', 'humanoids', 'biped', 'bipedal', '"whole-body"', '"whole body"',
-    '"loco-manipulation"', '"motion tracking"', '"motion retargeting"',
-    '"physics-based character"', '"simulated character"',
-    '"Unitree G1"', '"Unitree H1"',
+HUMANOID_TERMS = ["humanoid", "humanoids"]
+# Broader terms are noisy outside robotics/graphics (e.g. "whole-body" PET/CT scans),
+# so they only match in cs.RO / cs.GR.
+ROBOT_TERMS = [
+    "biped", "bipedal", '"whole-body"', '"whole body"', '"loco-manipulation"',
+    '"motion tracking"', '"motion retargeting"', '"physics-based character"',
+    '"simulated character"', '"Unitree G1"', '"Unitree H1"',
 ]
+
+
+def _any(terms):
+    return "(" + " OR ".join(f"{f}:{t}" for t in terms for f in ("ti", "abs")) + ")"
+
+
 QUERY = (
-    "(" + " OR ".join(f"{f}:{t}" for t in TERMS for f in ("ti", "abs")) + ") AND "
-    "(cat:cs.RO OR cat:cs.LG OR cat:cs.AI OR cat:cs.CV OR cat:cs.GR OR cat:eess.SY)"
+    f"({_any(HUMANOID_TERMS)} AND "
+    "(cat:cs.RO OR cat:cs.LG OR cat:cs.AI OR cat:cs.CV OR cat:cs.GR OR cat:eess.SY)) OR "
+    f"({_any(ROBOT_TERMS)} AND (cat:cs.RO OR cat:cs.GR))"
 )
 
 
@@ -51,7 +60,7 @@ def existing_ids():
 
 def fetch(start_dt, end_dt):
     window = f"submittedDate:[{start_dt:%Y%m%d%H%M} TO {end_dt:%Y%m%d%H%M}]"
-    query = f"{QUERY} AND {window}"
+    query = f"({QUERY}) AND {window}"
     results, start = [], 0
     while True:
         params = urllib.parse.urlencode({
