@@ -747,6 +747,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2025.10](https://arxiv.org/abs/2510.15352), GaussGym: An open-source real-to-sim framework for learning locomotion from pixels
 - [arXiv 2025.10](https://arxiv.org/abs/2510.14947), Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion
 - [arXiv 2025.10](https://arxiv.org/abs/2510.12346), PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing
+- [arXiv 2025.10](https://arxiv.org/abs/2510.11542), NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning, [website](https://dynamicmobility.github.io/navigait/)
 - [arXiv 2025.10](https://arxiv.org/abs/2510.10851), Preference-Conditioned Multi-Objective RL for Integrated Command Tracking and Force Compliance in Humanoid Locomotion
 - [arXiv 2025.10](https://arxiv.org/abs/2510.07152), DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction
 - [arXiv 2025.09](https://arxiv.org/abs/2509.24697), Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning
