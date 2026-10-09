@@ -1032,6 +1032,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.03](https://arxiv.org/abs/2603.07516), InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills
 - [arXiv 2026.03](https://arxiv.org/abs/2603.01294), Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control
 - [arXiv 2026.02](https://arxiv.org/abs/2602.21599), Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control
+- [arXiv 2026.02](https://arxiv.org/abs/2602.18312), Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty
 - [arXiv 2026.02](https://arxiv.org/abs/2602.06035), InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
 - [arXiv 2025.12](https://arxiv.org/abs/2512.14696), CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives
 - [arXiv 2025.12](https://arxiv.org/abs/2512.08500), Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions
@@ -1102,6 +1103,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.03](https://arxiv.org/abs/2603.13228), PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization, [website](https://mael-zys.github.io/PhysMoDPO/)
 - [arXiv 2026.02](https://arxiv.org/abs/2602.23205), EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents
 - [arXiv 2026.02](https://arxiv.org/abs/2602.22209), WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos, [website](https://judyye.github.io/whole-www/)
+- [arXiv 2026.02](https://arxiv.org/abs/2602.18319), Robo-Saber: Generating and Simulating Virtual Reality Players, [website](https://robo-saber.github.io/)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.17900), Diffusion Forcing for Multi-Agent Interaction Sequence Modeling
 - [SIGGRAPH Asia 2025.12](https://dl.acm.org/doi/abs/10.1145/3763319), Control Operators for Interactive Character Animation
 - [website 2025.12](https://studios.disneyresearch.com/2025/12/03/implicit-bezier-motion-model-for-precise-spatial-and-temporal-control/), Implicit Bézier Motion Model for Precise Spatial and Temporal Control
