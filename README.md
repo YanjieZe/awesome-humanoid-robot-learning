@@ -719,6 +719,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2026.02](https://arxiv.org/abs/2602.03511), CMR: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains
 - [arXiv 2026.02](https://arxiv.org/abs/2602.03002), RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains
 - [arXiv 2026.02](https://arxiv.org/abs/2602.00678), Toward Reliable Sim-to-Real Predictability for MoE-based Robust Quadrupedal Locomotion
+- [arXiv 2026.01](https://arxiv.org/abs/2601.16109), Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision
 - [arXiv 2026.01](https://arxiv.org/abs/2601.10365), FastStair: Learning to Run Up Stairs with Humanoid Robots
 - [arXiv 2026.01](https://arxiv.org/abs/2601.08485), AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding
 - [arXiv 2026.01](https://arxiv.org/abs/2601.06286), Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds
