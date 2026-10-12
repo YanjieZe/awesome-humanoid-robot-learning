@@ -28,6 +28,12 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.13572), ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching, [website](https://hazintihoa.github.io/athlete.github.io/#overview)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.13087), Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.13079), VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12772), Reflex: Visually Grounded Reactive Humanoid Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12642), PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12558), PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface, [website](https://pantact.github.io)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12467), CSF: Contextual Safety Filtering for Motion Generators, [website](https://lzyang2000.github.io/csf/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12432), FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems
@@ -1109,6 +1115,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2026.10](https://arxiv.org/abs/2610.13373), PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.03873), Streaming Multi-Track Timeline Control for 3D Human Motion Generation, [website](https://mael-zys.github.io/TimelineControl/)
 - [SIGGRAPH Asia 2026](https://arxiv.org/abs/2609.10982), ReCHOIR: Contact-guided Human Object Interaction Retargeting to Diverse Characters, [website](https://cherry-leki.github.io/projects/ReCHOIR/)
 - [ECCV 2026](https://arxiv.org/abs/2608.28693), RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction, [website](https://RoboGesture.github.io)
