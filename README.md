@@ -28,6 +28,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.15833), P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning, [website](https://roboparty.github.io/P-BFM/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.15274), Embodiment-Aware Inference-Time Search for Human Reaction Selection in Humanoid Retargeting
+- [arXiv 2026.10](https://arxiv.org/abs/2610.14896), Test-Time Compute for Humanoid Behavior Foundation Models, [website](https://bfm-ttc.github.io/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.14561), From Video to Vision: Learning Generalizable Humanoid Carrying from Human Motion
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.13572), ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching, [website](https://hazintihoa.github.io/athlete.github.io/#overview)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13087), Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13079), VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills
@@ -624,6 +628,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [CoRL 2026](https://arxiv.org/abs/2610.14840), Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid
 - [arXiv 2026.10](https://arxiv.org/abs/2610.11505), DAMP: Humanoid Locomotion via Denoised Belief Learning and Adversarial Motion Priors
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10489), HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.08789), QF3: Fast Flow RL with Filtered Q-Gradients, [website](https://qf3-rl.github.io/)
@@ -1034,6 +1039,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Physics-Based Character Animation
 - [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
+- 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.14911), Scalable Multi-Human Cooperative Manipulation via Commander-Executor Coordination
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10322), From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09291), Co²Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction
 - [arXiv 2026.09](https://arxiv.org/abs/2609.19688), LYRIC: Language-Driven Physics-Based Character Control for Contact-Rich Whole-Body Object Interaction, [website](https://neu-vi.github.io/LYRIC/)
