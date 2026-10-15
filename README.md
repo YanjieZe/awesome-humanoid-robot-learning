@@ -28,6 +28,13 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.20606), Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion, [website](https://humanoid-weight-diffusion.github.io/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.20579), PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination, [website](https://www.archon.tech/research/PingpongDuo)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.20552), KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.19393), Beyond Kinematic Tracking: Preserving Expressive Characteristics in Humanoid Whole-Body Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18950), λ₀: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18872), EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ, [website](https://internrobotics.github.io/egoexplorer.github.io/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.17999), TRACE: Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments
 - [arXiv 2026.10](https://arxiv.org/abs/2610.15833), P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning, [website](https://roboparty.github.io/P-BFM/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.15274), Embodiment-Aware Inference-Time Search for Human Reaction Selection in Humanoid Retargeting
 - [arXiv 2026.10](https://arxiv.org/abs/2610.14896), Test-Time Compute for Humanoid Behavior Foundation Models, [website](https://bfm-ttc.github.io/)
@@ -904,6 +911,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Sim-to-Real
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18991), Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control, [website](https://contact-uan.csail.mit.edu/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10905), Informationally Decoupled Trajectory Design for Sim-to-Real System Identification
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30951), Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks, [website](https://bundledcontactgradients.github.io/)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28878), Online Sim-to-Real Adaptation via Closed-Loop System Modeling, [website](http://generalroboticslab.com/OSRAM)
@@ -928,6 +936,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2019.01](https://arxiv.org/abs/1901.08652), Learning Agile and Dynamic Motor Skills for Legged Robots
 
 ## Hardware Design
+- [arXiv 2026.10](https://arxiv.org/abs/2610.16604), Design and Analysis of a Nonlinear Parallel Mechanism Coupling for Dynamic Humanoid Legs
 - [arXiv 2026.10](https://arxiv.org/abs/2610.08737), PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones, [website](https://phonebot.dev)
 - [arXiv 2026.09](https://arxiv.org/abs/2609.32471), GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution, [website](https://glowtact.github.io/)
 - [IROS 2026 Workshop](https://arxiv.org/abs/2609.30506), Tactile Sensing Array for Multi-Phalanx Sensing in Humanoid Hands
@@ -1040,6 +1049,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Physics-Based Character Animation
 - [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
+- [CoRL 2026](https://arxiv.org/abs/2610.18147), Walk Like This: Stylized Locomotion for Physics-Based Characters through Example-Driven Diffusion
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.14911), Scalable Multi-Human Cooperative Manipulation via Commander-Executor Coordination
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10322), From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09291), Co²Skill: Whole-Body Control via Skill Composition for Long-Horizon Human-Environment Interaction
