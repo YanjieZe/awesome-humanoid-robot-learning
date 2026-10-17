@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22119), Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation, [website](https://venki1899.github.io/c-gmt/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.21152), KODA: Kinematics--Observation Data Alignment for Humanoid Learning from Human Egocentric Demonstration
 - [arXiv 2026.10](https://arxiv.org/abs/2610.20606), Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion, [website](https://humanoid-weight-diffusion.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.20579), PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination, [website](https://www.archon.tech/research/PingpongDuo)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.20552), KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation
@@ -475,6 +478,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22342), Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation, [website](https://xsparkai.com/Spark-0)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09369), Immiscible Diffusion Policy: Preserving Multimodal Robot Actions through Label-Free Noise Assignment
 - [arXiv 2026.10](https://arxiv.org/abs/2610.08119), AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07511), MobileVISTA: Generative Data Augmentation for Pose Generalization in Mobile Manipulation, [website](https://mobilevista.github.io)
@@ -1132,6 +1136,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2026.10](https://arxiv.org/abs/2610.21515), TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13373), PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.03873), Streaming Multi-Track Timeline Control for 3D Human Motion Generation, [website](https://mael-zys.github.io/TimelineControl/)
 - [SIGGRAPH Asia 2026](https://arxiv.org/abs/2609.10982), ReCHOIR: Contact-guided Human Object Interaction Retargeting to Diverse Characters, [website](https://cherry-leki.github.io/projects/ReCHOIR/)
