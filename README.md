@@ -28,6 +28,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.23288), CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots
+- [arXiv 2026.10](https://arxiv.org/abs/2610.23127), BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL, [website](https://ylyem9x.github.io/BeJEPA-project)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22119), Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation, [website](https://venki1899.github.io/c-gmt/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.21152), KODA: Kinematics--Observation Data Alignment for Humanoid Learning from Human Egocentric Demonstration
