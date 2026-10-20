@@ -28,6 +28,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.25711), SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance, [website](https://iscoyizj.github.io/SWAP-steerable-humanoid-oa-website/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.25628), Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.24847), DiPLO: Self-distilled Diffusion Planning for Loco-manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.24675), Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation, [website](https://fiberaa.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.23288), CoEvolve: Self-Evolving Code Policies from Skills to Strategies for Humanoid Robots
 - [arXiv 2026.10](https://arxiv.org/abs/2610.23127), BeJEPA: A Goal-Conditioned Humanoid Behavior World Model via Unsupervised RL, [website](https://ylyem9x.github.io/BeJEPA-project)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
@@ -579,6 +583,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 ## Teleoperation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.24257), Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation, [website](https://xrt-teleop.github.io)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07891), Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives
 - [IROS 2026 Workshop](https://arxiv.org/abs/2610.00718), Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39000), NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation, [website](https://nexus-humanoid.github.io/)
@@ -641,6 +646,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.10](https://arxiv.org/abs/2610.25701), Validation of Human Motor Development Scales with Humanoid Robots
 - [CoRL 2026](https://arxiv.org/abs/2610.14840), Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid
 - [arXiv 2026.10](https://arxiv.org/abs/2610.11505), DAMP: Humanoid Locomotion via Denoised Belief Learning and Adversarial Motion Priors
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10489), HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion
@@ -893,6 +899,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2025.07, LOVON: Legged Open-Vocabulary Object Navigator, [website](https://daojiepeng.github.io/LOVON/)
 
 ## State Estimation
+- 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.25288), Vision as Proprioception: Estimating Humanoid Robot Pose from Video
 - 🌟[arXiv 2026.09](https://arxiv.org/abs/2609.23610), PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots
 - [arXiv 2026.09](https://arxiv.org/abs/2609.07930), A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series
 - [arXiv 2026.09](https://arxiv.org/abs/2609.02222), FOCUS: Foot Observation Confidence for Robust Humanoid Proprioceptive Odometry
