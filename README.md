@@ -28,6 +28,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [CoRL 2026](https://arxiv.org/abs/2610.28523), VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction, [website](https://yutoshibata07.github.io/REACT/)
+- [CoRL 2026](https://arxiv.org/abs/2610.28480), SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model, [website](https://supermimic.github.io)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.28470), Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning
+- [arXiv 2026.10](https://arxiv.org/abs/2610.26584), HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.26043), OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids, [website](https://calvinyhli.github.io/omniinteract.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.25711), SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance, [website](https://iscoyizj.github.io/SWAP-steerable-humanoid-oa-website/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.25628), Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.24847), DiPLO: Self-distilled Diffusion Planning for Loco-manipulation
@@ -484,6 +489,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.27242), EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.26170), Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection
+- [arXiv 2026.10](https://arxiv.org/abs/2610.26169), Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22342), Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation, [website](https://xsparkai.com/Spark-0)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.09369), Immiscible Diffusion Policy: Preserving Multimodal Robot Actions through Label-Free Noise Assignment
 - [arXiv 2026.10](https://arxiv.org/abs/2610.08119), AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions
@@ -865,6 +873,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.10](https://openreview.net/forum?id=wH7Wv0nAm8), Bi-Level Motion Imitation for Humanoid Robots, [website](https://sites.google.com/view/bmi-corl2024)
 
 ## Navigation
+- 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.27688), Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10748), TAPNAV: Humanoid Navigation through Tactile Active Perception
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07396), What the Elevation Map Cannot See: Semantic-Aware Locomotion and Execution-Aware Navigation for Humanoid Robot
 - [arXiv 2026.09](https://arxiv.org/abs/2609.38873), DODGER: Safety-Guided Reinforcement Learning for Robot Navigation Among Dynamic Obstacles, [website](https://psh0823.github.io/dodger-homepage)
