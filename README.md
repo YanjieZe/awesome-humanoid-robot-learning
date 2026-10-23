@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.31166), Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation, [website](https://memory-before-goal.github.io)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.30817), Robot Motion Transition with Human Motion Prior, [website](https://childtoy.github.io/STAMP-project)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.30540), Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30044), SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation, [website](https://sp-hlm.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.29169), SMR: Learning streaming motion retargeting for humanoids from human semantic, [website](https://logosroboticsgroup.github.io/SMR/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.28925), One Policy, Many Styles: Where to Aggregate Preferences for Steerable Humanoid Control?
@@ -658,6 +661,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.10](https://arxiv.org/abs/2610.31608), Humanoid Mobility via Attention-based Contacts
+- [arXiv 2026.10](https://arxiv.org/abs/2610.30334), MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30080), Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30061), Test-Time Motion Steering for Perceptive Humanoid Fall Recovery, [website](https://osheraz.github.io/RISE/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.29612), Watch Your Step: Anticipated Perception for Humanoid Locomotion, [website](https://leggedrobotics.github.io/watch-your-step)
@@ -1027,6 +1032,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [TRO 2017](https://ieeexplore.ieee.org/document/7827048), Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high‑bandwidth physical interaction for dynamic legged robots
 
 ## Simulation Benchmark
+- [arXiv 2026.10](https://arxiv.org/abs/2610.30876), LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.10388), RoboQuest: Generalist Physical Agents that Search, Inspect and Test, [website](https://declare-lab.github.io/RoboQuest/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10198), Benchmarking Behavioral Steerability in Behavior Foundation Models
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.07594), BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation
@@ -1162,6 +1168,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2026.10](https://arxiv.org/abs/2610.30500), PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization
 - [arXiv 2026.10](https://arxiv.org/abs/2610.21515), TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13373), PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.03873), Streaming Multi-Track Timeline Control for 3D Human Motion Generation, [website](https://mael-zys.github.io/TimelineControl/)
