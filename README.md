@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.32966), ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback, [website](https://awfuact.github.io/vit-h/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.32909), HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training
+- [arXiv 2026.10](https://arxiv.org/abs/2610.32460), CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying
 - [arXiv 2026.10](https://arxiv.org/abs/2610.31166), Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation, [website](https://memory-before-goal.github.io)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30817), Robot Motion Transition with Human Motion Prior, [website](https://childtoy.github.io/STAMP-project)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30540), Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation
@@ -945,6 +948,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Sim-to-Real
+- [arXiv 2026.10](https://arxiv.org/abs/2610.32277), Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers
 - [arXiv 2026.10](https://arxiv.org/abs/2610.18991), Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control, [website](https://contact-uan.csail.mit.edu/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10905), Informationally Decoupled Trajectory Design for Sim-to-Real System Identification
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30951), Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks, [website](https://bundledcontactgradients.github.io/)
