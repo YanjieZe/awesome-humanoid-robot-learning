@@ -28,6 +28,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.35075), Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data, [website](https://young-bit.github.io/zero-hlm/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.34186), HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience
+- [CoRL 2026](https://arxiv.org/abs/2610.34126), HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model
+- [arXiv 2026.10](https://arxiv.org/abs/2610.33508), MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking
+- [arXiv 2026.10](https://arxiv.org/abs/2610.33446), MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation, [website](https://iiiiqiiii.github.io/motio/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32966), ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback, [website](https://awfuact.github.io/vit-h/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32909), HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32460), CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying
@@ -664,6 +669,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.10](https://arxiv.org/abs/2610.33317), Active Reachability Learning for Humanoid Recoverability Monitoring
 - [arXiv 2026.10](https://arxiv.org/abs/2610.31608), Humanoid Mobility via Attention-based Contacts
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30334), MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30080), Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer
