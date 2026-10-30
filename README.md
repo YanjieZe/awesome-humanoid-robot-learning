@@ -28,6 +28,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.38027), METATRON: A Promptable Whole-Body Execution Layer for Humanoids, [website](https://research.nvidia.com/labs/par/projects/metatron/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36615), Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36507), GRAFT: Geometry-Aware Residual Adaptation for Foundation Trackers, [website](https://graft-humanoid.github.io/)
 - [Humanoids 2026](https://arxiv.org/abs/2610.36452), Whole-Body Humanoid Control via Stochastic Motion Tokenization
@@ -674,6 +675,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [Humanoids 2026](https://arxiv.org/abs/2610.37974), FORGE: Feasible Online Reduced-Order Reference Generation and Whole-Body Execution for Agile Humanoid Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36825), HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour
 - 🌟[Humanoids 2026](https://arxiv.org/abs/2610.36546), REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal, [website](https://aislab-sustech.github.io/REACH/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.33317), Active Reachability Learning for Humanoid Recoverability Monitoring
