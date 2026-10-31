@@ -28,6 +28,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.40003), Humanoid Dodgeball: Learning Fast Dynamic Obstacle Avoidance Motions for Humanoids
+- [arXiv 2026.10](https://arxiv.org/abs/2610.39327), SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU, [website](https://kyry.me/sonic-k1)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.38027), METATRON: A Promptable Whole-Body Execution Layer for Humanoids, [website](https://research.nvidia.com/labs/par/projects/metatron/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36615), Mimetic Embodiment Transfer of Human-Humanoid Interaction from In-the-Wild Videos
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36507), GRAFT: Geometry-Aware Residual Adaptation for Foundation Trackers, [website](https://graft-humanoid.github.io/)
@@ -509,6 +511,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.39044), Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand
 - [arXiv 2026.10](https://arxiv.org/abs/2610.27242), EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.26170), Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection
 - [arXiv 2026.10](https://arxiv.org/abs/2610.26169), Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing
