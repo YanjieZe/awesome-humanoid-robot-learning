@@ -28,6 +28,12 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.00193), Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41877), Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos, [website](https://movens-zero.github.io)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41654), ∇Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41354), DiffWBC: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control, [website](https://diffwbc.github.io/)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41349), Geometry-Aware Humanoid Retargeting via Manifold ODEs
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41334), HIPC: Humanoid Iterative Planning and Control via Goal-Conditioned Motion Closure, [website](https://hipc-humanoid.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.40003), Humanoid Dodgeball: Learning Fast Dynamic Obstacle Avoidance Motions for Humanoids
 - [arXiv 2026.10](https://arxiv.org/abs/2610.39327), SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU, [website](https://kyry.me/sonic-k1)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.38027), METATRON: A Promptable Whole-Body Execution Layer for Humanoids, [website](https://research.nvidia.com/labs/par/projects/metatron/)
@@ -678,6 +684,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.10](https://arxiv.org/abs/2610.42097), ROOF: Learning Humanoid Fall Recovery under Overhead Constraints, [website](https://lu-yidan.github.io/ROOF/)
 - [Humanoids 2026](https://arxiv.org/abs/2610.37974), FORGE: Feasible Online Reduced-Order Reference Generation and Whole-Body Execution for Agile Humanoid Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36825), HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour
 - 🌟[Humanoids 2026](https://arxiv.org/abs/2610.36546), REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal, [website](https://aislab-sustech.github.io/REACH/)
