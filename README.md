@@ -28,6 +28,17 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.03648), Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation, [website](https://pixel-robot.com/pixel)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.03647), Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations, [website](https://pixel-robot.com/pixel-umi)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.02968), ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.02871), ReGATE: Recurrent Gated Visual Fusion for Reactive Humanoid-Object Interaction
+- [arXiv 2026.11](https://arxiv.org/abs/2611.02613), MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking, [website](https://mapo-corl2026.github.io/MAPO/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.02555), Sequential Recovery Updates for Learned Controllers under Successful-Trajectory Preservation
+- [CoRL 2026](https://arxiv.org/abs/2611.02546), Energy-Based Policy Orchestration, [website](https://yewr.github.io/epo)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.01748), CompliantBot: Learning Whole-Body Compliance across Task Interfaces for Humanoid Control
+- [CoRL 2026](https://arxiv.org/abs/2611.01659), HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception, [website](https://xuanbinpeng.com/hug)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.01197), Learning Agile Humanoid Dodgeball with Onboard Monocular Vision
+- [arXiv 2026.11](https://arxiv.org/abs/2611.00951), Why Koopman Structure Does Not Help Differentiable World Models for Humanoid Whole-Body Tracking
 - [arXiv 2026.11](https://arxiv.org/abs/2611.00193), Anchor 1: Precise and Stable Humanoid Control for Whole-Body Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.41877), Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos, [website](https://movens-zero.github.io)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.41654), ∇Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation
