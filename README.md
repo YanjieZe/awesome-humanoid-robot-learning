@@ -28,6 +28,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.05754), GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting, [website](https://computationalrobotics.seas.harvard.edu/GRASP/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.05507), Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation, [website](https://forcectrl.github.io/)
+- [CoRL 2026](https://arxiv.org/abs/2611.05113), HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors
+- [arXiv 2026.11](https://arxiv.org/abs/2611.04839), Coordinating Humanoid Loco-Manipulation through Action-Conditioned Latent Foresight, [website](https://ju6276.github.io/Action-Grounded-Foresight/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.04424), ReflexArc: Bottom-Up Integration of Instantaneous Tactile Reflexes into Whole-Body Humanoid Control, [website](https://minusmodulo.github.io/reflexarc-website/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.03648), Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation, [website](https://pixel-robot.com/pixel)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.03647), Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations, [website](https://pixel-robot.com/pixel-umi)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.02968), ReContact: Reconstruct and Retarget Human Contacts from Video for Contact-Rich Humanoid Manipulation
@@ -528,6 +533,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.05163), RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On, [website](https://ryan-seungyong-lee.github.io/RoboTryOn)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.39044), Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand
 - [arXiv 2026.10](https://arxiv.org/abs/2610.27242), EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.26170), Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection
@@ -924,6 +930,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.10](https://openreview.net/forum?id=wH7Wv0nAm8), Bi-Level Motion Imitation for Humanoid Robots, [website](https://sites.google.com/view/bmi-corl2024)
 
 ## Navigation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.04972), Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.27688), Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10748), TAPNAV: Humanoid Navigation through Tactile Active Perception
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07396), What the Elevation Map Cannot See: Semantic-Aware Locomotion and Execution-Aware Navigation for Humanoid Robot
@@ -1010,6 +1017,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2019.01](https://arxiv.org/abs/1901.08652), Learning Agile and Dynamic Motor Skills for Legged Robots
 
 ## Hardware Design
+- [arXiv 2026.11](https://arxiv.org/abs/2611.05302), PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands
+- [RA-L 2026](https://arxiv.org/abs/2611.04334), RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36789), A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation
 - [Humanoids 2026](https://arxiv.org/abs/2610.29030), PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits
 - [arXiv 2026.10](https://arxiv.org/abs/2610.16604), Design and Analysis of a Nonlinear Parallel Mechanism Coupling for Dynamic Humanoid Legs
