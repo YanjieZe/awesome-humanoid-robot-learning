@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- 🌟[arXiv 2026.11](https://arxiv.org/abs/2611.06908), Perceptive Humanoid Motion from Simulation, [website](https://apple-aiml-research.github.io/ml-halo/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.06564), Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors
+- [arXiv 2026.11](https://arxiv.org/abs/2611.06523), H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control
 - [arXiv 2026.11](https://arxiv.org/abs/2611.05754), GRASP: Gradient-Guided Sampling for Contact-Rich Physics-Based Motion Retargeting, [website](https://computationalrobotics.seas.harvard.edu/GRASP/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.05507), Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation, [website](https://forcectrl.github.io/)
 - [CoRL 2026](https://arxiv.org/abs/2611.05113), HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors
