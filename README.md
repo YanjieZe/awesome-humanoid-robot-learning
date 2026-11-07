@@ -28,6 +28,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [CoRL 2026](https://arxiv.org/abs/2611.08407), Social Humanoid: Socially Responsive Human-Humanoid Interaction, [website](https://von31.github.io/social-humanoid/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08039), HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness, [website](https://hitch.axell.top/)
 - 🌟[arXiv 2026.11](https://arxiv.org/abs/2611.06908), Perceptive Humanoid Motion from Simulation, [website](https://apple-aiml-research.github.io/ml-halo/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.06564), Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors
 - [arXiv 2026.11](https://arxiv.org/abs/2611.06523), H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control
@@ -536,6 +538,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.07712), AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction
 - [arXiv 2026.11](https://arxiv.org/abs/2611.05163), RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On, [website](https://ryan-seungyong-lee.github.io/RoboTryOn)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.39044), Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand
 - [arXiv 2026.10](https://arxiv.org/abs/2610.27242), EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation
@@ -704,6 +707,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08097), STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08056), Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour
 - [arXiv 2026.10](https://arxiv.org/abs/2610.42097), ROOF: Learning Humanoid Fall Recovery under Overhead Constraints, [website](https://lu-yidan.github.io/ROOF/)
 - [Humanoids 2026](https://arxiv.org/abs/2610.37974), FORGE: Feasible Online Reduced-Order Reference Generation and Whole-Body Execution for Agile Humanoid Locomotion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36825), HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour
