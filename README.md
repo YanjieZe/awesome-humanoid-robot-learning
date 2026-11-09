@@ -28,6 +28,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08664), ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing, [website](https://roboforpc.github.io/)
 - [CoRL 2026](https://arxiv.org/abs/2611.08407), Social Humanoid: Socially Responsive Human-Humanoid Interaction, [website](https://von31.github.io/social-humanoid/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08039), HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness, [website](https://hitch.axell.top/)
 - 🌟[arXiv 2026.11](https://arxiv.org/abs/2611.06908), Perceptive Humanoid Motion from Simulation, [website](https://apple-aiml-research.github.io/ml-halo/)
@@ -707,6 +708,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08857), STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08097), STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08056), Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour
 - [arXiv 2026.10](https://arxiv.org/abs/2610.42097), ROOF: Learning Humanoid Fall Recovery under Overhead Constraints, [website](https://lu-yidan.github.io/ROOF/)
