@@ -28,6 +28,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.09605), DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control, [website](https://robbyant-research.github.io/DKWBC/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.09266), SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References, [website](https://tianshuwu.github.io/sugarv2-humanoid/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08664), ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing, [website](https://roboforpc.github.io/)
 - [CoRL 2026](https://arxiv.org/abs/2611.08407), Social Humanoid: Socially Responsive Human-Humanoid Interaction, [website](https://von31.github.io/social-humanoid/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08039), HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness, [website](https://hitch.axell.top/)
@@ -976,6 +978,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2025.07, LOVON: Legged Open-Vocabulary Object Navigator, [website](https://daojiepeng.github.io/LOVON/)
 
 ## State Estimation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.10137), A Unified Inertial Encoder for Human and Humanoid Motion
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.25288), Vision as Proprioception: Estimating Humanoid Robot Pose from Video
 - 🌟[arXiv 2026.09](https://arxiv.org/abs/2609.23610), PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots
 - [arXiv 2026.09](https://arxiv.org/abs/2609.07930), A Multimodal Label Forecasting Method for Aperiodic Visuo-Motor Time Series
