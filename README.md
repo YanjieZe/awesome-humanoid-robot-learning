@@ -28,6 +28,10 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.13370), AHEADance: Anticipatory Humanoid Dance from Streaming Audio
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11554), Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation, [website](https://kimodo-policy.github.io/)
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11127), From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid
+- [arXiv 2026.11](https://arxiv.org/abs/2611.10872), DreamVLA: From Generated Human Motions to Humanoid Vision-Language-Action Policies
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09605), DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control, [website](https://robbyant-research.github.io/DKWBC/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09266), SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References, [website](https://tianshuwu.github.io/sugarv2-humanoid/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08664), ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing, [website](https://roboforpc.github.io/)
@@ -541,6 +545,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [Humanoids 2026](https://arxiv.org/abs/2611.12409), Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11981), Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11854), Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.07712), AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction
 - [arXiv 2026.11](https://arxiv.org/abs/2611.05163), RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On, [website](https://ryan-seungyong-lee.github.io/RoboTryOn)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.39044), Catch It All!: Generalizable Dynamic Catching with a Dexterous Hand
@@ -942,6 +949,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.10](https://openreview.net/forum?id=wH7Wv0nAm8), Bi-Level Motion Imitation for Humanoid Robots, [website](https://sites.google.com/view/bmi-corl2024)
 
 ## Navigation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.12136), LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11665), HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model
 - [arXiv 2026.11](https://arxiv.org/abs/2611.04972), Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.27688), Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10748), TAPNAV: Humanoid Navigation through Tactile Active Perception
@@ -1095,6 +1104,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [TRO 2017](https://ieeexplore.ieee.org/document/7827048), Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high‑bandwidth physical interaction for dynamic legged robots
 
 ## Simulation Benchmark
+- [arXiv 2026.11](https://arxiv.org/abs/2611.10994), RoboMoCap: A Large-Scale Whole-Body Motion Capture Dataset with Egocentric Vision for Robot Learning, [website](https://bitrobot-foundation.github.io/robomocap/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30876), LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.10388), RoboQuest: Generalist Physical Agents that Search, Inspect and Test, [website](https://declare-lab.github.io/RoboQuest/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10198), Benchmarking Behavioral Steerability in Behavior Foundation Models
