@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11](https://arxiv.org/abs/2611.14985), ILA: A Transferable Interface-Level Adapter for Compliant Humanoid Motion Tracking
+- [arXiv 2026.11](https://arxiv.org/abs/2611.14981), From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting
+- [arXiv 2026.11](https://arxiv.org/abs/2611.14049), RedirectMimic: Local Motion Content Redaction for Humanoid Whole-Body Control, [website](https://xiaopeng-whu.github.io/RedirectMimic/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.13370), AHEADance: Anticipatory Humanoid Dance from Streaming Audio
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11554), Kimodo-Policy: Learning Kinematic Action Models for Humanoid Loco-Manipulation, [website](https://kimodo-policy.github.io/)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11127), From Festival Video to the Stage: A Sim-to-Real Ladder for Long-Horizon Expressive Whole-Body Dance on a Commercial Humanoid
@@ -717,6 +720,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11](https://arxiv.org/abs/2611.13929), ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08857), STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08097), STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08056), Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour
