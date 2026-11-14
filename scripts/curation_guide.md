@@ -52,13 +52,12 @@ Pick the single best section; add a second only when the paper is clearly about 
 ## Entry format
 
 ```
-- [arXiv YYYY.MM](https://arxiv.org/abs/<id>), <Title>, [website](<url>)
+- [arXiv YYYY.MM.DD](https://arxiv.org/abs/<id>), <Title>, [website](<url>)
 ```
 
-- `YYYY.MM` comes from the arXiv ID (2605.xxxxx -> 2026.05).
+- Use the arXiv v1 submission date from the candidate’s `published` field. For publisher or project releases, use the date shown by that source at its available precision.
 - Keep the official title; collapse whitespace; turn LaTeX like `$Ψ_0$` into `Ψ₀`.
 - Add `, [website](...)` only if a project page URL appears in the abstract or comment.
 - Prefix `🌟` only if a code URL (e.g. github.com) appears in the abstract or comment.
-- If the comment says the paper was accepted (e.g. "Accepted to CoRL 2026"), use that
-  venue instead of `arXiv YYYY.MM`, e.g. `[CoRL 2026](https://arxiv.org/abs/<id>)`.
-- Insert newest first within a section; same month -> higher arXiv ID first.
+- If the comment says the paper was accepted (e.g. "Accepted to CoRL 2026"), append the venue after the title and keep the dated source link.
+- Insert newest first within a section; same date -> higher arXiv ID first.

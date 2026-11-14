@@ -7,7 +7,7 @@ Usage:
 
 Each JSON file is a list of objects:
   {"id": "2605.12345", "include": true, "sections": ["Locomotion"],
-   "line": "- [arXiv 2026.05](https://arxiv.org/abs/2605.12345), Title"}
+   "line": "- [arXiv 2026.05.16](https://arxiv.org/abs/2605.12345), Title"}
 Entries whose arXiv ID already appears in README.md are skipped. IDs with include=false
 are appended to scripts/excluded_ids.txt so fetch_arxiv.py does not return them again.
 """
@@ -21,19 +21,28 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 EXCLUDED = ROOT / "scripts" / "excluded_ids.txt"
 ID_RE = re.compile(r"arxiv\.org/(?:abs|pdf|html)/(\d{4}\.\d{4,5})")
-MONTH_RE = re.compile(r"^- 🌟?\[[^\]]*?(20\d{2})\.(\d{2})\]")
+DATE_RE = re.compile(r"^- 🌟?\[[^\]]*?(20\d{2})\.(\d{2})(?:\.(\d{2}))?\]")
 
 
-def sort_key(line):
-    """Comparable key: arXiv ID if present, else end of the YYYY.MM month, else None."""
-    m = ID_RE.search(line)
-    if m:
-        yymm, num = m.group(1).split(".")
-        return (int(yymm), int(num))
-    m = MONTH_RE.match(line)
-    if m:
-        return (int(m.group(1)[2:] + m.group(2)), 99999)
+def paper_date(line):
+    """Return the month, optional day, and arXiv sequence used for older entries."""
+    source = ID_RE.search(line)
+    sequence = int(source.group(1).split(".")[1]) if source else 99999
+    date = DATE_RE.match(line)
+    if date:
+        year, month, day = date.groups()
+        return int(year[2:] + month), int(day) if day else None, sequence
+    if source:
+        return int(source.group(1)[:4]), None, sequence
     return None
+
+
+def newer(first, second):
+    if first[0] != second[0]:
+        return first[0] > second[0]
+    if first[1] is not None and second[1] is not None and first[1] != second[1]:
+        return first[1] > second[1]
+    return first[2] > second[2]
 
 
 def section_bounds(lines, name):
@@ -47,11 +56,11 @@ def section_bounds(lines, name):
 
 def insert(lines, section, line):
     lo, hi = section_bounds(lines, section)
-    key = sort_key(line)
+    key = paper_date(line)
     pos = hi
     for i in range(lo, hi):
-        k = sort_key(lines[i])
-        if lines[i].startswith("- ") and k is not None and k < key:
+        k = paper_date(lines[i])
+        if lines[i].startswith("- ") and k is not None and newer(key, k):
             pos = i
             break
     lines.insert(pos, line)

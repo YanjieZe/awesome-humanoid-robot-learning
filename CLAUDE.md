@@ -23,16 +23,16 @@ A curated list of academic papers about **humanoid robot learning**, maintained 
 Each entry follows this format:
 
 ```
-- [<venue> <YYYY.MM>](<url>), <Paper Title>
+- [<source> <YYYY.MM.DD>](<url>), <Paper Title>
 ```
 
 Optional suffixes:
 - `, [website](<project-page-url>)` — if a project page exists
 - `🌟` prefix — if code is open-sourced
 
-**Venue prefix examples:** `arXiv 2026.02`, `ICLR 2026`, `CoRL 2025`, `ICRA 2025`, `website 2025.11`
+**Dates for new entries.** Use the arXiv v1 submission date, for example `arXiv 2026.11.10`. Otherwise use the publisher or project release date at the precision the source provides. Add a confirmed conference name separately when linking to a dated preprint.
 
-**Ordering:** Within each section, entries are sorted by date descending (newest first), then by arXiv ID descending for the same month.
+**Ordering:** Within each section, entries are sorted by date descending (newest first), then by arXiv ID descending for the same date.
 
 **Section choice:** Pick the section that best matches the paper's primary task. A paper may appear in multiple sections if it spans topics (e.g., both Loco-Manipulation and Sim-to-Real).
 
@@ -55,7 +55,7 @@ After adding new papers, automatically commit and push to the remote repository.
 
 ## Daily arXiv Update
 
-A cloud routine runs this every day. To run it by hand:
+The daily paper-list task maintains this repository. To run it by hand:
 
 1. `python3 scripts/fetch_arxiv.py --days 4 -o /tmp/candidates.json` — humanoid papers not yet in README.md or `scripts/excluded_ids.txt`
 2. Judge each candidate with `scripts/curation_guide.md` and write a results JSON
