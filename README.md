@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.17142), FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation, [website](https://bb0928.github.io/forge/)
+- 🌟[arXiv 2026.11.12](https://arxiv.org/abs/2611.16422), BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU, [code](https://github.com/fuyichen0725/blinkmimic)
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.16188), PERA: Plug-in Experts for Robotic Actions in Continual Whole-Body Control
 - [arXiv 2026.11](https://arxiv.org/abs/2611.14985), ILA: A Transferable Interface-Level Adapter for Compliant Humanoid Motion Tracking
 - [arXiv 2026.11](https://arxiv.org/abs/2611.14981), From a Single RGB Image to Robot Execution: Metric Scene Alignment and Contact-Guided Retargeting
 - [arXiv 2026.11](https://arxiv.org/abs/2611.14049), RedirectMimic: Local Motion Content Redaction for Humanoid Whole-Body Control, [website](https://xiaopeng-whu.github.io/RedirectMimic/)
@@ -720,6 +723,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.16346), MotionSkill: From Bipedal Motion Video to Control across Embodiments
 - [arXiv 2026.11](https://arxiv.org/abs/2611.13929), ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08857), STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08097), STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion
@@ -1017,6 +1021,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Sim-to-Real
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15524), Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32277), Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers
 - [arXiv 2026.10](https://arxiv.org/abs/2610.18991), Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control, [website](https://contact-uan.csail.mit.edu/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10905), Informationally Decoupled Trajectory Design for Sim-to-Real System Identification
@@ -1108,6 +1113,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [TRO 2017](https://ieeexplore.ieee.org/document/7827048), Proprioceptive actuator design in the MIT Cheetah: Impact mitigation and high‑bandwidth physical interaction for dynamic legged robots
 
 ## Simulation Benchmark
+- 🌟[arXiv 2026.11.11](https://arxiv.org/abs/2611.15112), Elastra: A Simulation Framework for Elastic Bodies, [code](https://github.com/yichg/elastra)
 - [arXiv 2026.11](https://arxiv.org/abs/2611.10994), RoboMoCap: A Large-Scale Whole-Body Motion Capture Dataset with Egocentric Vision for Robot Learning, [website](https://bitrobot-foundation.github.io/robomocap/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30876), LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.10388), RoboQuest: Generalist Physical Agents that Search, Inspect and Test, [website](https://declare-lab.github.io/RoboQuest/)
@@ -1245,6 +1251,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Human Motion Analysis and Synthesis
+- [arXiv 2026.11.11](https://arxiv.org/abs/2611.15101), CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30500), PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization
 - [arXiv 2026.10](https://arxiv.org/abs/2610.21515), TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13373), PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation
