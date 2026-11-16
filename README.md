@@ -551,6 +551,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.11.13](https://arxiv.org/abs/2611.18491), When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners
 - [Humanoids 2026](https://arxiv.org/abs/2611.12409), Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11981), Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11854), Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation
@@ -723,6 +724,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11.13](https://arxiv.org/abs/2611.18003), Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16346), MotionSkill: From Bipedal Motion Video to Control across Embodiments
 - [arXiv 2026.11](https://arxiv.org/abs/2611.13929), ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08857), STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards
@@ -957,6 +959,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.10](https://openreview.net/forum?id=wH7Wv0nAm8), Bi-Level Motion Imitation for Humanoid Robots, [website](https://sites.google.com/view/bmi-corl2024)
 
 ## Navigation
+- [arXiv 2026.11.12](https://arxiv.org/abs/2611.17598), X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot
 - [arXiv 2026.11](https://arxiv.org/abs/2611.12136), LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11665), HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model
 - [arXiv 2026.11](https://arxiv.org/abs/2611.04972), Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture
