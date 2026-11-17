@@ -28,6 +28,9 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ---
 
 ## Loco-Manipulation and Whole-Body-Control
+- [arXiv 2026.11.16](https://arxiv.org/abs/2611.20791), QTOP: Scaling Humanoid Motion Tracking with Quantile Critics
+- [arXiv 2026.11.16](https://arxiv.org/abs/2611.20452), XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute
+- [arXiv 2026.11.14](https://arxiv.org/abs/2611.19196), Ego2Sim2Humanoid: Agentic Real-to-Sim for Learning Loco-Manipulation VLAs without Robot Demonstrations, [website](https://robonana.github.io/ego2sim2humanoid/)
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.17142), FORGE: Force-Aware Multi-Granularity Control for Efficient Humanoid Loco-Manipulation, [website](https://bb0928.github.io/forge/)
 - 🌟[arXiv 2026.11.12](https://arxiv.org/abs/2611.16422), BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU, [code](https://github.com/fuyichen0725/blinkmimic)
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16188), PERA: Plug-in Experts for Robotic Actions in Continual Whole-Body Control
@@ -551,6 +554,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.11.13](https://arxiv.org/abs/2611.18976), TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18491), When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners
 - [Humanoids 2026](https://arxiv.org/abs/2611.12409), Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11981), Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation
@@ -660,6 +664,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [1999](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(99)01327-3), Is imitation learning the route to humanoid robots?
 
 ## Teleoperation
+- [arXiv 2026.11.15](https://arxiv.org/abs/2611.19998), MoViC: Real-Time Humanoid Whole-Body Control from Monocular Video Streams, [website](https://movicproject.github.io/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.29903), HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking, [website](https://xiaohu-art.github.io/Track/)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.24257), Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation, [website](https://xrt-teleop.github.io)
 - [arXiv 2026.10](https://arxiv.org/abs/2610.07891), Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives
@@ -724,6 +729,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11.16](https://arxiv.org/abs/2611.20888), Driving the Style: Velocity-Conditioned Whole-Body Control from Motion Demonstrations
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18003), Reusing Locomotion Training Recipes Across Humanoids via Body-Aligned Virtual Joints
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.16346), MotionSkill: From Bipedal Motion Video to Control across Embodiments
 - [arXiv 2026.11](https://arxiv.org/abs/2611.13929), ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads
@@ -1024,6 +1030,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Sim-to-Real
+- [arXiv 2026.11.14](https://arxiv.org/abs/2611.19616), Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots
 - [arXiv 2026.11.11](https://arxiv.org/abs/2611.15524), Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32277), Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers
 - [arXiv 2026.10](https://arxiv.org/abs/2610.18991), Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control, [website](https://contact-uan.csail.mit.edu/)
@@ -1051,6 +1058,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2019.01](https://arxiv.org/abs/1901.08652), Learning Agile and Dynamic Motor Skills for Legged Robots
 
 ## Hardware Design
+- [arXiv 2026.11.16](https://arxiv.org/abs/2611.20950), ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression
 - [arXiv 2026.11](https://arxiv.org/abs/2611.05302), PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands
 - [RA-L 2026](https://arxiv.org/abs/2611.04334), RAIPAL: A Powerful and Agile Humanoid Arm for Human Tasks
 - [arXiv 2026.10](https://arxiv.org/abs/2610.36789), A fully articulated humanoid dexterous hand with human-level joint structure enabled by linkage-based actuation
@@ -1171,6 +1179,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Physics-Based Character Animation
 - [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
+- [arXiv 2026.11.14](https://arxiv.org/abs/2611.19153), ImpedanceMimic: Learned Impedance as Action Space for Force-Accurate Motion Imitation, [website](https://impedancemimic.github.io/ImpedanceMimic/)
 - [CoRL 2026](https://arxiv.org/abs/2610.18147), Walk Like This: Stylized Locomotion for Physics-Based Characters through Example-Driven Diffusion
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.14911), Scalable Multi-Human Cooperative Manipulation via Commander-Executor Coordination
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10322), From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators
