@@ -31,6 +31,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [CoRL 2026.11](https://openreview.net/forum?id=93leGzRaPV), InfiniDanceRobot: A Streaming and Closed-Loop Music-driven Dance Generation for Humanoid Robot
 - [CoRL 2026.11](https://openreview.net/forum?id=qF26obIUEX), EVOLVE: Egocentric Vision-based Humanoid Loco-Manipulation via Demonstration Editing
 - [CoRL 2026.11](https://openreview.net/forum?id=wALhOwQWnx), Learning Functional Compliance in Whole-body Manipulation
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27648), Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27552), S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27397), AnyBodyCodec: A Shared Native Interface for Body-Model Conversion, Extension, and Humanoid Control
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27338), Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers, [website](https://latent-jacobian-steer.github.io/)
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27047), BeyondEgo: Learning to Act Beyond Egocentric Perception via Humanoid Ego-Exo Foresight
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26596), PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation, [website](https://kl-research.github.io/pgx)
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26420), Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience, [website](https://engineai-robotics.github.io/Awaken-HI), [code](https://github.com/engineai-robotics/Awaken-HI)
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.25778), ECHO: In-Context Behavior foundation model for Humanoid Whole-Body Control, [website](https://mwondering.github.io/echo-bfm/)
@@ -985,6 +990,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.10](https://openreview.net/forum?id=wH7Wv0nAm8), Bi-Level Motion Imitation for Humanoid Robots, [website](https://sites.google.com/view/bmi-corl2024)
 
 ## Navigation
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27939), What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27499), NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation, [website](https://daiguangzhao.github.io/NavRSI/)
 - [arXiv 2026.11.12](https://arxiv.org/abs/2611.17598), X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot
 - [arXiv 2026.11](https://arxiv.org/abs/2611.12136), LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data
 - [arXiv 2026.11](https://arxiv.org/abs/2611.11665), HINT-VLM: Humanoid Interactive Navigation over Rough Terrain with Embodiment-Grounded Vision-Language Model
@@ -1024,6 +1031,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2025.07, LOVON: Legged Open-Vocabulary Object Navigator, [website](https://daojiepeng.github.io/LOVON/)
 
 ## State Estimation
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27181), HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots
 - [arXiv 2026.11](https://arxiv.org/abs/2611.10137), A Unified Inertial Encoder for Human and Humanoid Motion
 - 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.25288), Vision as Proprioception: Estimating Humanoid Robot Pose from Video
 - 🌟[arXiv 2026.09](https://arxiv.org/abs/2609.23610), PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots
@@ -1202,6 +1210,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) / [website](https://genesis-embodied-ai.github.io/)
 
 ## Physics-Based Character Animation
+- [arXiv 2026.11.20](https://arxiv.org/abs/2611.27603), Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26218), MixReact: Physics-Based Reactive Humanoid Control from Multimodal Cues via a Discrete-Continuous Mixture of Transformers, [website](https://binlee26.github.io/MixReact_Page/)
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.23825), Learning Martial Arts Motion Skills for Animating Opponents in VR Sparring Games
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19153), ImpedanceMimic: Learned Impedance as Action Space for Force-Accurate Motion Imitation, [website](https://impedancemimic.github.io/ImpedanceMimic/)
