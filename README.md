@@ -31,6 +31,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [CoRL 2026.11](https://openreview.net/forum?id=93leGzRaPV), InfiniDanceRobot: A Streaming and Closed-Loop Music-driven Dance Generation for Humanoid Robot
 - [CoRL 2026.11](https://openreview.net/forum?id=qF26obIUEX), EVOLVE: Egocentric Vision-based Humanoid Loco-Manipulation via Demonstration Editing
 - [CoRL 2026.11](https://openreview.net/forum?id=wALhOwQWnx), Learning Functional Compliance in Whole-body Manipulation
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.30632), GeoMerge-OPD: Balanced Skill Integration in Vision-Language-Action Models
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.30449), CHAMP: Coordinated Humanoid Loco-Manipulation with Whole-Body Motion Priors
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.30077), PushMimic: Learning Adaptive Humanoid Box Pushing via Dynamic Motion Augmentation and Reference Distillation, [website](https://silvery107.github.io/pushmimic/)
+- [arXiv 2026.11.22](https://arxiv.org/abs/2611.29771), Into My Arms: Structured reinforcement learning for autonomous transport of objects and humans, [website](https://elle-miller.github.io/into_my_arms)
+- 🌟[arXiv 2026.11.22](https://arxiv.org/abs/2611.29277), ζ₀: A Framework for World Action Models with Joint Scene and Body Foresight in Humanoid Control, [website](https://chenyizhi123.github.io/zeta0-project/), [code](https://github.com/chenyizhi123/Zeta0)
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27648), Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27552), S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27397), AnyBodyCodec: A Shared Native Interface for Body-Model Conversion, Extension, and Humanoid Control
@@ -1086,6 +1091,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [arXiv 2019.01](https://arxiv.org/abs/1901.08652), Learning Agile and Dynamic Motor Skills for Legged Robots
 
 ## Hardware Design
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.29868), Arcadian: Open-Source Humanoid Ecosystem for Accessible and Customizable Research and Education, [website](https://arcadian-humanoid.github.io/)
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24279), QDD-MM: A Simple and Compact Open-Source Muscle Module with Quasi-Direct-Drive Motor for Tendon-driven Robots, [code](https://github.com/haraduka/qddmm)
 - [arXiv 2026.11.16](https://arxiv.org/abs/2611.20950), ROSE: A Shared Cross-Embodiment Facial-Motion Latent Space for Humanoid Robot Expression
 - [arXiv 2026.11](https://arxiv.org/abs/2611.05302), PACT: Pose-Robust Actuation Co-Design for Tendon-Driven Robotic Hands
@@ -1210,6 +1216,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) / [website](https://genesis-embodied-ai.github.io/)
 
 ## Physics-Based Character Animation
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.30312), One Policy, Many Bodies: Cooperative Human-Object Interaction with Heterogeneous Teams
+- [arXiv 2026.11.22](https://arxiv.org/abs/2611.29749), CarlHOI: Counterfactual Predictive Imagination for Generalizable Multi-Humanoid Object Interaction under Constrained Environments, [website](https://carlhoi.github.io)
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27603), Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26218), MixReact: Physics-Based Reactive Humanoid Control from Multimodal Cues via a Discrete-Continuous Mixture of Transformers, [website](https://binlee26.github.io/MixReact_Page/)
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.23825), Learning Martial Arts Motion Skills for Animating Opponents in VR Sparring Games
@@ -1298,6 +1306,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 - [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
 ## Human Motion Analysis and Synthesis
+- 🌟[arXiv 2026.11.23](https://arxiv.org/abs/2611.29897), Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control, [website](https://aigeeksgroup.github.io/MotionMamba2.0), [code](https://github.com/AIGeeksGroup/MotionMamba2.0)
 - 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.25801), Fast and Accurate Body Estimation in Pixels, World Space and Scenes, [website](https://www.jinkuncao.com/FAB), [code](https://github.com/noahcao/FAB)
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.25005), Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback, [website](https://ryenhails.github.io/Inhabitant/)
 - [arXiv 2026.11.11](https://arxiv.org/abs/2611.15101), CFGComposer: Compositional Audio-Text-to-Motion Generation via Copula Score Correction
