@@ -31,6 +31,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [CoRL 2026.11](https://openreview.net/forum?id=93leGzRaPV), InfiniDanceRobot: A Streaming and Closed-Loop Music-driven Dance Generation for Humanoid Robot
 - [CoRL 2026.11](https://openreview.net/forum?id=qF26obIUEX), EVOLVE: Egocentric Vision-based Humanoid Loco-Manipulation via Demonstration Editing
 - [CoRL 2026.11](https://openreview.net/forum?id=wALhOwQWnx), Learning Functional Compliance in Whole-body Manipulation
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.32944), DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.32665), DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.32642), BARE: Body-Aware Reflexive Evasion for Humanoid Robots
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.32260), EgoLoAF: Learning Humanoid Loco-Manipulation from Egocentric Demonstrations with Hand-Object Affordances, [repository](https://github.com/EgoLoAF/EgoLoAF-Official)
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.31863), Ada-BFM: Adapting Behavior Foundation Models for Humanoid Scene Interaction
 - [arXiv 2026.11.23](https://arxiv.org/abs/2611.30632), GeoMerge-OPD: Balanced Skill Integration in Vision-Language-Action Models
 - [arXiv 2026.11.23](https://arxiv.org/abs/2611.30449), CHAMP: Coordinated Humanoid Loco-Manipulation with Whole-Body Motion Priors
 - [arXiv 2026.11.23](https://arxiv.org/abs/2611.30077), PushMimic: Learning Adaptive Humanoid Box Pushing via Dynamic Motion Augmentation and Reference Distillation, [website](https://silvery107.github.io/pushmimic/)
