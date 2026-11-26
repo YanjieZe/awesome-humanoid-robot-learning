@@ -31,6 +31,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [CoRL 2026.11](https://openreview.net/forum?id=93leGzRaPV), InfiniDanceRobot: A Streaming and Closed-Loop Music-driven Dance Generation for Humanoid Robot
 - [CoRL 2026.11](https://openreview.net/forum?id=qF26obIUEX), EVOLVE: Egocentric Vision-based Humanoid Loco-Manipulation via Demonstration Editing
 - [CoRL 2026.11](https://openreview.net/forum?id=wALhOwQWnx), Learning Functional Compliance in Whole-body Manipulation
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.33828), Learning a Whole-Body Pivot-Walking Gait for Heavy-Box Transport with a Humanoid
 - [arXiv 2026.11.24](https://arxiv.org/abs/2611.32944), DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking
 - [arXiv 2026.11.24](https://arxiv.org/abs/2611.32665), DiffGR00T: Execution-Aware Differentiable Training for Humanoid Whole-Body Vision-Language-Action Models
 - [arXiv 2026.11.24](https://arxiv.org/abs/2611.32642), BARE: Body-Aware Reflexive Evasion for Humanoid Robots
@@ -580,6 +581,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - [2024.08](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/), VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters, [website](https://la.disneyresearch.com/publication/vmp-versatile-motion-priors-for-robustly-tracking-motion-on-physical-characters/)
 - [2024.07](https://la.disneyresearch.com/publication/robot-motion-diffusion-model-motion-generation-for-robotic-characters/), Robot Motion Diffusion Model: Motion Generation for Robotic Characters,
 ## Manipulation
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34884), FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation, [code](https://github.com/zyjOrz/FineDex)
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34675), RoboEvo²: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.24940), Z-sight: Unifying Vision-Language-Action and Latent World Modeling, [website](https://junjieye.com/Z-sight/)
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18976), TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation
 - [arXiv 2026.11.13](https://arxiv.org/abs/2611.18491), When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners
@@ -758,6 +761,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Locomotion
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34569), Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain, [website](https://fly-pigTH.github.io/wave_rider/)
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.33407), An Adversarial Multi-Agent Pursuit Game for Locomotor Agility Pretraining
 - 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.26074), Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network, [code](https://github.com/fatima-at/Bio_SNN_h12)
 - [arXiv 2026.11.19](https://arxiv.org/abs/2611.26054), Reference-Free Humanoid Skateboarding via Termination-Shaped Reinforcement Learning, Humanoids 2026
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.23916), ReLoco: Unified Humanoid Locomotion and Fall Recovery via Behavior-Conditioned Motion Priors
@@ -1068,6 +1073,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 
 ## Sim-to-Real
+- [arXiv 2026.11.23](https://arxiv.org/abs/2611.30784), Beyond Domain Randomization: Real-World Policy Adaptation in Learned Dynamics for Legged Robots
 - [arXiv 2026.11.14](https://arxiv.org/abs/2611.19616), Towards Probabilistically Safe Reinforcement Learning: Theory and Deployment on Humanoid and Aerial Robots
 - [arXiv 2026.11.11](https://arxiv.org/abs/2611.15524), Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32277), Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers
@@ -1221,6 +1227,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 - arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) / [website](https://genesis-embodied-ai.github.io/)
 
 ## Physics-Based Character Animation
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.33460), Fast Muscle-Driven Whole-Body Motion Tracking with a Differentiable World Model, [website](https://muscle-supermimic.beanpow.top)
+- [arXiv 2026.11.24](https://arxiv.org/abs/2611.33011), MESSI: Multi-Expert Soccer Skill Integration for Physics-Based Character Control
 - [arXiv 2026.11.23](https://arxiv.org/abs/2611.30312), One Policy, Many Bodies: Cooperative Human-Object Interaction with Heterogeneous Teams
 - [arXiv 2026.11.22](https://arxiv.org/abs/2611.29749), CarlHOI: Counterfactual Predictive Imagination for Generalizable Multi-Humanoid Object Interaction under Constrained Environments, [website](https://carlhoi.github.io)
 - [arXiv 2026.11.20](https://arxiv.org/abs/2611.27603), Synthesizing Expressive Human-Object Interactions via Test-time Latent Adaptation
@@ -1311,6 +1319,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 - [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
 ## Human Motion Analysis and Synthesis
+- [arXiv 2026.11.25](https://arxiv.org/abs/2611.34519), AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing
 - 🌟[arXiv 2026.11.23](https://arxiv.org/abs/2611.29897), Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control, [website](https://aigeeksgroup.github.io/MotionMamba2.0), [code](https://github.com/AIGeeksGroup/MotionMamba2.0)
 - 🌟[arXiv 2026.11.19](https://arxiv.org/abs/2611.25801), Fast and Accurate Body Estimation in Pixels, World Space and Scenes, [website](https://www.jinkuncao.com/FAB), [code](https://github.com/noahcao/FAB)
 - [arXiv 2026.11.18](https://arxiv.org/abs/2611.25005), Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback, [website](https://ryenhails.github.io/Inhabitant/)
